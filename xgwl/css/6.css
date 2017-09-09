@@ -1,0 +1,25 @@
+.toped{height:500px;background:url("../img/6/ed.jpg") center top;}
+
+.part1{background:#fff;padding-bottom:60px;padding-top:60px;min-height:600px;}
+.cases li{margin-bottom:80px;}
+.pic{float:left;border:1px solid #ebebeb;margin-right:15px;}
+.info{float:left;}
+.tit{font-size:18px;color:#333;display:block;margin-bottom:10px;}
+.txt{line-height:180%;color:#666;}
+.ibtn{display:block;margin-top:10px;color:#39a1ff;}
+h1{font-size:40px;color:#333;font-weight:100;margin-bottom:40px;}
+.sum{border:1px #ebebeb solid;background:#f7f7f7;height:204px;padding:50px;padding-left:260px;position:relative;line-height:200%;}
+.sum .pic{border:0px;border-right:1px #ebebeb solid;margin-right:10px;position:absolute;top:0;left:0;}
+.sum .pic img{}
+.sum p{font-size:16px;}
+.sum .com{float:right;font-size:16px;}
+.main{line-height:200%;padding-top:50px;}
+@media (max-width:768px){
+    .pic{margin-bottom:15px;}
+    .tit{display:block;width:100%;font-size:16px;}
+    .txt{display:block;width:100%;font-size:14px;}
+    .sum p{font-size:14px;}
+    .sum{padding:10px;padding-left:220px;}
+    h1{padding-left:15px;padding-right:15px;}
+    .main{padding:50px 15px;}
+}

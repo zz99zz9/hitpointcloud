@@ -1,0 +1,43 @@
+.toped{height:500px;background:url("../img/9/ed.jpg") center top;}
+.toped h5{font-size:60px;margin-bottom:60px;}
+.toped .txt{padding-left:30px;}
+.toped .edbor{padding:35px 60px;background:rgba(255,255,255,0.2);border:1px solid #fff;color:#fff;font-size:22px;margin-right:30px;}
+.toped .edbor:hover{background:rgba(255,255,255,0.5);}
+.txt{line-height:200%;}
+.part1{background:#fff;padding-bottom:60px;padding-top:60px;}
+
+h2{margin-top:0;font-size:24px;color:#333;font-weight:300;}
+h3{font-size:17px;font-weight:bold;color:#333;text-align:left;margin:0;line-height:200%;}
+.kl{background:#f7f7f7;padding-top:20px;width:285px;text-align:center;padding-bottom:15px;display:block;}
+.kl:hover{background:#f1f1f1;}
+.kl img{border:1px #fff solid;margin-bottom:25px;}
+.kl .txt{padding-left:25px;padding-right:25px;line-height:150%;color:#666;}
+.kl .klbtn{line-height:200%;text-align:center;color:#39a1ff;}
+.kl .klbtn:hover{margin-left:5px;}
+.kl .klbtn .more-arr{margin-left:0;}
+.kl .klbtn:hover .more-arr{margin-left:5px;}
+/*新闻列表*/
+.newslist{}
+.newslist li{border-bottom:1px dashed #e6e6e6;padding-top:20px;padding-bottom:20px;position:relative;}
+
+.newslist li .info .h3{font-size:18px;color:#333;font-weight:100;}
+.newslist li .info .h3:hover{color:#39a1ff;}
+.newslist li .info{padding-top:10px;}
+.newslist li .info .ntime{font-size:12px;color:#999;line-height:40px;}
+.newslist li .info .txt{font-size:14px;color:#666;}
+.newslist li .info .nbtn{color:#39a1ff;}
+.pn{background:#f7f7f7;height:50px;line-height:50px;padding-left:15px;padding-right:15px;margin-top:25px;margin-bottom:25px;}
+.n{float:right;}
+@media (max-width:768px){
+    .kl{margin-bottom:25px;width:100%;padding:0;min-height:320px;}
+    .kl img{width:100%;}
+    .newslist li .info{width:100%;}
+    .newslist li a img{width:100%;}
+    .pn{height:100px;}
+    .n{float:left;}
+}
+@media (min-width:768px){
+    .newslist li a img{width:380px;height:282px;}
+    .newslist li .info{width:800px;float:right;}
+
+}

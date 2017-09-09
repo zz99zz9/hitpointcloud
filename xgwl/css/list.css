@@ -1,0 +1,73 @@
+/**************************/
+/*       全站ico通用        */
+/**************************/
+.pico{background:url(../img/p.png);}
+.pico-mag{width:16px;height:16px;display:block;background-position:50px 16px;float:left;margin-right:10px;margin-top:6px;}
+.pico-cn{width:16px;height:16px;display:block;background-position:16px 16px;float:left;margin-right:10px;}
+.pico-en{width:16px;height:16px;display:block;background-position:33px 16px;float:left;margin-right:10px;}
+/************************/
+/*       ico           */
+/************************/
+.stico{background:url("../img/servicetools.png");width:150px;height:150px;display:block;margin-left:auto;margin-right:auto;border-radius:75px;}
+.stico1{background-position:585px 135px;}
+.stico2{background-position:435px 135px;}
+.stico3{background-position:285px 135px;}
+.stico4{background-position:135px 135px;}
+/***********************/
+/*      底部snsico    */
+/**********************/
+.fsico{background:url("../img/fsns.png");width:34px;height:34px;display:block;float:left;margin-right:25px;}
+.fsico1{background-position:136px 34px;}
+.fsico2{background-position:102px 34px;}
+.fsico3{background-position:68px 34px;}
+.fsico4{background-position:34px 34px;}
+/***********************/
+/*      底部fcontact    */
+/**********************/
+.fcico{background:url("../img/fcontact.png");display:block;position:absolute;left:0;top:2px;}
+.fctel{background-position:46px 17px;width:16px;height:17px;}
+.fcmail{background-position:29px 17px;width:16px;height:14px;}
+.fcaddress{background-position:12px 17px;width:12px;height:17px;margin-left:3px;}
+/***********************/
+/*      右边sidebar     */
+/**********************/
+.rtico{background:url("../img/rtools.png");display:block;}
+.rtico1{background-position:108px 20px;width:22px;height:19px;}
+.rtico2{background-position:85px 20px;width:17px;height:19px;}
+.rtico3{background-position:65px 19px;width:22px;height:17px;}
+.rtico4{background-position:40px 20px;width:19px;height:20px;}
+.rtico5{background-position:19px 19px;width:19px;height:18px;}
+    /*列表通用遮罩及按钮*/
+.bgmask{background:rgba(0,0,0,0.6);width:100%;height:100%;opacity:0;position:absolute;top:0;left:0;display:block;filter:Alpha(opacity=0);}
+.bgmask2{width:100%;height:100%;position:absolute;left:0;top:0;background:rgba(204,0,0,0.8);filter:Alpha(opacity=0);opacity:0;}
+.xgbtn{border-radius:4px;display:block;border:1px #fff solid;position:absolute;bottom: 15%;left:50%;padding:2px 25px;color:#fff;z-index:2;margin-left: -70px;}
+.xgbtn .more-arr{margin-left:3px;}
+.xgbtn:hover .more-arr{margin-left:8px;}
+.xgbtn2{border-radius:4px;display:block;border:1px #fff solid;position:absolute;bottom:30px;left:50%;padding:6px 15px;color:#fff;z-index:2;margin-top:-17px;margin-left:-50px;}
+.xgbtn2:hover{color:#fff;}
+.xgbtn2:hover .more-arr{margin-left:5px;}
+.xgbtn3{color:#bf0000;}
+.xgbtn3:hover{color:#fb0000;}
+.xgbtn3:hover .more-arr{margin-left:5px;}
+.xgbtn4{color:#fff;background:#bf0000;padding:5px 10px;border-radius:4px;display:block;width:100px;}
+.xgbtn4:hover{color:#fff;background:#fb0000;}
+.xgbtn4:hover .more-arr{margin-left:5px;}
+a .more-arr{margin-left:3px;}
+a:hover .more-arr{margin-left:8px;}
+/*3 bigico*/
+.b3ico{background:url("../img/3/ico.png");height:100px;width:100px;margin-left:-50px;margin-top:-50px;display:block;position:absolute;left:50%;top:50%;z-index:2;}
+.b3ico1{background-position:500px 200px;}
+.b3ico2{background-position:400px 200px;}
+.b3ico3{background-position:300px 200px;}
+.b3ico4{background-position:200px 200px;}
+.b3ico5{background-position:100px 200px;}
+.b3ico6{background-position:500px 100px;}
+.b3ico7{background-position:400px 100px;}
+.b3ico8{background-position:300px 100px;}
+.b3ico9{background-position:200px 100px;}
+.b3ico10{background-position:100px 100px;}
+@media (min-width:768px){
+
+
+}
+

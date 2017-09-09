@@ -1,0 +1,26 @@
+.toped{height:90px;background:#000;}
+.part1{padding:80px 0 !important;background:#fff;}
+.part1 .col-md-7 img{max-width:100%;margin-bottom:25px;}
+.part1 .col-md-5 .lybor{border:1px #ccc solid;background:#f7f7f7;}
+.part1 .col-md-5 .lybor h3{font-size:26px;font-weight:100;text-align:center;padding-top:40px;padding-bottom:20px;color:#303030;margin:0;line-height:26px;}
+.part1 .col-md-5 .lybor .err{height:20px;display:block;color:#bf0000;font-size:12px;border:0;background:#f7f7f7;padding:0;}
+.part1 .col-md-5 .lybor .form-control{width:330px;margin-left:70px;}
+.part1 .col-md-5 .lybor .btn{height:60px;padding:0;display:block;background-color: #00a2ff;color:#fff;font-size:20px;line-height:60px;border-radius:4px;}
+.part1 .col-md-5 .lybor .btn:hover{background-color:#258eff;}
+.part1 .col-md-5 .lybor .txt{font-size:10px;color:#666;line-height:150%;border:0;background:#f7f7f7;padding:0;padding-top:10px;margin-bottom:40px;display:block;position:relative;}
+.part1 .col-md-5 .lybor .txt .star{position:absolute;left:-10px;top:13px;}
+
+/*搜索*/
+.searchbox{height:145px;padding-top:50px;border-bottom:1px solid #e7e7e7;position:relative;background:#fff;}
+.searchint{width:500px;height:45px;border:1px solid #b4b4b4;padding-left:10px;padding-right:10px;}
+.searchbtn{position:absolute;top:60px;left:710px;filter:invert(0.5);}
+.searchbtn:hover{position:absolute;top:60px;left:710px;filter:invert(0.8);}
+.newslist{margin-top:-40px;}
+.newslist li{padding-top:40px;padding-bottom:40px;border-bottom:1px #e7e7e7 dashed;}
+.newslist li .h3{font-size:18px;color:#26a8e2;font-weight:100;}
+.newslist li .h3:hover{color:#006dcc;}
+.newslist li .txt{font-size:14px;color:#666;margin-top:10px;}
+.searchbox .stxt{font-size:14px;color:#666;margin-top:15px;}
+@media (max-width:768px){
+    .part1 .col-md-5 .lybor .form-control{width:80%;margin-left:10%;}
+}

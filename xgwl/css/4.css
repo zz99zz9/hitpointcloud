@@ -1,0 +1,12 @@
+.toped{height:500px;background:url("../img/4/ed.jpg") center top;}
+
+.part1{background:#f7f7f7;padding-bottom:60px;padding-top:60px;}
+.part2{background:#fff;padding-bottom:60px;padding-top:60px;}
+.co5{position:absolute;top:0;left:0;width:550px;box-shadow:0px 0px 18px rgba(0, 0, 0, 0.2);}
+.co6{position:absolute;top:35px;left:25px;width:550px;box-shadow:0px 0px 18px rgba(0, 0, 0, 0.2);}
+h2{margin-top:60px;}
+.col-md-6{padding-bottom:20px;}
+@media (max-width:768px){
+
+
+}

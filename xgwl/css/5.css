@@ -1,0 +1,14 @@
+.toped{height:500px;background:url("../img/5/ed.jpg") center top;}
+
+.part1{background:#f7f7f7;padding-bottom:60px;padding-top:60px;min-height:600px;}
+.part2{background:#fff;padding-bottom:60px;padding-top:60px;min-height:600px;}
+
+.co5{position:absolute;top:0;left:0;width:550px;/*box-shadow:0px 0px 18px rgba(0, 0, 0, 0.2);*/}
+.co6{position:absolute;top:35px;left:25px;width:550px;}
+h2{margin-top:120px;}
+.col-md-6{padding-bottom:20px;}
+@media (max-width:768px){
+    .col-md-6{min-height:200px;}
+    .co5,.co6{width:80%;margin-left:10%;}
+    h2{margin-top:0px;}
+}
