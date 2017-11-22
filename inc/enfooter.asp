@@ -83,7 +83,28 @@
         <div class="container">
         <div class="row">
         <p>
-        Links：<a href="http://www.funacc.com/" target="_blank">FunAcc</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funacc.com/" target="_blank">FunAcc</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funacc.com/" target="_blank">FunAcc</a><br>Copyright © 2016-2017 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
+        Links：<%Set prs= Server.CreateObject("ADODB.Recordset")
+        psql="select top 5 * From [links] where wid=6 order by oid desc,ID desc"
+        prs.open psql,conn,1,1
+        i=0%>
+        <%do while not prs.eof
+
+        if i=0 then
+        kong=""
+        else
+        kong="&nbsp;&nbsp;|&nbsp;&nbsp;"
+        end if
+       %>
+       <%=kong%><a href="<%=prs("url")%>" target="_blank"><%=prs("stit")%></a>
+    
+         <%
+        	i=i+1
+
+        	     prs.movenext
+        	loop
+        prs.close
+        set prs=nothing
+        %><br>Copyright © 2016-2017 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
         </p>
         </div>
         </div>
