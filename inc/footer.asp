@@ -86,7 +86,7 @@
         <div class="row">
         <p>
         友情链接：<%Set prs= Server.CreateObject("ADODB.Recordset")
-        psql="select top 5 * From [links] where wid=1 order by oid desc,ID desc"
+        psql="select top 5 * From [links] where wid=5 order by oid desc,ID desc"
         prs.open psql,conn,1,1
         i=0%>
         <%do while not prs.eof
