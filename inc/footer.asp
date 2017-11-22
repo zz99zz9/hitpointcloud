@@ -85,7 +85,28 @@
         <div class="container">
         <div class="row">
         <p>
-        友情链接：<a href="#">快乐加财税云</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">快乐加财税云</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#">快乐加财税云</a><br>Copyright © 2016-2017 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备12043419号-1</a>
+        友情链接：<%Set prs= Server.CreateObject("ADODB.Recordset")
+        psql="select top 5 * From [links] where wid=1 order by oid desc,ID desc"
+        prs.open psql,conn,1,1
+        i=0%>
+        <%do while not prs.eof
+
+        if i=0 then
+        kong=""
+        else
+        kong="&nbsp;&nbsp;|&nbsp;&nbsp;"
+        end if
+       %>
+       <%=kong%><a href="<%=prs("url")%>" target="_blank"><%=prs("stit")%></a>
+    
+         <%
+        	i=i+1
+
+        	     prs.movenext
+        	loop
+        prs.close
+        set prs=nothing
+        %><br>Copyright © 2016-2017 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. <a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备12043419号-1</a>
         </p>
         </div>
         </div>

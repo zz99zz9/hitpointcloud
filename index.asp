@@ -19,8 +19,6 @@ tdkid=1
             <li data-target="#carousel-example-generic" data-slide-to="3"></li>
             <li data-target="#carousel-example-generic" data-slide-to="4"></li>
         </ol>
-
-
         <div class="carousel-inner" role="listbox">
 
 <%Set prs= Server.CreateObject("ADODB.Recordset")
