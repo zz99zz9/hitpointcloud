@@ -137,6 +137,8 @@
                               <li class="nav8-2"><a class="" href="links.asp?c=2">首页英文广告</a></li>
                               <li class="nav8-3"><a class="" href="links.asp?c=3">获取演示中文</a></li>
                               <li class="nav8-4"><a class="" href="links.asp?c=4">获取演示英文</a></li>
+                              <li class="nav8-5"><a class="" href="links.asp?c=5">中文友情链接</a></li>
+                              <li class="nav8-6"><a class="" href="links.asp?c=6">英文友情链接</a></li>
                           </ul>
                       </li>
                   <li>
