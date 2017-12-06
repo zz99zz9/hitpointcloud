@@ -1,4 +1,4 @@
-/*广告部份*/
+/*å¹¿å‘Šéƒ¨ä»½*/
 .toped{background-image:url("../img/hqs/bg1.jpg");padding:0 0 100px 0;height:2222px;background-size:cover;background-position:center;color:#000;}
 .edinfo{color:#fff;text-align:center;font-size:20px;padding-top:220px;line-height:180%;}
 .edinfo .atit{font-size:30px;color:#fff;text-align:center;display:block;margin-bottom:40px;}
@@ -14,7 +14,7 @@
 .toped .p1-1{margin-top:50px;position:relative;}
 .toped .p1-1 img{position:absolute;top:150px;left:50%;width:90%;margin-left:-45%;}
 
-.edbutton{text-align:center;padding-top:320px;padding-bottom:200px;}
+.edbutton{text-align:center;padding-top: 210px;padding-bottom:200px;}
 
 .edbutton .btn,.part7 .btn{color:#0172ca;background-color:#fff;font-size:25px;border-radius:30px;}
 .edbutton .btn:hover,.part7 .btn:hover{color:#fff;background-color:#0172ca;}
@@ -39,7 +39,7 @@
 .part4 .h1{font-size:18px;letter-spacing:10px;}
 .part4 .h2{font-size:40px;}
 .part4 .bg4{margin-top:-120px;}
-.part4 .box2{position:relative;color:#fff;line-height:180%;}
+.part4 .box2{position:relative;color:#fff;line-height:180%;margin-left: -960px;left: 50%;width: 1920px;display: block;}
 /*line*/
 .line1{background-image:url("../img/hqs/line1.png");background-position:center;background-size:cover;height:213px;}
 .line2{background-image:url("../img/hqs/line2.png");background-position:center;background-size:cover;height:213px;}
@@ -88,10 +88,10 @@
     .part8 .text{left:0px;bottom:70px;text-align:center;}
 }
 @media (min-width:768px){
-    .part4 .p1{position:absolute;top:210px;left:460px;}
-    .part4 .p2{position:absolute;top:310px;left:740px;}
-    .part4 .p3{position:absolute;top:70px;left:985px;}
-    .part4 .p4{position:absolute;top:330px;left:1100px;}
-    .part4 .p5{position:absolute;top:130px;left:1310px;}
+    .part4 .p1{position:absolute;top:210px;left:460px;width: 150px;}
+    .part4 .p2{position:absolute;top:310px;left:740px;width: 210px;}
+    .part4 .p3{position:absolute;top:70px;left:985px;width: 100px;}
+    .part4 .p4{position:absolute;top:330px;left:1100px;width: 150px;}
+    .part4 .p5{position:absolute;top:130px;left:1310px;width: 150px;}
    
 }
