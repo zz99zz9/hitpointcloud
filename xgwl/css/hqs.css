@@ -1,6 +1,6 @@
-/*å¹¿å‘Šéƒ¨ä»½*/
-.toped{background-image:url("../img/hqs/bg1.jpg");padding:0 0 100px 0;height:2222px;background-size:cover;background-position:center;color:#000;}
-.edinfo{color:#fff;text-align:center;font-size:20px;padding-top:220px;line-height:180%;}
+/*toped*/
+.toped{background-image:url("../img/hqs/bg1.jpg");padding:0 0 100px 0;height:1700px;background-size:cover;background-position:center;color:#000;}
+.edinfo{color:#fff;text-align:center;font-size:20px;padding-top: 220px;line-height:180%;}
 .edinfo .atit{font-size:30px;color:#fff;text-align:center;display:block;margin-bottom:40px;}
 .edinfo .btit{font-size:60px;color:#fff;text-align:center;display:block;margin-bottom:55px;}
 .edinfo .ctit{font-size:30px;color:#fff;text-align:center;padding:5px 12px;border-radius:30px;margin-top:25px;margin-bottom:20px;background-color:rgba(255,255,255,0.3);}
@@ -11,8 +11,8 @@
 .part1{padding:0 0 100px 0;background-color:#fff;}
 .part1 a{color:#333;line-height:25px;text-align:center;margin-top:100px;}
 .part1 a:hover{color:#39a1ff;}
-.toped .p1-1{margin-top:50px;position:relative;}
-.toped .p1-1 img{position:absolute;top:150px;left:50%;width:90%;margin-left:-45%;}
+.toped .p1-1{margin-top: -150px;position:relative;}
+.toped .p1-1 img{position:absolute;top: 0px;left:50%;width:90%;margin-left:-45%;}
 
 .edbutton{text-align:center;padding-top: 210px;padding-bottom:200px;}
 
@@ -66,12 +66,15 @@
 .part8 .text{position:absolute;right:0;text-align:right;bottom:0px;}
 @media (max-width:768px){
     /*body{padding-top:70px;}*/
-    .edinfo .atit{font-size:1.1em;}
-    .edinfo .btit{font-size:1.2em;}
-    .edinfo .ctit{font-size:0.6em;}
-    .toped .p1-1{margin-top:380px;text-align: center;}
+    .toped{height:1100px;}
+    .edinfo{color:#fff;text-align:center;font-size:20px;padding-top: 130px;line-height:120%;}    
+    .edinfo .atit{font-size:1.1em;margin-bottom:20px;}
+    .edinfo .btit{font-size:1.2em;margin-bottom:20px;}
+    .edinfo .ctit{font-size:0.6em;margin-bottom:20px;}
+    .edbutton{padding-top:100px;}
+    .toped .p1-1{margin-top:-30px;text-align: center;}
     .toped .p1-1 .tit2{font-size:30px;}
-    .toped .p1-1 .txt{font-size:1em;background:#0172ca;border-radius:5px;padding:20px 15px;width:70%;margin-left:15%;margin-top:15%;line-height:200%;}
+    .toped .p1-1 .txt{font-size:1em;background:#0172ca;border-radius:5px;padding:20px 15px;width:70%;margin-left:15%;margin-top:5%;line-height:200%;}
     .part2 .box{width:100%;}
     .h1{font-size:2em;}
     .h2{font-size:1.5em;}
