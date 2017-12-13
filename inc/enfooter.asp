@@ -71,7 +71,7 @@
 <li class="addressli2"><i class="fcico fcaddress"></i>Room 9A-1,ShuGuang Mansion, No.12, Keji South 12th Road, Nanshan District, Shenzhen, P. R. China</li>
 </ul>
 <div class="fsns">
-    <a href="#" class="fsico fsico1 fgray tra"></a>
+    <a href="#" class="fsico fsico1 fgray tra"><span class="sbr-qr tra"><img src="xgwl/img/qr.gif"></span></a>
     <a href="http://weibo.com/hitpointcloud" target="_blank" class="fsico fsico2 fgray tra"></a>
     <a href="https://www.linkedin.com/company-beta/3098244/" target="_blank" class="fsico fsico3 fgray tra"></a>
     <a href="mailto:info@hitpointcloud.com" class="fsico fsico4 rlast fgray tra"></a>

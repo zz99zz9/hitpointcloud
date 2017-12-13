@@ -64,6 +64,10 @@
 .footer2 .fright .fcontact li,.footer2 .fright .fcontact li a{color:#fff;height:30px;}
 .footer2 .fright .fcontact li a:hover{color:#39a1ff;}
 .addressli{height:50px !important;}
+.fsico1{position:relative;}
+.fsico1 .sbr-qr{opacity:0;position:absolute;top:-250px;left:0px;background:#fff;border-radius:5px;padding:10px;width:150px;}
+.fsico1 .sbr-qr img{width:100%;}
+.fsico1:hover .sbr-qr{opacity:1;top:-160px;}
 .footer2 .fright .fsns{border-top:1px solid #484848;margin-top:30px;padding-top:20px;}
 .rlast{margin-right:0;}
 .footer3{height:100px;width:100%;background:#131313;}

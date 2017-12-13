@@ -72,7 +72,7 @@
 <li class="addressli"><i class="fcico fcaddress"></i>广东省深圳市南山区科技南十二路12号曙光大厦9A-1室</li>
 </ul>
 <div class="fsns">
-    <a href="#" class="fsico fsico1 fgray tra"></a>
+    <a href="#" class="fsico fsico1 fgray tra"><span class="sbr-qr tra"><img src="xgwl/img/qr.gif"></span></a>
     <a href="http://weibo.com/hitpointcloud" target="_blank" class="fsico fsico2 fgray tra"></a>
     <a href="https://www.linkedin.com/company-beta/3098244/" target="_blank" class="fsico fsico3 fgray tra"></a>
     <a href="mailto:info@hitpointcloud.com" class="fsico fsico4 rlast fgray tra"></a>
