@@ -59,7 +59,8 @@ tdkid=11
 <div class="row">
     <div class="col-md-6"><h2>Contact Us</h2>
     <div class="txt">Hitpoint Cloud Co.,Ltd. <br>
-                     Address: Unit 312, Building 4, East Guoding Road 200, Yangpu District,Shanghai, P.R.China,200433<br>
+                     Shanghai Office: Unit 312, Building 4, East Guoding Road 200, Yangpu District,Shanghai, P.R.China,200433<br>
+                     Shenzhen Office:Room 9A-1,ShuGuang Mansion, No.12, Keji South 12th Road, Nanshan District, Shenzhen, P. R. China<br>
                      E-mail: info@hitpointcloud.com<br>
                      Telephone: (86-21) 5508-1851<br>
                      Free Hotline: (86)400-033-9909<br>
