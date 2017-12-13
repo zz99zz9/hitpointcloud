@@ -62,7 +62,8 @@ tdkid=2
                      公司网站：www.hitpointcloud.com<br>
                      公司论坛：bbs.hitpointcloud.com<br>
                      免费咨询热线：400-033-9909<br>
-                     公司地址：上海市杨浦区国定东路200号4号楼312室<!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
+                     上海办公室：上海市杨浦区国定东路200号4号楼312室<br>
+                     深圳办公室：广东省深圳市南山区科技南十二路12号曙光大厦9A-1室<!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
         <img src="xgwl/img/8/co2.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">

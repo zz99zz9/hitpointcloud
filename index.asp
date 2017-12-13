@@ -29,19 +29,29 @@ tdkid=1
 
         if i=0 then
         number="One"
+        url="http://www.hitpointcloud.com/hqs.html"
+        text="抢先体验"
         elseif i=1 then
         number="Two"
+        url="getdemo.asp"
+        text="获取演示 | DEMO"
         elseif i=2 then
         number="Three"
+        url="getdemo.asp"
+        text="获取演示 | DEMO"
         elseif i=3 then
         number="Four"
+        url="getdemo.asp"
+        text="获取演示 | DEMO"
         elseif i=4 then
         number="Five"
+        url="getdemo.asp"
+        text="获取演示 | DEMO"
         end if
        %>
                                 <div class="item <%if i=0 then%>active<%end if%> "  style="background:url('<%=prs("file")%>') center top;height:800px;">
                                                     <div class="edinfo wow fadeInDown"><h1><%=prs("stit")%></h1><%=prs("stxt")%> <br>
-                                                    </div><a class="edbtn wow fadeInUp" href="getdemo.asp" onClick="ga('send', 'event', 'shouye', 'yanshi', 'Banner<%=number%>', 1);">获取演示 | DEMO</a>
+                                                    </div><a class="edbtn wow fadeInUp" href="<%=url%>" onClick="ga('send', 'event', 'shouye', 'yanshi', 'Banner<%=number%>', 1);"><%=text%></a>
                              </div>
          <%
         	i=i+1
