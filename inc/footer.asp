@@ -68,15 +68,9 @@
 <ul class="fcontact">
 <li><i class="fcico fctel "></i><a href="tel:400-033-9909">400-033-9909</a></li>
 <li><i class="fcico fcmail"></i><a href="mailto:info@hitpointcloud.com">info@hitpointcloud.com</a></li>
-<li class="addressli"><i class="fcico fcaddress"></i>上海市杨浦区国定东路200号 4号楼312室</li>
-<li class="addressli"><i class="fcico fcaddress"></i>广东省深圳市南山区科技南十二路12号曙光大厦9A-1室</li>
+
 </ul>
-<div class="fsns">
-    <a href="#" class="fsico fsico1 fgray tra"><span class="sbr-qr tra"><img src="xgwl/img/qr.gif"></span></a>
-    <a href="http://weibo.com/hitpointcloud" target="_blank" class="fsico fsico2 fgray tra"></a>
-    <a href="https://www.linkedin.com/company-beta/3098244/" target="_blank" class="fsico fsico3 fgray tra"></a>
-    <a href="mailto:info@hitpointcloud.com" class="fsico fsico4 rlast fgray tra"></a>
-</div>
+<img class="qrpic" src="xgwl/img/qr.gif">
 </div>
     </div>
     </div>

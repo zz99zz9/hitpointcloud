@@ -50,7 +50,7 @@ tdkid=2
 </div>
 </div>
 
-<div class="part1 ">
+<div class="part1 hidden">
 <div class="container">
 <div class="row">
     <div class="col-md-6"><h2>联系我们</h2>
