@@ -18,7 +18,7 @@ tdkid=5
 <div class="protd">
     <div class="container">
     <div class="row">
-         <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://bbs.hitpointcloud.com');"><p class="tit">BBS</p><p class="txt">官方论坛 用户社区</p></div>
+         <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://www.netsuiteasia.cn');"><p class="tit">博客</p><p class="txt">官方博客 用户社区</p></div>
                  <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://wiki.hitpointcloud.com');"><p class="tit">Wiki</p><p class="txt">产品百科 资源共享</p></div>
                   <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://www.hitpointcloud.com/white_paper.asp');"><p class="tit">白皮书</p><p class="txt">产品说明 免费下载</p></div>
                    <div class="col-md-3 col-xs-6 hand last" onclick="window.open('http://i.youku.com/hitpointcloud');"><p class="tit">视频</p><p class="txt">视频教程 想看就看</p></div>

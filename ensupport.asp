@@ -18,7 +18,7 @@ tdkid=14
 <div class="protd">
     <div class="container">
     <div class="row">
-        <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://bbs.hitpointcloud.com');"><p class="tit">BBS</p><p class="txt">The User Community</p></div>
+        <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://www.netsuiteasia.cn');"><p class="tit">BLOG</p><p class="txt">The User Community</p></div>
          <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://wiki.hitpointcloud.com');"><p class="tit">Wiki</p><p class="txt">Encyclopedia of Products</p></div>
           <div class="col-md-3 col-xs-6 hand" onclick="window.open('http://www.hitpointcloud.com/enwhite_paper.asp');"><p class="tit">White Paper</p><p class="txt">Download papers to learn more</p></div>
            <div class="col-md-3 col-xs-6 hand last" onclick="window.open('http://i.youku.com/hitpointcloud');"><p class="tit">Video</p><p class="txt">The Official YouKu Channel</p></div>
