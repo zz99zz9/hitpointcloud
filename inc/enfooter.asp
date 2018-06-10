@@ -67,15 +67,9 @@
 <ul class="fcontact">
 <li><i class="fcico fctel "></i><a href="tel:400-033-9909">400-033-9909</a></li>
 <li><i class="fcico fcmail"></i><a href="mailto:info@hitpointcloud.com">info@hitpointcloud.com</a></li>
-<li class="addressli2"><i class="fcico fcaddress"></i>Unit 312, Building 4, No. 200, East Guoding Road, Yangpu Area, Shanghai, P. R. China</li>
-<li class="addressli2"><i class="fcico fcaddress"></i>Room 9A-1,ShuGuang Mansion, No.12, Keji South 12th Road, Nanshan District, Shenzhen, P. R. China</li>
+
 </ul>
-<div class="fsns">
-    <a href="#" class="fsico fsico1 fgray tra"><span class="sbr-qr tra"><img src="xgwl/img/qr.gif"></span></a>
-    <a href="http://weibo.com/hitpointcloud" target="_blank" class="fsico fsico2 fgray tra"></a>
-    <a href="https://www.linkedin.com/company-beta/3098244/" target="_blank" class="fsico fsico3 fgray tra"></a>
-    <a href="mailto:info@hitpointcloud.com" class="fsico fsico4 rlast fgray tra"></a>
-</div>
+<img class="qrpic" src="xgwl/img/qr.gif">
 </div>
     </div>
     </div>
