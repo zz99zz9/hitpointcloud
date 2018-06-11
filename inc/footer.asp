@@ -63,7 +63,7 @@
     <a href="news.asp">新鲜事</a>
 </ul>
 <div class="fright">
-<a href="#" class="tit">联系我们</a>
+<a href="contact.asp" class="tit">联系我们</a>
 <p>上海网杉信息技术有限公司</p>
 <ul class="fcontact">
 <li><i class="fcico fctel "></i><a href="tel:400-033-9909">400-033-9909</a></li>

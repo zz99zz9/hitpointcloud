@@ -62,7 +62,7 @@
     <a href="ennews.asp">Fresh news</a>
 </ul>
 <div class="fright">
-<a href="#" class="tit">Contact us</a>
+<a href="encontact.asp" class="tit">Contact us</a>
 <p>Hitpoint Cloud Co., Ltd.</p>
 <ul class="fcontact">
 <li><i class="fcico fctel "></i><a href="tel:400-033-9909">400-033-9909</a></li>
