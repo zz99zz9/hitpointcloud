@@ -14,7 +14,7 @@
     <ul class="fmenu">
     <a href="enaboutus.asp" class="tit">About us</a><br>
     <a href="enaboutus.asp">About company</a><br>
-    <a href="enaboutus.asp">Contact us</a>
+    <a href="encontact.asp">Contact us</a>
 </ul>
 <ul class="fmenu">
     <a href="encloud.asp" class="tit">Cloud Advisory</a><br>

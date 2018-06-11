@@ -4,28 +4,28 @@
 <!--#include file="inc/Inc.Asp"-->
 <%
 dim tdkid
-tdkid=2
+tdkid=11
 %>
-<!--#include file="inc/header.Asp"-->
+<!--#include file="inc/enheader.Asp"-->
 <!--通用结束-->
 <link rel="stylesheet" href="xgwl/css/8.css"/>
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">联系我们</h5>
-<p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
+<h5 class="wow fadeInUp">About Us</h5>
+<p class="txt wow fadeInUp" data-wow-delay="150ms">A Leading Cloud Computing Solutions Provider</p>
 </div>
-<style>
-h2{font-size:30px !important;}
-</style>
+
 <!---广告结束 ---->
+
+
 <div class="part1 ">
 <div class="container">
 <div class="row">
 <ul class="TAB_CLICK address" id=".contact">
-<li class="on">- 总部</li>
-<li> - 华东地区</li>
-<li> - 华北地区</li>
-<li> - 华南地区</li>
+<li class="on">- Headquarters</li>
+<li> - East-China</li>
+<li> - North-China</li>
+<li> - South-China</li>
 </ul>
 </div>
 </div>
@@ -34,11 +34,11 @@ h2{font-size:30px !important;}
 <div class="part1 contact">
 <div class="container">
 <div class="row">
-    <div class="col-md-6"><h2>上海网杉信息技术有限公司-上海总部</h2>
-    <div class="txt">热线：400-033-9909<br>
-                     电话：(86-21) 5508-1851<br>
-                     邮箱：info@hitpointcloud.com<br>
-                     地址：上海市杨浦区国定东路200号4号楼312室<br>
+    <div class="col-md-6"><h2>Hitpoint Cloud Co.,Ltd. (Shanghai Office)</h2>
+    <div class="txt">Hotline：400-033-9909<br>
+                     Telephone：(86-21) 5508-1851<br>
+                     E-mail：info@hitpointcloud.com<br>
+                     Address：Unit 312, Building 4, East Guoding Road 200, Yangpu District, Shanghai<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
@@ -50,9 +50,9 @@ h2{font-size:30px !important;}
 <div class="part1 contact" style=" display:none">
 <div class="container">
 <div class="row">
-    <div class="col-md-6"><h2>南京分公司</h2>
+    <div class="col-md-6"><h2>Nanjing Office</h2>
     <div class="txt">
-                     地址：南京江北新区星火路20号星火创业大厦1号楼1303-1304室<br>
+                     Address：Unit 1303-1304, Building 1, Xinghua Plaza, Xinghuo Road 20, Jiangbei New Area, Nanjing<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
@@ -64,9 +64,10 @@ h2{font-size:30px !important;}
 <div class="part1 contact" style=" display:none">
 <div class="container">
 <div class="row">
-    <div class="col-md-6"><h2>北京分公司</h2>
+    <div class="col-md-6"><h2>Beijing Office</h2>
     <div class="txt">
-                     地址：北京市朝阳区光华路丙12号数码01大厦25层D7办公室<br>
+                     Address：D7, 25th Floor, Digital-01 Plaza, C-12 Guanghua Road, Chaoyang District, Beijing
+<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
@@ -78,9 +79,10 @@ h2{font-size:30px !important;}
 <div class="part1 contact" style=" display:none">
 <div class="container">
 <div class="row">
-    <div class="col-md-6"><h2>深圳分公司</h2>
+    <div class="col-md-6"><h2>Shenzhen Office</h2>
     <div class="txt">
-                     地址：广东省深圳市南山区科技南十二路12号曙光大厦9A-1室<br>
+                     Address：Room 9A-1,ShuGuang Mansion, No.12, Keji South 12th Road, Nanshan District, Shenzhen
+<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
@@ -89,8 +91,9 @@ h2{font-size:30px !important;}
 </div>
 </div>
 </div>
+
  	 <!--footer-->
-<!--#include file="inc/footer.Asp"-->
-<!--#include file="inc/sidebar.asp"-->
+<!--#include file="inc/enfooter.Asp"-->
+<!--#include file="inc/ensidebar.asp"-->
 </body>
 </html>
