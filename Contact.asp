@@ -11,14 +11,14 @@ tdkid=2
 <link rel="stylesheet" href="xgwl/css/8.css"/>
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">关于我们</h5>
+<h5 class="wow fadeInUp">联系我们</h5>
 <p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
 </div>
 
 <!---广告结束 ---->
 
 
-<div class="part1 hidden">
+<div class="part1 ">
 <div class="container">
 <div class="row">
     <div class="col-md-6"><h2>联系我们</h2>
