@@ -15,7 +15,7 @@
     <ul class="fmenu">
     <a href="aboutus.asp" class="tit">关于我们</a><br>
     <a href="aboutus.asp">公司介绍</a><br>
-    <a href="aboutus.asp">联系我们</a>
+    <a href="contact.asp">联系我们</a>
 </ul>
 <ul class="fmenu">
     <a href="cloud.asp" class="tit">云计算咨询</a><br>
