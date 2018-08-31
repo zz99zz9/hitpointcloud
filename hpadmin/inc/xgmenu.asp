@@ -65,6 +65,12 @@
                                             <span class="arrow"></span>
                                         </a>
                                         <ul class="sub">
+                                        <li class="nav7-21"><a class="" href="class_sy.asp">首页分类</a></li>
+                                        <li class="nav7-22"><a class="" href="class_js.asp">角色分类</a></li>
+                                        <li class="nav7-23"><a class="" href="class_rw.asp">任务分类</a></li>
+                                        <li class="nav7-24"><a class="" href="class_cp.asp">产品分类</a></li>
+                                        <li class="nav7-25"><a class="" href="location.asp">培训地点</a></li>
+                                        <li class="nav7-26"><a class="" href="courses.asp">课程管理</a></li>
                                 <li class="nav7-17"><a class="" href="single.asp?nav=17">个性化培训</a></li>
                                 <li class="nav7-18"><a class="" href="single.asp?nav=18">认证培训</a></li>
                                <li class="nav7-19"><a class="" href="single.asp?nav=19">运维支持</a></li>
