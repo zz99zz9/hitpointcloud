@@ -1,6 +1,6 @@
 
 <!--#include file="inc/xgheader.asp"-->
-<%tablename="class_kfs"%>
+<%tablename="class_cp"%>
       <!--sidebar start-->
 <!--#include file="inc/xgmenu.asp"-->
       <!--sidebar end-->
@@ -43,8 +43,8 @@
 <!--#include file="inc/windows.asp"-->
   <script type="text/javascript">
 //导航菜单
-$(".nav3").addClass('active');
-$(".nav3-8").addClass('active');
+$(".nav7").addClass('active');
+$(".nav7-24").addClass('active');
 
 $(document).ready(function(e) {
 	var tablename="<%=tablename%>";

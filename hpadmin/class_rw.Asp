@@ -1,6 +1,6 @@
 
 <!--#include file="inc/xgheader.asp"-->
-<%tablename="f_hxt"%>
+<%tablename="class_rw"%>
       <!--sidebar start-->
 <!--#include file="inc/xgmenu.asp"-->
       <!--sidebar end-->
@@ -43,8 +43,8 @@
 <!--#include file="inc/windows.asp"-->
   <script type="text/javascript">
 //导航菜单
-$(".nav3").addClass('active');
-$(".nav3-6").addClass('active');
+$(".nav7").addClass('active');
+$(".nav7-23").addClass('active');
 
 $(document).ready(function(e) {
 	var tablename="<%=tablename%>";

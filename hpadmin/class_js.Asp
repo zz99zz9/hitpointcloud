@@ -1,6 +1,6 @@
 
 <!--#include file="inc/xgheader.asp"-->
-<%tablename="class_lb"%>
+<%tablename="class_js"%>
       <!--sidebar start-->
 <!--#include file="inc/xgmenu.asp"-->
       <!--sidebar end-->
@@ -22,7 +22,7 @@
                   <div class="col-lg-12">
                       <section class="panel">
                           <header class="panel-heading">
-                              类别设置 <button class="btn btn-success mod" data-toggle="modal" data-action="add" data-xgtable="<%=tablename%>">新建类别</button>
+                              类别设置 <button class="btn btn-success mod" data-toggle="modal" data-action="add" data-xgtable="<%=tablename%>">添加类别</button>
                           </header>
                           
 <!--列表开始-->
@@ -43,8 +43,8 @@
 <!--#include file="inc/windows.asp"-->
   <script type="text/javascript">
 //导航菜单
-$(".nav3").addClass('active');
-$(".nav3-5").addClass('active');
+$(".nav7").addClass('active');
+$(".nav7-22").addClass('active');
 
 $(document).ready(function(e) {
 	var tablename="<%=tablename%>";
