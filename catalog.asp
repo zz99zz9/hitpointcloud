@@ -53,285 +53,49 @@ tdkid=2
                 </div>
                 <div class="col-sm-9 margin-top-20" data-linkcontainer="lt_section" data-tracklinktext="catalogSection">
                 <!--内容开始-->
+<%
+dim i
+dim sql,rs
+i=1
+i1=1
+sql1="select * From [courses] where id>0"
+sql1=sql1 & " order by oid desc,ID desc"
+Set rs1= Server.CreateObject("ADODB.Recordset")
+rs1.open sql1,conn,1,1
+%>
 
                <table class="table">
-                  <thead>
-                     <tr>
+<%do while not rs.eof%>
+                 <tr>
                         <td colspan="3">
                            <a name="setting-up-configuring" class="anchor"></a>
                            <h3>设置与配置</h3>
                         </td>
                      </tr>
-                  </thead>
-                  <tbody>
+<%sql="select * From [courses] where id>0"
+sql=sql & " order by oid desc,ID desc"
+Set rs= Server.CreateObject("ADODB.Recordset")
+rs.open sql,conn,1,1%>
+<%do while not rs.eof%>
                      <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-essentials.shtml" data-linktrack="true" data-tracklinktext="netsuiteEssentialsText">NetSuite基础课程</a></td>
+                        <td width="60%"><a href="#" data-linktrack="true" data-tracklinktext="netsuiteEssentialsText">NetSuite基础课程</a></td>
                         <td>5 天</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#A" data-linktrack="true" data-tracklinktext="courseScheduleLink">课程安排</a></td>
+                        <td><a href="#A" data-linktrack="true" data-tracklinktext="courseScheduleLink">课程安排</a></td>
                      </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-oa.shtml" data-linktrack="true" data-tracklinktext="netsuiteOpenAirText">NetSuite OpenAir Essentials</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#L" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-partner-consultant-masterclass.shtml" data-linktrack="true" data-tracklinktext="consultantMasterclassText">Partner Consultant Masterclass Case Study</a></td>
-                        <td><a href="https://system.netsuite.com/core/media/media.nl?id=63976995&amp;c=NLCORP&amp;h=a4bfc0fba634703b6b40&amp;_xt=.pdf&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158128&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-tracklinktext="programGuide" data-linkblocking="true">Program Guide</a></td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#PCM" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td valign="top"><a href="/portal/services/training/suite-training/description-audit-and-controls.shtml" data-linktrack="true" data-tracklinktext="uk-netsuiteAuditControl">NetSuite Audit &amp; Controls (GRC)</a></td>
-                        <td valign="top">3 Days</td>
-                        <td valign="top"><a href="/portal/services/training/suite-training/schedule.shtml#AC" data-linktrack="true" data-tracklinktext="uk-courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="managing-maintaining" class="anchor"></a>
-                           <h3 class="padding-top-20">Managing and Maintaining</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-administrator-fundamentals.shtml" data-linktrack="true" data-tracklinktext="administratorFundamentalsText">NetSuite: Administrator Fundamentals</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#H" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="accounting-finance" class="anchor"></a>
-                           <h3 class="padding-top-20">Accounting and Finance</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/financial-management.shtml" data-linktrack="true" data-tracklinktext="financeManagementText">NetSuite: Financial Management</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#X" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/using-accounts-payable.shtml" data-linktrack="true" data-tracklinktext="accountsPayableText">Using Accounts Payable (AP)</a></td>
-                        <td>½ Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#AP" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/using-accounts-receivable.shtml" data-linktrack="true" data-tracklinktext="accountsReceivable">Using Accounts Receivable (AR)</a></td>
-                        <td>½ Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#AR" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="managing-items-inventory" class="anchor"></a>
-                           <h3 class="padding-top-20">Managing Items and Inventory</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/inventory-item-costing.shtml" data-linktrack="true" data-tracklinktext="inventoryItemText">Inventory Item Costing</a></td>
-                        <td>1 Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#IIC" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                     </tr><tr>
-                        <td colspan="3">
-                           <a name="marketing-sales-automation" class="anchor"></a>
-                           <h3 class="padding-top-20">Marketing and Sales Automation</h3>
-                        </td>
-                     </tr>
-                     <tr>
+                     <%
+	i=i+1
+	  
+	      rs.movenext
+	loop
+%>
 
-                        <td width="60%"><a href="/portal/services/training/suite-training/sfa-fundamentals.shtml" data-linktrack="true" data-tracklinktext="sfaText">Sales Force Automation: Fundamentals</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#SFA" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-marketing.shtml" data-linktrack="true" data-tracklinktext="marketingAutomationText">Marketing Automation Workshop</a></td>
-                        <td>1 Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#G" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="analyzing-data-running-reports" class="anchor"></a>
-                           <h3 class="padding-top-20">Analyzing Data and Running Reports</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-oa-reporting.shtml" data-linktrack="true" data-tracklinktext="oaReportingText">NetSuite OpenAir Reporting</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#OAR" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suite-analytics-reports-and-searches.shtml" data-linktrack="true" data-tracklinktext="reportsSearchesText">SuiteAnalytics: Reports and Searches</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#C" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suite-analytics-financial-report.shtml" data-linktrack="true" data-tracklinktext="financialReportsSearchesText">SuiteAnalytics: Financial Reports and Searches</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#M" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suite-analytics-advanced-searches.shtml" data-linktrack="true" data-tracklinktext="advancedSearchesText">SuiteAnalytics: Advanced Searches</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#D" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="managing-commerce" class="anchor"></a>
-                           <h3 class="padding-top-20">Managing Commerce</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/site-builder-fundamentals.shtml" data-linktrack="true" data-tracklinktext="configuringNetsuiteText">Site Builder: Fundamentals</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#Q" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-advanced-fundamentals.shtml" data-linktrack="true" data-tracklinktext="advancedFundamentals">SuiteCommerce Advanced: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#AF" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-advanced-for-developers.shtml" data-linktrack="true" data-tracklinktext="advancedDevelopers">SuiteCommerce Advanced for Developers</a></td>
-                        <td>5 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#W" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suitecommerce-instore-fundamentals.shtml" data-linktrack="true" data-tracklinktext="scFundamentals">SuiteCommerce InStore: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#scFun" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="industry-specific" class="anchor"></a>
-                           <h3 class="padding-top-20">Industry Specific</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-erp-fundamentals.shtml" data-linktrack="true" data-tracklinktext="erpFundamentalsText">ERP: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#erpFun" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-wholesale-distribution-fundamentals.shtml" data-linktrack="true" data-tracklinktext="wdFundamentalsText">Wholesale/Distribution: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#Z" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-software-fundamentals.shtml" data-linktrack="true" data-tracklinktext="swFundamentalsText">Software: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#I" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-retail-fundamentals.shtml" data-linktrack="true" data-tracklinktext="retailFundamentalsText">Retail: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#RF" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-nonprofit-fundamentals.shtml" data-linktrack="true" data-tracklinktext="nonprofitFundamentalsText">Nonprofit: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#NP" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-manufacturing-fundamentals.shtml" data-linktrack="true" data-tracklinktext="manufacturingFundamentalsText">Manufacturing: Fundamentals</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#mfgFun" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-suitebilling-fundamentals.shtml" data-linktrack="true" data-tracklinktext="suitebillingFundamentalsText">SuiteBilling: Fundamentals</a></td>
-                        <td>½ Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#sbFun" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-suitepeople-fundamentals.shtml" data-linktrack="true" data-tracklinktext="suitePeopleFundamentalsText">SuitePeople: Fundamentals</a></td>
-                        <td>½ Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#SPF" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td width="60%"><a href="/portal/services/training/suite-training/description-wms-lite-fundamentals.shtml" data-linktrack="true" data-tracklinktext="wmsLiteFundamentalsText">WMS Lite: Fundamentals</a></td>
-                        <td>½ Day</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#WL" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-srp-configuring-netsuite.shtml" data-linktrack="true" data-tracklinktext="srpConfigurationNetsuite">SRP: Configuring NetSuite for Your Business</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#Y" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="automating-business-processes-customizing" class="anchor"></a>
-                           <h3 class="padding-top-20">Automating Business Processes and Customizing</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suitecloud-exploring-the-netsuite-platform.shtml" data-linktrack="true" data-tracklinktext="exploringNetsuitePlatform">SuiteCloud: Exploring the NetSuite Platform</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#E" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suiteflow-workflow-fundamentals.shtml" data-linktrack="true" data-tracklinktext="workflowFundamentalsText">SuiteFlow: Workflow Fundamentals</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#E" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suiteflow-advanced-workflows.shtml" data-linktrack="true" data-tracklinktext="workflowsDevelopersText">SuiteFlow: Advanced Workflows</a></td>
-                        <td>3 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#N" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suitescript-2-cuid.shtml" data-linktrack="true" data-tracklinktext="suitescriptCuidText">SuiteScript 2.0: Custom User Interface Development</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#ss2Cus" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td valign="top"><a href="/portal/services/training/suite-training/description-suitescript-2.shtml">SuiteScript 2.0: Extend NetSuite with JavaScript</a></td>
-                        <td valign="top">5 Days</td>
-                        <td valign="top"><a href="/portal/services/training/suite-training/schedule.shtml#AA">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td valign="top"><a href="/portal/services/training/suite-training/description-suitescript-2-experienced.shtml">SuiteScript 2.0 for Experienced SuiteScript Developers</a></td>
-                        <td valign="top">2 Days</td>
-                        <td valign="top"><a href="/portal/services/training/suite-training/schedule.shtml#AB">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suitescript.shtml" data-linktrack="true" data-tracklinktext="extendNetsuiteJavascript">SuiteScript 1.0: Extend NetSuite with JavaScript</a></td>
-                        <td>5 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#J" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="integrating-applications" class="anchor"></a>
-                           <h3 class="padding-top-20">Integrating Applications</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suitetalk.shtml" data-linktrack="true" data-tracklinktext="integrateYourApplications">SuiteTalk: Integrate Your Applications</a></td>
-                        <td>5 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#K" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td colspan="3">
-                           <a name="certification-preparation" class="anchor"></a>
-                           <h3 class="padding-top-20">Certification Preparation</h3>
-                        </td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/suite-foundation-exam-preparation.shtml">NetSuite Certification: SuiteFoundation Exam Preparation</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#P" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-erp-consultant.shtml" data-linktrack="true" data-tracklinktext="erpConsultantStudy">NetSuite Certification: ERP Consultant Study Session</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#V" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-admin-exam-preparation.shtml" data-linktrack="true" data-tracklinktext="administratorExamPreparation">NetSuite Certification: Administrator Exam Preparation</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#R" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                     <tr>
-                        <td><a href="/portal/services/training/suite-training/description-suitecloud-dev-exam-preparation.shtml" data-linktrack="true" data-tracklinktext="suitecloudDeveloperExam">NetSuite Certification: SuiteCloud Developer Exam Preparation</a></td>
-                        <td>2 Days</td>
-                        <td><a href="/portal/services/training/suite-training/schedule.shtml#T" data-linktrack="true" data-tracklinktext="courseScheduleLink">Course Schedule</a></td>
-                     </tr>
-                  </tbody>
+                     <%
+	i1=i1+1
+	  
+	      rs1.movenext
+	loop
+%>
+
                </table>
                <div class="row">
    <div class="col-sm-12">
@@ -341,7 +105,7 @@ tdkid=2
 <div class="row">
    <div class="col-sm-3 margin-top-20">
       <br>
-      <p><img src="assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
+      <p><img src="/assets/img/services/logo-cpe-sponsors.jpg" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
       <h3>CPE credits</h3>
