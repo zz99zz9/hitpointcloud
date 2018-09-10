@@ -2,7 +2,7 @@
 
       <ul class="nav navbar-nav">
 
-        <li><a href="/training.asp" data-linktrack="true" data-tracklinktext="cn-suitetraining">培训和认证</a></li>
+        <li><a href="/training.asp" data-linktrack="true" data-tracklinktext="cn-suitetraining">培训与认证</a></li>
 
         <li><a href="/catalog.asp" data-linktrack="true" data-tracklinktext="cn-courseCatalog">- 课程目录</a></li>
 
