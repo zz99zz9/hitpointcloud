@@ -116,7 +116,7 @@ tdkid=2
                         </div>
                         <div class="col-sm-9">
                             <h3>CPE 学分</h3>
-                            <p>学习 NetSuite 课程可累积 CPE 学分。<br /><a href="/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息</a>。</p>
+                            <p>学习 NetSuite 课程可累积 CPE 学分。<br /><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息</a>。</p>
                         </div>
                     </div>
                 </div>

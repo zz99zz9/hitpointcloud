@@ -14,7 +14,7 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
+<h5 class="wow fadeInUp">网络研讨会和活动</h5>
 <p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
 </div>
 
@@ -63,7 +63,7 @@ tdkid=2
                                                     <strong>Attendees:</strong> Administrators, Power Users and Sales Personal</p>
                                                 </div>
                                                 <div class="col-md-3 col-sm-4">
-                                                    <a href="https://netsuitetraining.webex.com/netsuitetraining/onstage/g.php?MTID=e835ba82e66434d93b74fbfaf03588c85" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">Register Now</a>
+                                                    <a href="getdemo.asp" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">立即注册</a>
                                                 </div>
                                             </div>
                                             <table class="table">
@@ -89,21 +89,21 @@ tdkid=2
                             <div>
                                 <div class="panel-heading no-padding-left" role="tab" id="collapseListGroupHeading1">
                                     <h4>
-                                        <a class="panel-title" role="button" data-toggle="collapse" href="#collapseListGroup1" aria-expanded="false" aria-controls="collapseListGroup1">Training Webinar FAQ’s:</a>
+                                        <a class="panel-title" role="button" data-toggle="collapse" href="#collapseListGroup1" aria-expanded="false" aria-controls="collapseListGroup1">培训网络研讨会常见问题解答：</a>
                                     </h4>
                                 </div>
-                                <div id="collapseListGroup1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapseListGroupHeading1" aria-expanded="true" style="">
-                                    <p><strong>Are the sessions recorded?</strong><br>
-                                        Yes, all our training webinars are recorded and posted as soon as possible to SuiteAnswers, which can be accessed via the Support tab in your NetSuite account. 
+                                <div id="collapseListGroup1" class="panel-collapse collapse pl15" role="tabpanel" aria-labelledby="collapseListGroupHeading1" aria-expanded="true" style="">
+                                    <p><strong>会议是否支持回放？</strong><br>
+                                        是的，我们所有的培训网络研讨会都会尽快记录并发布到SuiteAnswers，可以通过NetSuite帐户中的“支持”选项卡进行访问。
                                     </p>
-                                    <p><strong>How  do I register?</strong><br>
-                                        Follow  the registration link on the Upcoming Webinars tab, and be prepared to enter  your NetSuite Customer Number, in addition to other registration information.
+                                    <p><strong>我如何注册？</strong><br>
+                                        按照“即将播出的网络研讨会”选项卡上的注册链接，准备好输入您的NetSuite客户编号以及其他注册信息。
                                     </p>
-                                    <p>Your  Customer Number can be found by logging into your NetSuite Account, navigating  to the Support Tab&gt; SuiteAnswers and then clicking the Contact Support by  Phone green button on the right side.</p>
-                                    <p><strong> How do I access a session? </strong> <br>
-                                        Your registration confirmation and reminder emails will contain information on how to connect on your computer the day of the session.  Training webinars are broadcast over your computer’s speakers (or you may use headphones).  You should have a phone available as a backup method of hearing the webinar if you have trouble with the audio broadcast.</p>
-                                    <p><strong>Who should I contact if I have questions about the webinar or issues with registration?</strong><br>
-                                        Contact the Virtual Classroom team at  <a href="mailto:training@netsuite.com">training@netsuite.com</a>
+                                    <p>登录NetSuite帐户，导航至支持选项卡> SuiteAnswers，然后单击右侧的“通过电话联系支持”绿色按钮，即可找到您的客户编号。</p>
+                                    <p><strong>我如何访问会话？</strong> <br>
+                                        您的注册确认和提醒电子邮件将包含有关如何在会话当天在您的计算机上进行连接的信息。培训网络研讨会通过计算机的扬声器进行广播（或者您可以使用耳机）。如果您在音频广播方面遇到问题，您应该可以使用电话作为听取网络研讨会的备用方法。</p>
+                                    <p><strong>如果我对网络研讨会或注册问题有疑问，应该与谁联系？</strong><br>
+                                        请通过training@netsuite.com与Virtual Classroom团队联系</a>
                                     </p>
                                 </div>
                             </div>
@@ -122,8 +122,8 @@ tdkid=2
       <p><img src="/portal/assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
-      <h3>CPE credits</h3>
-      <p>CPE credits are available for NetSuite courses. <br><a href="/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">Check out our CPE list for details</a>.</p>
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
    </div>
 </div>
 

@@ -197,8 +197,8 @@ tdkid=2
                         </h4>
                      </div>
                      <div id="collapse6" class="panel-collapse collapse" role="tabpanel" aria-labelledby="collapseHeading6" aria-expanded="true">
-                        <p><strong>Are NetSuite courses eligible for CPE credits?</strong><br> 
-                           Yes!  CPE credits are available to US customers attending NetSuite courses.  NetSuite, Inc. is registered with the National Association of State Boards of Accountancy (NASBA), as a sponsor of continuing professional education on the National Registry of CPE Sponsors.  <a href="/portal/services/training/suite-training/cpe.shtml">Click Here</a>   to find out more about NetSuite CPE credits.
+                        <p><strong>Are NetSuite courses eligible for CPE 学分?</strong><br> 
+                           Yes!  CPE 学分 are available to US customers attending NetSuite courses.  NetSuite, Inc. is registered with the National Association of State Boards of Accountancy (NASBA), as a sponsor of continuing professional education on the National Registry of CPE Sponsors.  <a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml">Click Here</a>   to find out more about NetSuite CPE 学分.
                         </p>
                      </div>
                   </div>
@@ -215,8 +215,8 @@ tdkid=2
       <p><img src="/portal/assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
-      <h3>CPE credits</h3>
-      <p>CPE credits are available for NetSuite courses. <br><a href="/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">Check out our CPE list for details</a>.</p>
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
    </div>
 </div>
 

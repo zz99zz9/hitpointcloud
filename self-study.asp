@@ -14,7 +14,7 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
+<h5 class="wow fadeInUp">Learning Cloud Support通行证</h5>
 <p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
 </div>
 
@@ -54,46 +54,48 @@ tdkid=2
                 <div class="col-sm-9 margin-top-20" data-linkcontainer="lt_section" data-tracklinktext="catalogSection">
                 <!--内容开始-->
                 
-                    <p class="margin-top-20">With the Learning Cloud Support Pass, you have access to the most extensive NetSuite learning offering available.</p>
-                    <p>The Learning Cloud Support Pass gives you online access to the equivalent of all of NetSuite's publicly offered courses<sup>1</sup> for one fee. And as a cloud solution, you will have access to learning content anytime, anywhere. Check out the <a class="popup-video" href="https://youtu.be/z75xz2bcmQc" data-linkblocking="true" data-linktrack="true" data-tracklinktext="experienceVideo">Experience Video</a> to see all the benefits of this comprehensive solution.</p>
+                    <p class="margin-top-20">通过Learning Cloud Support通行证，您可以访问最广泛的NetSuite学习产品。</p>
+                    <p>
+
+Learning Cloud Support通行证允许您在线访问NetSuite所有公开课程1。作为云解决方案，您可以随时随地访问学习内容。查看体验视频，了解此综合解决方案的所有优势。</p>
                     <hr class="margin-top-20">
                     <div class="margin-top-60">
-						<h3>Benefits</h3>
+						<h3>优点</h3>
                     </div>
                     <ul>
-						<li>An easy way to learn NetSuite that fits into your schedule 24x7</li>
-						<li>On Demand access to expert-led learning</li>
-						<li>Apply and practice new skills with hands on exercises<sup>1</sup></li>
-						<li>Available for single users or in tiered packages for teams of all sizes</li>
+						<li>您可以在任何您方便的时间来学习NetSuite</li>
+						<li>按需访问以专家为主导的学习</li>
+						<li>通过练习1掌握新技能</li>
+						<li>适用于单个用户或各种规模团队</li>
                     </ul>
                     <hr class="margin-top-20">
                     <div class="margin-top-60">
-						<h3>Content</h3>
+						<h3>内容</h3>
                     </div>
                     <ul>
-                        <li>Content is current with each NetSuite release</li>
-                        <li>Training On Demand versions of <a href="https://system.netsuite.com/core/media/media.nl?id=30501999&amp;c=NLCORP&amp;h=f71a35c568be938d15f2&amp;_xt=.pdf&amp;addrcountry=US&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158128&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-linkblocking="true" data-tracklinktext="offeredCoursesLink">NetSuite’s publicly offered courses</a></li>
+                        <li>*内容与最新版本的NetSuite相匹配</li>
+                        <li>*NetSuite公开课程的 Training On Demand版本</li>
                         <li>
-                            Courses may include:
+                            *课程可能包括：
                             <ul>
-                                <li>Recorded presentations</li>
-                                <li>Student workbooks</li>
-                                <li>One demo account per course with 90 days access<sup>2</sup></li>
-                                <li>Instructor email support within 1 business day</li>
+                                <li>录制的演讲</li>
+                                <li>学生练习册</li>
+                                <li>每门课程一个模拟账户，可在90天内无限访问</sup></li>
+                                <li>教师电子邮件支持，1个工作日内回复</li>
                             </ul>
 						</li>
                     </ul>
-                    <p class="margin-top-30">*Pricing will vary depending on country and region. </p>
-                    <p> <a href="https://forms.netsuite.com/app/site/crm/externalcustrecordpage.nl?compid=NLCORP&amp;formid=348&amp;h=AACffht_fLts-Pdx6nXmHMofyEyORqAvbzw&amp;subsidiary=1&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158128&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-linkblocking="true" data-tracklinktext="contactUsLink">Contact us</a> to purchase your <a class="popup-video" href="https://youtu.be/z75xz2bcmQc" data-linktrack="true" data-tracklinktext="trainingDemand">Learning Cloud Support Pass</a> today! </p>
+                    <p class="margin-top-30">*价格将根据国家和地区而有所不同。</p>
+                    <p> <a href="getdemo.asp" target="_blank" data-linktrack="true" data-linkblocking="true" data-tracklinktext="contactUsLink">联系我们立即购买您的Learning Cloud Support通行证！</p>
                     
-					<p class="margin-top-30"><a href="/portal/assets/pdf/ds-suitetraining-customer-learning-cloud-support-pass.pdf" data-linktrack="true" data-tracklinktext="customerDatasheet">View the Customer Data Sheet</a></p>
-					<p><a href="/portal/assets/pdf/ds-suitetraining-partner-learning-cloud-support-pass.pdf" data-linktrack="true" data-tracklinktext="partnerDatasheet">View the Partner Data Sheet</a></p>
+					<p class="margin-top-30"><a href="http://www.netsuite.com/portal/assets/pdf/ds-suitetraining-customer-learning-cloud-support-pass.pdf" data-linktrack="true" data-tracklinktext="customerDatasheet">查看面向客户的课程详情</a></p>
+					<p><a href="http://www.netsuite.com/portal/assets/pdf/ds-suitetraining-partner-learning-cloud-support-pass.pdf" data-linktrack="true" data-tracklinktext="partnerDatasheet">查看面向合作伙伴的课程详情</a></p>
 					
 					
-					<p class="note margin-top-30"><sup>1</sup>Learning Cloud Support Pass contains online access to the courses included as detailed in the <a href="/portal/resource/terms-of-service.shtml" data-linktrack="true" data-tracklinktext="tos">http://www.netsuite.com/termsofservice</a> description (for the number of specified users for the contract term (each person is a “confirmed user”).  Learning Cloud Support Pass does not include NetSuite Partner Consultant Masterclass or Certification vouchers.  The confirmed users* are the only persons who may use the course and/or materials. Sharing the training with others in any way is expressly prohibited.  These training services shall be provided pursuant to the Learning Cloud Support Pass terms and conditions found at <a href="/portal/resource/terms-of-service.shtml" data-linktrack="true" data-tracklinktext="tos">http://www.netsuite.com/termsofservice</a>.   
+					<p class="note margin-top-30"><sup>1</sup>Learning Cloud Support通行证包含在线访问所包含的课程，详见http://www.netsuite.com/termsofservice说明（对于合同期限的指定用户数（每个人都是“确认用户”））。Learning Cloud Support通行证不包括NetSuite合作伙伴顾问大师级或认证凭证。确认用户*是唯一可以使用该课程和/或材料的人。明确禁止以任何方式与他人共享培训。这些培训服务应为根据http://www.netsuite.com/termsofservice上的Learning Cloud Support通行证条款和条件提供。</a>.   
                     </p>
-                    <p class="note"> <sup>2</sup>NetSuite Demo Accounts are included when they form part of the standard course curriculum. </p>
-                    <p class="note"> Prepare for the Learning Cloud Support Pass experience by first viewing the <a href="https://system.netsuite.com/core/media/media.nl?id=30531851&amp;c=NLCORP&amp;h=69794e5146de5c424641&amp;_xt=.pdf&amp;addrcountry=US&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158128&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">system requirements</a>.</p>
+                    <p class="note"> <sup>2</sup>NetSuite模拟账户是标准课程的一部分。</p>
+                    <p class="note"> 首先查看系统要求，为Learning Cloud Support通行证体验做好准备。</p>
                     <div class="row">
    <div class="col-sm-12">
       <hr>
@@ -102,11 +104,11 @@ tdkid=2
 <div class="row">
    <div class="col-sm-3 margin-top-20">
       <br>
-      <p><img src="/portal/assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
+      <p><img src="/assets/img/services/logo-cpe-sponsors.jpg" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
-      <h3>CPE credits</h3>
-      <p>CPE credits are available for NetSuite courses. <br><a href="/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">Check out our CPE list for details</a>.</p>
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
    </div>
 </div>
 

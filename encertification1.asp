@@ -1,0 +1,814 @@
+<!--#include file="inc/conn.asp"-->
+<!--#include file="inc/Config.Asp"-->
+<!--#include file="inc/Function.asp"-->
+<!--#include file="inc/Inc.Asp"-->
+<%
+dim tdkid
+tdkid=2
+%>
+<!--#include file="inc/header.Asp"-->
+<link rel="stylesheet" href="xgwl/css/8.css"/>
+<link href="/assets/ico/favicon.ico" rel="icon" />
+<link href="/assets/css/styles.css" rel="stylesheet" />
+<link href="/assets/css/oracle_truste.css" rel="stylesheet" />
+<link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
+<!----广告--->
+<div class="toped">
+<h5 class="wow fadeInUp">NETSUITE认证计划</h5>
+<p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
+</div>
+
+    
+    <!-- Content Section
+        ================================================== -->
+        <div class="part1 ">
+
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <!-- side nav -->
+
+<div class="sidebar-nav">
+
+  <div class="navbar navbar-default navbar-default3" role="navigation">
+
+    <div class="navbar-header visible-xs">
+
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#side-nav" aria-expanded="false" aria-controls="navbar">
+
+        <span class="sr-only">导航</span> <span class="icon-bar top-bar"></span> <span class="icon-bar middle-bar"></span> <span class="icon-bar bottom-bar"></span>
+
+      </button>
+
+    </div>
+<!--#include file="inc/training.Asp"-->
+   
+
+  </div>
+
+</div>
+
+<!-- side nav -->
+                </div>
+                <div class="col-sm-9" data-linkcontainer="lt_section" data-tracklinktext="catalogSection">
+                <!--内容开始-->
+
+                                       
+                    <div class="row margin-top-30">
+                        <div class="col-sm-12">
+							<p>越来越多的公司正在寻找有NetSuite专业知识的专业人士。使用经过认证的专业人员的公司将会拥有更有效的部署和更高的投资回报。</p>
+                            <p>单击“注册考试”按钮以导航到我们的考试站点。</p>
+							<div class="row">
+								<div class="col-sm-3 col-xs-12 margin-bottom-10">
+									<a href="http://www.webassessor.com/netsuite" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">Register for Exam</a>
+								</div>
+								<div class="col-sm-3 col-xs-12">
+									<a href="https://forms.netsuite.com/app/site/hosting/scriptlet.nl?script=1142&amp;deploy=1&amp;compid=NLCORP&amp;h=6abf91dbd1d6a750b29a&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">Verify Certification</a>
+								</div>
+							</div>
+                        </div>
+                    </div>
+                    <!-- end of row -->
+                    
+                    <div class="row margin-top-20">
+                        <div class="col-sm-12">
+                            <div class="panel-group" id="accordion">
+								
+								<hr class="margin-top-30">
+								<h3 class="margin-top-60">认证好处</h3>
+								<div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="false" class="collapsed">
+                                            认证好处</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse1" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p><strong>为什么要获得NetSuite认证？</strong></p>
+                                            <p class="margin-top-30"><strong>对个人的好处：</strong></p>
+                                            <ul>
+                                                <li>成为NetSuite精英</li>
+                                                <li>通过认证增加您的专业机会</li>
+                                                <li>区别于未经认证的同行，加速您的职业生涯</li>
+                                                <li>访问其他NetSuite认证个人的封闭LinkedIn社区以进行联网</li>
+                                                <li>
+                                                    以下列形式宣传您的NetSuite认证成就：
+                                                    <ul>
+                                                        <li>NetSuite认证徽标，用于名片和网站</li>
+                                                        <li>NetSuite认证成就证书</li>
+                                                    </ul>
+                                                </li>
+                                                <li>报名NetSuite培训课程可享受30％的折扣，以继续您的专业发展</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>对NetSuite客户的好处：</strong> </p>
+                                            <ul>
+                                                <li>在招聘时给你信心，因为你可以找到最合格的人，只有那些经过认证的人</li>
+                                                <li>通过NetSuite投资，您的员工将能够更好地支持产品，而您可以获得更高的投资回报率</li>
+                                                <li>确保您的员工接受技能培训，并对NetSuite有透彻的了解</li>
+                                                <li>验证员工的技能和知识是否可应用于工作中</li>
+                                                <li>提供公认的基准来衡量和评估员工</li>
+                                                <li>提高员工的工作效率，确保NetSuite实施的质量和持续的支持</li>
+                                                <li>确保您的员工为您的用户提供更好的支持</li>
+                                                <li>获得针对NetSuite已认证员工的培训折扣</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>NetSuite合作伙伴的好处：</strong></p>
+                                            <ul>
+                                                <li>以上所有，加上......</li>
+                                                <li>NetSuite解决方案提供商计划为合作伙伴提供增强的客户支持选项</li>
+                                            </ul>
+                                            <p class="margin-top-30"><a href="https://system.netsuite.com/core/media/media.nl?id=30280915&amp;c=NLCORP&amp;h=e03a14501f35c5416a81&amp;_xt=.doc&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">认证理由</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+								
+								<hr class="margin-top-60">
+								<h3 class="margin-top-60">管理员认证</h3>
+                                <div class="row margin-top-30 margin-bottom-20">
+									<div class="col-sm-12">
+										<img src="/portal/assets/img/platform/ns-certification.jpg" alt="Certification" class="img-responsive">
+									</div>
+								</div>
+								<!-- end of row -->
+                                
+								<div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" class="collapsed">
+                                            SUITEFOUNDATION认证</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse2" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p><strong>SuiteFoundation考试</strong></p>
+                                            <p>通过此考试确认您具备成为SuiteFoundation认证所必需的知识。</p>
+                                            <ul>
+                                                <li>注册费：250美元</li>
+                                                <li>补考费：150美元</li>
+                                                <li>80分钟内完成66个多选题和搭配题</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>合格候选人的描述：</strong></p>
+                                            <p>候选人可以使用NetSuite产品，并对考试中涵盖的以下概念和功能有基本的了解：</p>
+                                            <ul>
+                                              <li>功能和标准模块（即CRM，ERP）</li>
+                                                <li>公司和用户偏好</li>
+                                                <li>用户，角色和权限的关系</li>
+                                                <li>用户界面的自定义选项</li>
+                                                <li>仪表板，报告和搜索</li>
+                                                <li>标准记录类型及其结构</li>
+                                                <li>NetSuite产品发布流程</li>
+                                            </ul>
+                                           
+                                            <p class="margin-top-30"><strong>推荐条件：</strong></p>
+                                            <ul>
+                                                <li>技能等级：六个月管理NetSuite或同等知识的经验</li>
+                                                <li>推荐课程：NetSuite Essentials，NetSuite认证：SuiteFoundation考试准备</li>
+                                            </ul>
+                                            <p class="margin-top-30">有关SuiteFoundation考试和所包含主题的更多详细信息，请访问此处。</p>
+                                            
+                                              <p>SuiteFoundation模拟测试题可在<a href="https://system.netsuite.com/core/media/media.nl?id=60106453&amp;c=NLCORP&amp;h=e63f1d4bbbf4fb9d3804&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank"><strong>此处获得</strong></a>。</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+								
+								<div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse3" aria-expanded="false" class="collapsed">
+                                            管理员认证</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse3" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p><strong>管理员考试流程</strong></p>
+                                            <p>在NetSuite的管理员认证包含两个考试：</p>
+                                            <p><img src="/portal/common/img/administrator-exam-tab.png" alt="Administrator Exam Process" border="0">  </p>
+                                            <p>您必须通过两门考试才能成为NetSuite认证管理员。</p>
+                                            <p class="margin-top-30"><strong>管理员考试</strong></p>
+                                            <p>通过此考试证明您具备成为NetSuite认证管理员所需的知识和技能。</p>
+                                            <ul>
+                                                <li>注册费：250美元</li>
+                                                <li>补考费：150美元</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>合格候选人的描述：</strong></p>
+                                            <p>该候选人具有1年的配置和管理强大NetSuite的实施经验。候选人可以执行管理系统的日常任务，以满足公司的需求。他们的角色是支持用户，他们了解标准业务流程，标准财务实践，高级功能，产品选项和功能。</p>
+                                            <p class="margin-top-30"><strong>考试涵盖的学科领域：</strong></p>
+                                            <ul>
+                                                <li>SuiteAnalytics</li>
+                                                <li>SuiteBuilder</li>
+                                                <li>SuiteCloud平台</li>
+                                                <li>设置和管理</li>
+                                                <li>数据安全</li>
+                                                <li>使用NetSuite</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>推荐条件：</strong></p>
+                                            <ul>
+                                                <li>NetSuite Essentials</li>
+                                                <li>SuiteAnalytics：报告和搜索</li>
+                                                <li>SuiteAnalytics：高级搜索</li>
+                                                <li>SuiteCloud：探索NetSuite平台</li>
+                                                <li>SuiteFlow：工作流程基础知识</li>
+                                                <li>NetSuite认证：管理员考试准备 </li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>管理员学习指南：</strong></p>
+                                            <p>有关NetSuite管理员考试和所包含主题的更多详细信息，请访问此处。</p>
+                                            <p>管理员考试模拟测试题可在此处获得。</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+                                
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse4" aria-expanded="false" class="collapsed">
+                                            ERP顾问认证</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse4" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p><strong>考试流程</strong></p>
+                                            <p>在NetSuite的ERP咨询顾问认证包括两个考试：</p>
+                                            <p><img src="/portal/common/img/certification-process.png" alt="ERP Consultant Exam Process" border="0">  </p>
+                                            <p class="margin-top-30"><strong>您必须通过这两门考试才能成为NetSuite认证的ERP顾问。</strong>  </p>
+                                            <p>NetSuite ERP顾问考试</p>
+                                            <ul>
+                                                <li>注册费：250美元</li>
+                                                <li>补考费：150美元</li>
+                                                <li>120分钟内完成80个多选题和搭配题</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>合格候选人的描述：</strong></p>
+                                            <p>候选人具有执行5-10家中等规模或2-3家大型企业NetSuite ERP实施经验，大致相当于至少2年的NetSuite实施与顾问相关的角色。他们能够将NetSuite ERP解决方案与业务需求相匹配。此人可以就如何更改标准ERP工作流程，何时使用脚本工具来满足业务需求以及何时通过集成扩展使用提供建议。该顾问可以解释NetSuite配置选项的含义和好处。</p>
+                                            <p class="margin-top-30"><strong>考试涵盖的学科领域：</strong></p>
+                                            <ul>
+                                                <li>ERP</li>
+                                                <li>Analytic</li>
+                                                <li>OneWorld</li>
+                                                <li>Platform</li>
+                                                <li>Data Strategy</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>推荐条件：</strong></p>
+                                            <ul>
+                                                <li>技能水平：相当于顾问相关角色中至少2年的NetSuite实施</li>
+                                                <li>
+                                                    客户推荐课程：
+                                                    <ul>
+                                                        <li><a href="/portal/services/training/description-essentials.shtml">NetSuite Essentials</a></li>
+                                                        <li><a href="/portal/services/training/description-suite-analytics-financial-report.shtml">SuiteAnalytics: 财务报告和搜索</a></li>
+                                                        <li><a href="/portal/services/training/description-suite-analytics-advanced-searches.shtml">SuiteAnalytics: 高级搜索</a></li>
+                                                        <li><a href="/portal/services/training/description-suiteflow-workflow-fundamentals.shtml">SuiteFlow: 工作流基础知识课程</a></li>
+                                                        <li><a href="/portal/services/training/description-suitecloud-exploring-the-netsuite-platform.shtml">SuiteCloud: 探索NetSuite平台</a></li>
+                                                        <li><a href="/portal/services/training/finance-fundamentals.shtml">NetSuite: 财务管理</a></li>
+                                                        <li><a href="/portal/services/training/description-erp-consultant.shtml">NetSuite Certification: ERP顾问研讨会</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>
+                                                    合作伙伴的推荐课程：
+                                                    <ul>
+                                                        <li><a href="/portal/services/training/description-partner-consultant-masterclass.shtml">NetSuite合作伙伴顾问大师班</a></li>
+                                                        <li><a href="/portal/services/training/description-erp-consultant.shtml">NetSuite认证：ERP顾问研讨会</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li>博客文章：<em><a href="http://www.netsuiteblogs.com/three-steps-to-netsuite-erp-consultant-certification" target="_blank">Joanne Coleman关于NetSuite ERP顾问认证的三个步骤。</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>ERP顾问学习指南：</strong></p>
+                                            <p>有关ERP顾问考试和所包含主题的更多详细信息，请访问此处。</p>
+                                            <p class="margin-top-30"><strong>ERP顾问研究会议：</strong></p>
+                                            <p>参加为期两天的ERP顾问研究会议，为ERP顾问考试做好准备。有关此课程的更多详情，请点击此处。</p>
+                                            <p>ERP顾问考试模拟测试题可在此处获得。</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+                                
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse5" aria-expanded="true" class="">
+                                            SUITECLOUD开发人员认证</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse5" class="panel-collapse collapse in" aria-expanded="true" style="">
+                                        <div class="panel-body">
+                                            <p><strong>考试流程</strong></p>
+                                            <p>该SuiteCloud开发认证包括两个考试：</p>
+                                            <p><img src="/portal/common/img/suitecloud-developer-exam-tab.png" alt="SuiteCloud Developer Exam Process" border="0">  </p>
+                                            <p class="margin-top-30"><strong>您必须通过两门考试才能成为NetSuite认证的SuiteCloud开发人员。</strong>  </p>
+                                            <p>SuiteCloud开发人员考试：</p>
+                                            <ul>
+                                                <li>注册费：250美元</li>
+                                                <li>补考费：150美元</li>
+                                                <li>120分钟内完成80个多选题和搭配题。</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>合格候选人的描述：</strong></p>
+                                            <p>该候选人在使用各种SuiteCloud技术方面拥有1 - 2年的经验。此外，这个人有2 - 3年的相关软件开发经验。此人拥有设计，开发，测试和部署安全，可扩展，可靠的性能解决方案所需的知识和技能，以定制，扩展和/或与NetSuite交互。候选人可以解释NetSuite开发和平台选项的含义和好处。</p>
+                                            <p>了解JavaScript，SQL，SOAP，XML，JSON和REST技术也很有帮助。</p>
+                                            <p class="margin-top-30"><strong>考试涵盖的学科领域：</strong></p>
+                                            <ul>
+                                                <li>SuiteScript（2.0之前版）</li>
+                                                <li>SuiteAnalytics</li>
+                                                <li>SuiteFlow</li>
+                                                <li>SuiteTalk</li>
+                                                <li>SuiteBundler</li>
+                                                <li>SuiteBuilder</li>
+                                                <li>设计基础</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>推荐要求：</strong></p>
+                                            <p>推荐课程：</p>
+                                            <ul>
+                                                <li><a href="/portal/services/training/description-essentials.shtml">NetSuite Essentials</a></li>
+                                                <li><a href="/portal/services/training/description-suite-analytics-reports-and-searches.shtml">SuiteAnalytics: 报告和搜索</a></li>
+                                                <li><a href="/portal/services/training/description-suite-analytics-advanced-searches.shtml">SuiteAnalytics: 高级搜索</a></li>
+                                                <li><a href="/portal/services/training/description-suitecloud-exploring-the-netsuite-platform.shtml">SuiteCloud: 探索NetSuite平台</a></li>
+                                                <li><a href="/portal/services/training/description-suiteflow-workflows-for-developers.shtml">SuiteFlow: 开发人员的工作流程</a></li>
+                                                <li><a href="/portal/services/training/description-suitescript.shtml">SuiteScript 1.0: 使用JavaScript扩展NetSuite</a></li>
+                                                <li><a href="/portal/services/training/description-suitetalk.shtml">SuiteTalk: 集成您的应用程序</a></li>
+                                                <li><a href="/portal/services/training/description-suitecloud-dev-exam-preparation.shtml">NetSuite Certification: SuiteCloud开发人员考试准备</a></li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>SuiteCloud开发人员学习指南：</strong></p>
+                                            <p>有关SuiteCloud Developer Exam和所包含主题的更多详细信息，请访问此处。</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+                                
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse6" aria-expanded="false" class="collapsed">
+                                            SUITECOMMERCE开发人员认证 </a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse6" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p><strong>考试流程</strong></p>
+                                            <p>SuiteCommerce开发人员认证只需要一个考试：SuiteCommerce Developer Exam</p>
+                                            <p class="margin-top-30"><strong>关于NetSuite SuiteCommerce Developer考试</strong></p>
+                                            <p>通过此SuiteCommerce Developer考试证明您具备创建，扩展和实施NetSuite商务应用程序所需的知识和技能。请参阅下面的合格候选人说明。</p>
+                                            <p>费用：250美元<br>
+                                                补考费（要求优惠券）：150美元
+                                            </p>
+                                            <p><strong>条件：</strong></p>
+                                            <ul>
+                                                <li>这将是一个现场直播考试。还提供在线监控测试。</li>
+                                                <li>考试期间不得使用书面或在线参考资料。</li>
+                                                <li>120分钟内完成大约77个多选题和搭配题。</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>合格候选人的描述：</strong></p>
+                                            <p>明确合格的候选人有1 - 2年与SuiteCommerce相关的工作经验。除了NetSuite的开发经验之外，他们还拥有实用知识。他们可以构建满足客户需求的解决方案，其中可能包括工作流，脚本或与外部系统的集成。此外，候选人可能拥有2 - 3年的相关Web开发经验。</p>
+                                            <p>此人具有创建，扩展和实施NetSuite商务应用程序所需的知识和技能。此人了解安全，可扩展，可靠且高性能的解决方案，以定制，扩展和/或与NetSuite交互。此人具有SuiteScript的基本知识。</p>
+                                            <p>了解JavaScript，JSON，HTML，CSS和REST技术以及电子商务基础知识也很有帮助。</p>
+                                            <p class="margin-top-30">维护您的认证</p>
+                                            <p>维护NetSuite SuiteCommerce Developer认证将有2个持续的要求：</p>
+                                            <p class="margin-top-30"><strong>年度维护</strong></p>
+                                            <p>NetSuite将每年发布一次 “SuiteCommerce新发布测验” （注意，这将与其他NetSuite认证的测验不同），以验证关于去年发布的与SuiteCommerce相关的新NetSuite功能的认知。有关此新版本测验可用性的信息将通过以下方式传达：</p>
+                                            <ul>
+                                                <li>发布到认证网页上的公告：www.netsuite.com/certification</li>
+                                                <li>发布到封闭的LinkedIn NetSuite认证SuiteCommerce开发群组</li>
+                                                <li>通过电子邮件发送到NetSuite认证状态搜索工具中的电子邮件</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>刷新SuiteCommerce开发人员考试</strong></p>
+                                            <p>NetSuite将每3-4年重修一次SuiteCommerce Developer Exam。NetSuite认证的SuiteCommerce开发人员将被要求每3-4年重修一次并通过此考试，以维持其认证。</p>
+                                            <p class="margin-top-30"><strong>推荐的培训和背景：</strong></p>
+                                            <p><strong>推荐的培训课程：</strong></p>
+                                            <ul>
+                                                <li>SuiteCommerce Advanced for Developers（5天课程）</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>推荐技能等级: </strong></p>
+                                            <p>1至2年的SuiteCloud Technologies工作经验<br>
+                                                2-3年相关软件开发经验<br>
+                                                JavaScript，SQL，SOAP，XML，JSON和REST技术知识
+                                            </p>
+                                            <p class="margin-top-30"><strong>测试涵盖的学科领域：</strong></p>
+                                            <p>所有考试题均基于SuiteCommerce Advanced Denali Release（2015年9月）。</p>
+                                            <p>这些是考试中涉及的广泛主题领域：</p>
+                                            <ul>
+                                                <li>SuiteCloud</li>
+                                                <li>API和服务</li>
+                                                <li>SuiteCommerce高级应用程序</li>
+                                                <li>帐户配置和设置</li>
+                                                <li>设计基础</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>SuiteCommerce Developer Study Guide:</strong></p>
+                                            <p>More detailed information about the SuiteCommerce Developer Exam and included Topics can be found <a href="https://system.netsuite.com/core/media/media.nl?id=46074939&amp;c=NLCORP&amp;h=ecadb7eee66e37b93ed4&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite"><strong>HERE</strong></a>.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+                                
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse7" aria-expanded="false" class="collapsed">
+                                            New Release Quiz</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse7" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p>The annual New Release Quiz is an open-book, unproctored, online quiz to verify awareness of the two new releases each year.  They are made available in conjunction with the second release of the year.</p>
+                                            <p>For the Annual New Release Quiz, anyone who passed their NetSuite Certification Exam earlier than January 1 of the current year is required to pass the New Release Quiz to keep their Certification Status “Current”. To check the date you passed your NetSuite Certification Exams, you can click the Verify Certification button above.</p>
+                                            <p>Questions will be Multiple Choice, Multi-Select, or Matching.  All questions will be based upon the Release Notes.  Review of the Release Notes ahead of the New Release Quiz is recommended, and these can also be referenced during the Quiz itself.  Resources for more in-depth learning of each New Release include: </p>
+                                            <ul>
+                                                <li>Release Notes</li>
+                                                <li>Release Preview Videos</li>
+                                                <li>Product Manager recorded trainings in SuiteAnswers</li>
+                                                <li>SuiteAnswers articles</li>
+                                            </ul>
+                                            <p class="margin-top-20"> These resources are available in SuiteAnswers during each release. </p>
+                                            <p>The New Release Quiz is available on the same testing platform as all other NetSuite Certification Exams.  Please click the <strong>Register for Exam</strong> button above, or log in at <a href="http://www.webassessor.com/netsuite" target="_blank">www.webassessor.com/netsuite</a>.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+								
+								<hr class="margin-top-60">
+								<h3 class="margin-top-60">User Certifications</h3>
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseSAUserCert" aria-expanded="false" class="collapsed">
+                                            SuiteAnalytics User</a>
+                                        </h4>
+                                    </div>
+									<div id="collapseSAUserCert" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+										<div class="panel-body">
+											<p class="margin-top-30"><strong>About the SuiteAnalytics User Exam</strong></p>
+											<p>Passing this exam confirms that you have the foundational knowledge and skills necessary to understand and use the searches, reports, and dashboard features of NetSuite. The credential awarded for passing this exam is the <strong>NetSuite Certified SuiteAnalytics User</strong>.</p>
+											<ul>
+                                                <li>Registration Fee: $150</li>
+                                                <li>Retake Fee: $150</li>
+                                                <li>60 minutes allotted to complete 30 multiple-choice and matching questions</li>
+                                            </ul>
+											<p class="margin-top-30"><strong>Description of a Qualified Candidate:</strong> </p>
+											<p>The candidate has a solid understanding of NetSuite data structure and can pull 	data from NetSuite using Reports, Financial Reports, and Searches functionality. The candidate can identify the differences between the capabilities of these tools, and knows how to customize layout and format across all of them. They understand how to use expressions, functions, and formulas in NetSuite SuiteAnalytics. The candidate can build dashboards to suit the needs of a variety of end users.</p>
+											<p class="margin-top-30"><strong>Subject Areas Covered by Exam:</strong></p>
+                                            <ul>
+                                                <li>Reports and Searches</li>
+                                                <li>Advanced Searches</li>
+                                                <li>Report Builder</li>
+                                            </ul>
+											<p class="margin-top-30"><strong>Recommended Training and Background:</strong></p>
+                                            <ul>
+                                                <li><a href="/portal/services/training/description-suite-analytics-reports-and-searches.shtml" data-linktrack="true" data-tracklinktext="reportsAndSearches">SuiteAnalytics: Reports and Searches</a> (2 days) OR <a href="/portal/services/training/description-suite-analytics-financial-report.shtml" data-linktrack="true" data-tracklinktext="finReportsAndSearches">SuiteAnalytics: Financial Reports and Searches</a> (2 days)</li>
+                                                <li><a href="/portal/services/training/description-suite-analytics-advanced-searches.shtml" data-linktrack="true" data-tracklinktext="advReportsAndSearches">SuiteAnalytics: Advanced Searches</a> (2 days)</li>
+												<li>Six months experience building searches and reports in NetSuite using SuiteAnalytics platform</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>Maintaining Your NetSuite Certified Status:</strong></p>
+                                            <p>For details about retake policy and ongoing requirements to maintain your certification or examination status, see the NS Certification Policy available on the NS Certification webpage.</p>
+                                            <p>More detailed information about the SuiteAnalytics User Exam and included topics can be found in the Study Guide posted <a href="https://system.netsuite.com/core/media/media.nl?id=91302483&amp;c=NLCORP&amp;h=2e19a12729b0898c9265&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-tracklinktext="saUserExam" data-linkblocking="true">here</a>.</p>
+                                            <p>SuiteAnalytics User Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=94028159&amp;c=NLCORP&amp;h=4f103bd12cc1f2b61c41&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a>.</p>
+										</div>
+									</div>
+								</div>
+								
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseFinUserCert" aria-expanded="false" class="collapsed">
+                                            Financial User</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapseFinUserCert" class="panel-collapse collapse" aria-expanded="false">
+                                        <div class="panel-body">
+                                            <p><strong>Announcing the BRAND NEW NETSUITE CERTIFIED FINANCIAL USER!</strong></p>
+                                            <p class="margin-top-30"><strong>About the Financial User Exam</strong></p>
+                                            <p>Passing this exam confirms that you have the foundational knowledge necessary to navigate around the NetSuite system and understand core NetSuite accounting and finance functionality.  The credential awarded for passing this exam is <strong>NetSuite Certified Financial User</strong>.</p>
+                                            <ul>
+                                                <li>Registration Fee: $150</li>
+                                                <li>Retake Fee: $150</li>
+                                                <li>60 minutes allotted to complete 30 multiple-choice and matching questions</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>Description of a Qualified Candidate:</strong> </p>
+                                            <p>The candidate can navigate all finance/accounting parts of the NS application, and understands where to find resources. They can articulate the features and standard modules related to accounting. They understand NetSuite release cycles and can find information about the product. They can articulate NetSuite standard accounting process flows.</p>
+                                            <p class="margin-top-30"><strong>Subject Areas Covered by Exam:</strong></p>
+                                            <ul>
+                                                <li>Subsidiaries, Classifications, Chart of Accounts</li>
+                                                <li>Accounts Receivable</li>
+                                                <li>Billing Schedules</li>
+                                                <li>Accounts Payable</li>
+                                                <li>Banking and Payment Processing</li>
+                                                <li>Journal Entries</li>
+                                                <li>Budgeting</li>
+                                                <li>Expense Allocations</li>
+                                                <li>Financial Reports and KPIs</li>
+                                                <li>Period and Year-End Close</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>Recommended Training and Background:</strong></p>
+                                            <ul>
+                                                <li><a href="/portal/services/training/finance-fundamentals.shtml" data-linktrack="true" data-tracklinktext="financialManagement">NetSuite: Financial Management</a> (2 days)</li>
+                                                <li>Three months experience in accounting or finance roles using any system</li>
+                                            </ul>
+                                            <p class="margin-top-30"><strong>Maintaining Your NetSuite Certified Status:</strong></p>
+                                            <p>For details about retake policy and ongoing requirements to maintain your certification or examination status, see the NS Certification Policy available on the NS Certification webpage.</p>
+                                            <p>More detailed information about the <a href="https://system.netsuite.com/core/media/media.nl?id=69124410&amp;c=NLCORP&amp;h=99c97e348b106147e7e9&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-tracklinktext="finUserExam" data-linkblocking="true">Financial User Exam</a> and included topics can be found in the Study Guide posted <a href="https://system.netsuite.com/core/media/media.nl?id=69124410&amp;c=NLCORP&amp;h=99c97e348b106147e7e9&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">here</a>.</p>
+                                            <p>Financial User Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=79214945&amp;c=NLCORP&amp;h=b71ed20378560aa76efb&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+                                
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse8" aria-expanded="false" class="collapsed">
+                                            Study Guides</a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse8" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+                                        <div class="panel-body">
+                                            <p><a href="https://system.netsuite.com/core/media/media.nl?id=22022725&amp;c=NLCORP&amp;h=2fa069e18dbf862a3620&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">Administrator Exam</a></p>
+                                            <p><a href="https://system.netsuite.com/core/media/media.nl?id=9624943&amp;c=NLCORP&amp;h=c2fa8f7fa73ab7588d48&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">ERP Consultant Exam</a></p>
+											<p><a href="https://system.netsuite.com/core/media/media.nl?id=69124410&amp;c=NLCORP&amp;h=99c97e348b106147e7e9&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">Financial User Exam</a></p>
+											<p><a href="https://system.netsuite.com/core/media/media.nl?id=91302483&amp;c=NLCORP&amp;h=2e19a12729b0898c9265&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">SuiteAnalytics User Exam (New!)</a></p>
+                                            <p><a href="https://system.netsuite.com/core/media/media.nl?id=17497271&amp;c=NLCORP&amp;h=b0d85d1e49efa46bf61b&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">SuiteCloud Developer Exam</a></p>
+                                            <p><a href="https://system.netsuite.com/core/media/media.nl?id=46074939&amp;c=NLCORP&amp;h=ecadb7eee66e37b93ed4&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">SuiteCommerce Developer Exam</a></p>
+											<p><a href="https://system.netsuite.com/core/media/media.nl?id=9624945&amp;c=NLCORP&amp;h=25d26d746ab696f814a1&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">SuiteFoundation Exam</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end panel default -->
+                                
+                                <div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapsesampletest" aria-expanded="false" class="collapsed">
+											Sample Tests </a>
+										</h4>
+									</div>
+									<div id="collapsesampletest" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+										<div class="panel-body">
+											<p>Administrator Exam Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=65896308&amp;c=NLCORP&amp;h=cb6f5a6a9d72fa6863ca&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a></p>
+											<p>ERP Consultant Exam Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=65896304&amp;c=NLCORP&amp;h=c5005cb1f5cfa7fe062b&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a></p>
+											<p>Financial User Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=79214945&amp;c=NLCORP&amp;h=b71ed20378560aa76efb&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a></p>
+											<p>SuiteAnalytics User Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=94028159&amp;c=NLCORP&amp;h=4f103bd12cc1f2b61c41&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a></p>
+											<p>SuiteFoundation Exam Sample Test available <a href="https://system.netsuite.com/core/media/media.nl?id=60106453&amp;c=NLCORP&amp;h=e63f1d4bbbf4fb9d3804&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank">HERE</a></p>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+                                
+								<hr class="margin-top-60">
+								<h3 class="margin-top-60">FAQ</h3>                            
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFaq1" aria-expanded="false" class="collapsed">
+											About the Program</a>
+										</h4>
+									</div>
+									<div id="collapseFaq1" class="panel-collapse collapse" aria-expanded="false">
+										<div class="panel-body">
+											<p><strong>What is the difference between Administrator and User level certifications?</strong></p>
+											<p>User level certification exams are shorter, and require less experience with NetSuite. Typically, NetSuite Customer end users will find these certifications are a good match with their knowledge of NetSuite. Administrator level exams, on the other hand, require understanding of NetSuite setup, configuration, and standard vs. custom processes. These exams are longer and more challenging.</p>
+											<p class="margin-top-30"><strong>What terms apply to me if I participate in NetSuite’s exam and certification program?</strong></p>
+											<p>You must review and agree to all terms in <a href="https://system.netsuite.com/core/media/media.nl?id=10263318&amp;c=NLCORP&amp;h=85a2c6855f4bceb543de&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">NetSuite's Certification Policy</a> and the NetSuite Certification Agreement and other policies provided or made available to you by NetSuite.</p>
+											<p class="margin-top-30"><strong>Why "ERP" Consultant?  What about CRM, Ecommerce, or other specializations?</strong></p>
+											<p>Most customers rely on NetSuite ERP to run their business. Because of this, customers are demanding experienced NetSuite ERP consultants. We are offering the ERP Consultant Certification to meet this demand. </p>
+											<p class="margin-top-30"><strong>Do I have to pass the SuiteFoundation Exam separately for each additional Certification Title?</strong></p>
+											<p>Once you have passed the SuiteFoundation Exam, as long as you keep this status Current by passing the annual New Release Quiz, you do not need to take it again.  So, if you passed the SuiteFoundation once, this counts toward any or all of our certifications.</p>
+											<p class="margin-top-30"><strong>Once I have passed the SuiteFoundation Exam, how long do I have to take the next exam to complete my Certification Title?</strong></p>
+											<p>Once you have passed the SuiteFoundation Exam, as long as you keep this status Current by passing the annual New Release Quiz, there is no time limit on how long until you take your next exam. </p>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFaq2" aria-expanded="false" class="collapsed">
+											About the Exams</a>
+										</h4>
+									</div>
+									<div id="collapseFaq2" class="panel-collapse collapse" aria-expanded="false">
+										<div class="panel-body">
+											<p><strong>Where can I take the certification exam?  Do I have to go to a testing center?</strong></p>
+											<p>You sign up with the third party vendor Kryterion, who administers and proctors the computerized exams.  There will be 2 ways to take the exams:</p>
+											<ul>
+												<li>Testing center:  Search for locations using this link: <br>
+													<a href="http://www.kryteriononline.com/Locate-Test-Center" target="_blank">http://www.kryteriononline.com/Locate-Test-Center</a>
+												</li>
+												<li> Online proctored exam—installation of software is required ahead of time.  Internal (embedded) laptop camera is permitted.  More details are available here: 
+													<a href="http://www.kryteriononline.com/Delivery-Options/Online-Proctoring" target="_blank">http://kryteriononline.com/delivery-options/online-proctoring/</a> 
+												</li>
+											</ul>
+											<p class="margin-top-30"><strong>When can I sign up for the tests?  I want to be certified!</strong></p>
+											<p>You can register for an exam using this link: <a href="http://www.webassessor.com/netsuite" target="_blank">www.webassessor.com/netsuite</a></p>
+											<p class="margin-top-30"><strong>How much does an exam cost?</strong></p>
+											<p>Exams vary in cost depending on level. See each exam for details.</p>
+											<p>If you fail to pass an exam, you may request a discounted fee to retake it after 30 days, by emailing <a href="mailto:certification@netsuite.com">certification@netsuite.com</a>.</p>
+											<p class="margin-top-30"><strong>How do I purchase bulk vouchers?</strong></p>
+											<p>You need to fill in the <a href="https://system.netsuite.com/core/media/media.nl?id=87924399&amp;c=NLCORP&amp;h=fd99076aee44e3393622&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-tracklinktext="voucherForm" data-linkblocking="true">Bulk Voucher Purchase Form</a> and send it to Kryterion.  The vouchers will be good for 12 months from the date of purchase and no extension will be allowed.</p>                                                    
+											<p class="margin-top-30"><strong>What form will the questions take?  </strong></p>
+											<p>The questions are all multiple-choice or matching.  </p>
+											<p class="margin-top-30"><strong>In what languages are the NetSuite Certification Exams available? </strong></p>
+											<p>The NetSuite Certification Exams are in English only.  Non-native English speakers may request additional time by emailing <a href="mailto:certification@netsuite.com">certification@netsuite.com</a>.  Please allow two weeks for your request to completed. </p>
+											<p class="margin-top-30"><strong>Will I have access to a demo account while I am taking the test?  (So I can look up SuiteAnswers?)</strong></p>
+											<p>The computer screens are locked during the exam, so there is no access to any materials or online sources for information.  Scratch paper and calculators are not allowed.</p>
+											<p class="margin-top-30"><strong>I have dyslexia, I am not a native English speaker, I have Test Anxiety, or otherwise need assistance. Can you provide special accommodation for the exam? </strong></p>
+											<p>If you need a special accommodation in testing, please contact <a href="mailto:certification@netsuite.com">certification@netsuite.com</a> 60 days in advance of your desired testing date. </p>
+											<p class="margin-top-30"><strong>Will I know right away if I passed or failed?</strong></p>
+											<p>Yes, test results will be available immediately.</p>
+											<p class="margin-top-30"><strong>What score do I need to get to pass?</strong></p>
+											<p>The required passing score is confidential.</p>
+											<p class="margin-top-30"><strong>If I fail, how soon can I retake the test?</strong></p>
+											<p>A 30-day waiting period between re-tests is required.</p>
+											<p class="margin-top-30"><strong>If I fail, will you tell me what areas I should study?</strong></p>
+											<p>You will be notified of sections where you scored less than 50% correct.  It is possible to score above 50% on all sections and still be below the passing score.</p>
+											<p class="margin-top-30"><strong>How long are the exams?</strong></p>
+											<p>Duration of each exam, and number of questions, are listed in the study guide for each exam.</p>
+											<p class="margin-top-30"><strong>How can we reschedule in less than 72 hours before the exam?</strong></p>
+											<p>The 72-hour advance notice required to reschedule exams is not controlled by NetSuite.  This is a policy of our testing vendor, and is part of their contract with the testing centers.  We have no ability to reschedule the exam within that 72-hour window, nor can we waive your testing fees. </p>
+											<p class="margin-top-30"><strong>What version are the exams written on?</strong></p>
+											<p>As a cloud company, NetSuite Certification exams are constantly updated to match the current version of the NetSuite product.  However, we roll out our new release in phases, and some customers may be on the leading (new) release while other customers are on the lagging (old) release, for a period of time.  Click this <a href="https://system.netsuite.com/core/media/media.nl?id=99488216&amp;c=NLCORP&amp;h=55cb63317d003fccfb4a&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linktrack="true" data-tracklinktext="examVersions" data-linkblocking="true">link</a> for a table that clarifies when the exams and study guides have been updated.</p>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFaq3" aria-expanded="false" class="collapsed">
+											About Preparing for the Test</a>
+										</h4>
+									</div>
+									<div id="collapseFaq3" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+										<div class="panel-body">
+											<p><strong>Where can I find Study Guides for the exams?</strong></p>
+											<p>The Study Guides are available under the Exam descriptions above, and under the Study Guides section.</p>
+											<p class="margin-top-30"><strong>Will there be required training before I can take the certification exams?</strong></p>
+											<p> Recommended training is identified in the exam descriptions and study guides found on the certification webpage tabs. Contact <a href="mailto:training@netsuite.com">training@netsuite.com</a> for help in developing a learning plan tailored to your needs and requirements for certification.</p>
+											<p class="margin-top-30"><strong>If I take the training, will I be guaranteed to pass the exams?</strong></p>
+											<p>Completing NetSuite training does not guarantee that you will pass the exams; however, formal training will help you prepare for the exam and ensure that you have core NetSuite knowledge. </p>
+											<p class="margin-top-30"><strong>Where can I find sample Tests?</strong></p>
+											<p>Please see Sample Test section above. Future versions will be posted as they become available.</p>
+											<p class="margin-top-30"><strong>I want to do the testing online.  What setup do I need?</strong></p>
+											<p>The most important requirement is to click on the correct Exam when registering.  Click "<strong>Online</strong>" for the online proctor service (also called "Secure Wrapper Proctored").</p>
+											<p>You may use your internal (embedded) camera in your laptop computer, but you will have to install software ahead of the exam date.  More details are available at this link: <a href="http://www.kryteriononline.com/docs/PreparingForYourExam.pdf" target="_blank">http://www.kryteriononline.com/docs/PreparingForYourExam.pdf</a></p>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFaq4" aria-expanded="false" class="collapsed">
+											Test-Taker Support</a>
+										</h4>
+									</div>
+									<div id="collapseFaq4" class="panel-collapse collapse" aria-expanded="false">
+										<div class="panel-body">
+											<p><strong>How do I prepare for an Online Proctored Exam?</strong></p>
+											<ol type="A">
+												<li><strong>Prepare your computer one week in advance</strong> of your exam appointment. Click <a href="http://www.kryteriononline.com/docs/PreparingForYourExam.pdf" target="_blank">here</a> to download and review the instructions and webcam requirements.</li>
+												<li>NOTE: You will need a separate webcam that is NOT the one embedded in your laptop.  If you do not have an approved webcam, you can purchase one from Kryterion by clicking <a href="/kryterion" target="_blank">here</a>.  <strong>Note that this transaction must be completed separately from exam registration.</strong></li>
+											</ol>
+											<p class="margin-top-30"><strong>How do I launch my online exam?</strong></p>
+											<ul>
+												<li>To launch the assessment(s), log into your Test Taker home page at <a href="http://www.webassessor.com/netsuite" target="_blank">http://www.webassessor.com/netsuite</a> using the login and password you received in your confirmation email from <a href="mailto:donotreply@kryteriononline.com">donotreply@kryteriononline.com</a>. </li>
+												<li>Click on the launch button to the right of the name of your assessment to begin.</li>
+											</ul>
+											<p class="margin-top-30"><strong>I am having trouble with the Online Proctored Exam!</strong></p>
+											<ul>
+												<li>If you are using the KRYTERION Online Proctored (OLP) Services (“Secure Wrapper Proctored”) and are having trouble with the installation of KRYTERION required software, biometric enrollment, and/or the test launch process including biometric authentication and camera placement, please contact KRYTERION OLP <strong>Support at 800-491-6595 or 602-659-4665 or send an email to olpsupport@kryteriononline.com</strong> Monday through Sunday from 8:00 AM to 12:00 AM (Arizona Time) and during all regularly scheduled Online Proctored testing sessions. 
+												</li>
+											</ul>
+											<p class="margin-top-30"><strong>How do I find the ONSITE Kryterion Test Center?</strong></p>
+											<ul>
+												<li>If you are having difficulties finding one of our Kryterion Testing Network (KTN) centers within a 100-mile radius, and/or a KTN center with available dates and times, please contact the KTN Support Team at 800-403-6199 (US and Canada) or +1 602-281-3591 Monday through Friday from 7:00 AM to 4:00 PM (Pacific time) or send an email to <a href="mailto:ktnsupport@kryteriononline.com">ktnsupport@kryteriononline.com</a>.</li>
+											</ul>
+											<p class="margin-top-30"><strong>How do I report problems with the Test Center?</strong></p>
+											<ul>
+												<li>If you feel you were not proctored properly, or if you observe any inappropriate behavior from the KTN center staff, please protect the integrity of your testing experience. Call or email the KTN Support Team using the above contact information.  </li>
+											</ul>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFaq5" aria-expanded="false" class="collapsed">
+											After the Exam</a>
+										</h4>
+									</div>
+									<div id="collapseFaq5" class="panel-collapse collapse" aria-expanded="false">
+										<div class="panel-body">
+											<p><strong>Once I pass the exam, how long to confirm my certification?</strong></p>
+											<p>Be sure to email us at <a href="mailto:certification@netsuite.com">certification@netsuite.com</a> to speed up the response time.  Allow approximately two weeks to receive confirmation of certification and related benefits.</p>
+											<p class="margin-top-30"><strong>How will someone be able to verify my Certification Status? </strong></p>
+											<ul>
+												<li>Anyone can use the NetSuite <a href="https://forms.netsuite.com/app/site/hosting/scriptlet.nl?script=1142&amp;deploy=1&amp;compid=NLCORP&amp;h=6abf91dbd1d6a750b29a&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite">Certification Status Search Tool</a> (see  button above).</li>
+												<li>If you pass the exam and your status is current, you can use the NetSuite Certification logo and other designations under the terms NetSuite provides. You as an individual (not your employer or organization) have the option to place a NetSuite Certification logo on your business cards, email signatures, resume and individual social media profile. </li>
+												<li>There are private Groups on LinkedIn which you may request to join, and which can then be displayed on your profile.</li>
+												<li>Alternatively NetSuite will confirm whether an individual has passed a particular exam or whether his/her status is current. To verify this information, please contact <a href="mailto:certification@netsuite.com">certification@netsuite.com</a>.</li>
+											</ul>
+											<p class="margin-top-30"><strong>How do I keep my Certification current ?</strong></p>
+											<p>Please refer to the Exam descriptions above, or the Certification Program agreement.</p>
+											<p class="margin-top-30"><strong>Will I get a logo to put on my company or organization website?</strong></p>
+											<p>No, the certification is for individuals, not companies or organizations.  Your employer or organization may state it has "X" number of individuals with a certification under the terms of the Certification Policy.</p>
+											<p class="margin-top-30"><strong>How do I notify the NetSuite Certification Program about a change in my email, location, or employer?</strong></p>
+											<p>The best way is to email us directly at <a href="mailto:certification@netsuite.com">certification@netsuite.com</a> with the new information.  You are responsible for keeping NetSuite informed if your contact or employer information changes.  This helps NetSuite administer the Program and communicate to you about important information that may affect your Certification.  We may also check your profile under <a href="http://www.webassessor.com/netsuite" target="_blank">www.webassessor.com/netsuite</a> to verify email if something bounces.</p>
+											<p class="margin-top-30"><strong>What does it mean an individual says "I am NetSuite Certified" or I see a NetSuite Certified logo on a person's business card, resume, email or social media page?</strong></p>
+											<p>An individual may only make this statement if they have successfully passed required Exams to earn a NetSuite certified title and currently satisfy all requirements of the program, including periodic re-testing and ongoing compliance requirements. . See <a href="/portal/services/training/certification.shtml">http://www.netsuite.com/certification</a> under each Exam tab for recommended prior background and experience for a test taker.</p>
+											<p class="margin-top-30"><strong>How do I notify NetSuite of improper use of NetSuite certification logos, titles, or other improper claims?</strong></p>
+											<p>Please send email to the NetSuite Certification team at <a href="mailto:certification@netsuite.com">certification@netsuite.com</a> with details of the improper use, including person or company and media involved</p>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+								
+								<div class="panel panel-default">
+									<div class="panel-heading">
+										<h4 class="panel-title">
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFaq6" aria-expanded="false" class="collapsed">
+											About the New Release Quiz</a>
+										</h4>
+									</div>
+									<div id="collapseFaq6" class="panel-collapse collapse" aria-expanded="false">
+										<div class="panel-body">										
+											<p><strong>How do I register to take the Annual New Release Quiz?</strong></p>
+											<p>The New Release Quiz is available on the same testing platform as all other NetSuite Certification Exams.  Please click the <strong>Register for Exam</strong> button, or log in at <a href="http://www.webassessor.com/netsuite" target="_blank">www.webassessor.com/netsuite</a>.</p>
+											<p class="margin-top-30"><strong>How do I know if I must take the Annual New Release Quiz?</strong></p>
+											<p>Only Administrator level certifications require the Annual New Release Quiz. If you have an Administrator level certification, then check the date you passed your NetSuite Certification Exam(s). You must take the New Release Quiz for each year AFTER you became NetSuite Certified. If you don’t remember, you can click the Verify Certification button on the right side above.</p>
+										</div>
+									</div>
+								</div>
+								<!-- end panel default -->
+                            </div>
+                            <!-- end row -->
+                            
+							<hr class="margin-top-60">
+                            <div class="row margin-top-60 margin-bottom-50">
+                                <div class="col-sm-12">
+                                    <p><a href="https://forms.netsuite.com/app/site/hosting/scriptlet.nl?script=1142&amp;deploy=1&amp;compid=NLCORP&amp;h=6abf91dbd1d6a750b29a&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" title="Certification Status Search Tool">Certification Status Search Tool</a>  </p>
+                                    <p><a href="https://system.netsuite.com/core/media/media.nl?id=10263099&amp;c=NLCORP&amp;h=f271cd2febe7c268c96b&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" title="Print FAQs">Print FAQs</a>  </p>
+                                    <p><a href="https://system.netsuite.com/core/media/media.nl?id=10263318&amp;c=NLCORP&amp;h=85a2c6855f4bceb543de&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" title="Print NetSuite Certification Policy">Print NetSuite Certification Policy</a> </p>
+                                    <p><a href="https://system.netsuite.com/core/media/media.nl?id=14833595&amp;c=NLCORP&amp;h=3b6468047df6f626409d&amp;_xt=.pdf&amp;vid=byjEP9BpAsalQdsx&amp;chrole=17&amp;ck=0E-J2dBpAsKlQSCb&amp;cktime=158203&amp;promocode=&amp;promocodeaction=overwrite" title="Certification Program Announcements">Certification Program Announcements</a> </p>
+                                    <p><a href="mailto:certification@netsuite.com" title="Click to Report Cheating">Click to Report Cheating</a></p>
+                                    <p><a href="mailto:certification@netsuite.com" title="Contact NetSuite Certification Team">Contact NetSuite Certification Team</a></p>
+                                </div>
+                            </div>
+                            <!-- end row -->
+                        </div>
+                    </div>
+                    <div class="row">
+   <div class="col-sm-12">
+      <hr>
+   </div>
+</div>
+<div class="row">
+   <div class="col-sm-3 margin-top-20">
+      <br>
+      <p><img src="/portal/assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
+   </div>
+   <div class="col-sm-9 margin-top-40">
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
+   </div>
+</div>
+
+
+                
+                <!--内容结束-->
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+   
+    <!-- JavaScript
+
+================================================== -->
+
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/jquery.stickytabs.js"></script>
+
+<script type="text/javascript" src="/assets/js/jquery.rwdImageMaps.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/ns-scripts.js"></script> 
+
+<script type="text/javascript" src="/assets/js/plugins.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/jquery.mousewheel.min.js"></script>
+
+<script type="text/javascript" src="/assets/js/jquery.smoothdivscroll-1.3-min.js"></script>
+
+<script type="text/javascript" src="/assets/js/vendor/jquery.prettyPhoto.js"></script>
+<!--#include file="inc/footer.Asp"-->
+<!--#include file="inc/sidebar.asp"-->
+</body>
+</html>

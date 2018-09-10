@@ -14,14 +14,14 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
-<p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
+<h5 class="wow fadeInUp">NETSUITE用户启用</h5>
+<p class="txt wow fadeInUp" data-wow-delay="150ms">影响NetSuite成功的最关键因素之一是用户的熟练程度。本课程旨在确保您的用户充分利用NetSuite的特性和功能。</p>
 </div>
-<section>
+<section class='hidden'>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h2 class="pageTitle">One of the most critical factors impacting your success with NetSuite is the proficiency of your users. We are here to help ensure your users take full advantage of NetSuite’s features and capabilities.</h2>
+                    <h2 class="pageTitle">影响NetSuite成功的最关键因素之一是用户的熟练程度。本课程旨在确保您的用户充分利用NetSuite的特性和功能。</h2>
                 </div>
             </div>
         </div>
@@ -63,34 +63,34 @@ tdkid=2
                 <div class="col-sm-9 " data-linkcontainer="lt_section" data-tracklinktext="catalogSection">
                 <!--内容开始-->
  
-                    <h3>The Process</h3>
-                    <p>Utilizing our expert NetSuite education consultants, we will develop a comprehensive plan designed to fit your users’ learning needs and drive business results. This may include:</p>
+                    <h3>过程</h3>
+                    <p>我们专业的NetSuite教育顾问将制定一个全面的计划，旨在满足用户的学习需求并推动业务成果。这可能包括：</p>
                     <ul>
-                        <li><a href="/portal/pdf/ds-netsuite-user-enablement-custom-training-sessions.pdf" data-linktrack="true" data-tracklinktext="userEnablementDatasheet">Professionally led custom training sessions</a></li>
-                        <li><a href="https://netsuite.adobeconnect.com/_a712567799/p64jg5hz0i4/" target="_blank" data-tlcrossdomain="true" data-linktrack="true" data-tracklinktext="eLearningSolutions">eLearning solutions</a></li>
-                        <li><a href="https://system.netsuite.com/core/media/media.nl?id=90649804&amp;c=NLCORP&amp;h=a6035ddc5235f6f724df&amp;_xt=.pdf&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158129&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linkblocking="true" data-linktrack="true" data-tracklinktext="quickReferenceCard">Performance support materials</a></li>
-                        <li><a href="https://system.netsuite.com/core/media/media.nl?id=55365347&amp;c=NLCORP&amp;h=dd1af7d7aa697c3c5c2d&amp;_xt=.pdf&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158129&amp;promocode=&amp;promocodeaction=overwrite" data-linktrack="true" data-tracklinktext="trainTheTrainer">Train the Trainer</a></li>
+                        <li><a href="/portal/pdf/ds-netsuite-user-enablement-custom-training-sessions.pdf" data-linktrack="true" data-tracklinktext="userEnablementDatasheet">专业领导的定制培训课程</a></li>
+                        <li><a href="https://netsuite.adobeconnect.com/_a712567799/p64jg5hz0i4/" target="_blank" data-tlcrossdomain="true" data-linktrack="true" data-tracklinktext="eLearningSolutions">电子教学解决方案</a></li>
+                        <li><a href="https://system.netsuite.com/core/media/media.nl?id=90649804&amp;c=NLCORP&amp;h=a6035ddc5235f6f724df&amp;_xt=.pdf&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158129&amp;promocode=&amp;promocodeaction=overwrite" target="_blank" data-linkblocking="true" data-linktrack="true" data-tracklinktext="quickReferenceCard">绩效支持材料</a></li>
+                        <li><a href="https://system.netsuite.com/core/media/media.nl?id=55365347&amp;c=NLCORP&amp;h=dd1af7d7aa697c3c5c2d&amp;_xt=.pdf&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158129&amp;promocode=&amp;promocodeaction=overwrite" data-linktrack="true" data-tracklinktext="trainTheTrainer">训练实习者</a></li>
                     </ul>
                     <hr class="margin-top-20">
                     <div class="row margin-top-60">
                         <div class="col-sm-12">
-                            <h3>Experience</h3>
-                            <p>Available on-site or online, our tailored training courses are packed with:</p>
+                            <h3>经验</h3>
+                            <p>我们的定制培训课程可在现场或在线获得，包括：</p>
                             <ul>
-                                <li>Demonstrations</li>
-                                <li>Participant interactivity</li>
-                                <li>Reinforcement discussions </li>
-                                <li>Hands-on exercises </li>
+                                <li>Demo演示</li>
+                                <li>参与者互动</li>
+                                <li>加强讨论</li>
+                                <li>动手练习</li>
                             </ul>
-                            <p>Our education consultants bring decades of industry expertise, NetSuite knowledge, and adult learning skills to your project.</p>
+                            <p>我们的教育顾问拥有数十年的行业专业知识，NetSuite知识和成人学习技能。</p>
                         </div>
                     </div>
                     <hr class="margin-top-20">
                     <div class="row margin-top-60">
                         <div class="col-sm-12">
-                            <h3>Outcomes</h3>
-                            <p>Whether you are beginning your NetSuite journey or have a need to optimize skills, let us put the optimal enablement program in place for you.</p>
-                            <p>Contact <a href="mailto:educationadvisor@netsuite.com" data-linktrack="true" data-tracklinktext="educationadvisorEmail">educationadvisor@netsuite.com</a> to have a NetSuite Education Advisor work with you on creating a tailored plan and begin empowering your users for better outcomes today.</p>
+                            <h3>成果</h3>
+                            <p>无论您是开始NetSuite之旅还是需要优化技能，我们都会为您制定最佳的启用计划。</p>
+                            <p>请联系educationadvisor@netsuite.com，让NetSuite教育顾问与您一起制定量身定制的计划，并开始为您的用户提供更好的成果。</p>
                         </div>
                     </div>
                     <div class="row">
@@ -107,8 +107,8 @@ tdkid=2
       <p><img src="/portal/assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
-      <h3>CPE credits</h3>
-      <p>CPE credits are available for NetSuite courses. <br><a href="/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">Check out our CPE list for details</a>.</p>
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
    </div>
 </div>
 

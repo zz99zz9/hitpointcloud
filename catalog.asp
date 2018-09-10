@@ -14,7 +14,7 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
+<h5 class="wow fadeInUp">课程目录</h5>
 <p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
 </div>
 
@@ -58,29 +58,29 @@ dim i
 dim sql,rs
 i=1
 i1=1
-sql1="select * From [courses] where id>0"
-sql1=sql1 & " order by oid desc,ID desc"
+sql1="select * From [class_sy] where cid>0"
+sql1=sql1 & " order by oid desc,cID desc"
 Set rs1= Server.CreateObject("ADODB.Recordset")
 rs1.open sql1,conn,1,1
 %>
 
                <table class="table">
-<%do while not rs.eof%>
+<%do while not rs1.eof%>
                  <tr>
                         <td colspan="3">
                            <a name="setting-up-configuring" class="anchor"></a>
-                           <h3>设置与配置</h3>
+                           <h3><%=rs1("Cname")%></h3>
                         </td>
                      </tr>
-<%sql="select * From [courses] where id>0"
+<%sql="select * From [courses] where csy='"&rs1("cid")&"'"
 sql=sql & " order by oid desc,ID desc"
 Set rs= Server.CreateObject("ADODB.Recordset")
 rs.open sql,conn,1,1%>
 <%do while not rs.eof%>
                      <tr>
-                        <td width="60%"><a href="#" data-linktrack="true" data-tracklinktext="netsuiteEssentialsText">NetSuite基础课程</a></td>
-                        <td>5 天</td>
-                        <td><a href="#A" data-linktrack="true" data-tracklinktext="courseScheduleLink">课程安排</a></td>
+                        <td width="60%"><a href="courses-detail.asp?id=<%=rs("id")%>" data-linktrack="true" data-tracklinktext="netsuiteEssentialsText"><%=rs("tit")%></a></td>
+                        <td><%=rs("ttime")%></td>
+                        <td><a href="schedule.asp#S<%=rs("id")%>" data-linktrack="true" data-tracklinktext="courseScheduleLink">课程安排</a></td>
                      </tr>
                      <%
 	i=i+1
@@ -108,8 +108,8 @@ rs.open sql,conn,1,1%>
       <p><img src="/assets/img/services/logo-cpe-sponsors.jpg" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
-      <h3>CPE credits</h3>
-      <p>CPE credits are available for NetSuite courses. <br><a href="/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">Check out our CPE list for details</a>.</p>
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
    </div>
 </div>
 

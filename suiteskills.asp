@@ -14,7 +14,7 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
+<h5 class="wow fadeInUp">SuiteSkills</h5>
 <p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
 </div>
 
@@ -55,40 +55,40 @@ tdkid=2
                 <!--内容开始-->
                 
 
-                    <p>With the SuiteSkills modular, customizable training options, getting your teams trained and on the path to greater productivity with NetSuite has never been easier!</p>
-                    <p>Don't waste your time with ineffective informal desk-side training.</p>
-                    <p>Let our NetSuite instructors educate your Sales, Support, Accounting, Marketing, and Operations teams and learn from the very best in the industry. No one knows NetSuite like NetSuite!</p>
-                    <p>How do you get started?</p>
+                    <p>通过SuiteSkills模块化、可定制的培训选项培训团队，提高工作效率从未如此简单！</p>
+                    <p>不要浪费你的时间进行无效的非正式桌面培训。</p>
+                    <p>让我们的NetSuite讲师培训您的销售，支持，会计，营销和运营团队，并向业内最优秀的人员学习。没有人像NetSuite那样了解NetSuite！</p>
+                    <p>你是如何开始的？</p>
                     <hr class="margin-top-20">
-                    <h3 class="margin-top-60">It's as easy as 1, 2, 3</h3>
+                    <h3 class="margin-top-60">它就像1,2,3一样简单</h3>
                     <ol>
-                        <li>Choose areas of focus and audience.</li>
-                        <li>Choose virtual online delivery or onsite delivery*.</li>
-                        <li>Choose your performance support - standard job aids, customized job aids, or video eLearning.</li>
+                        <li>选择重点领域和受众。</li>
+                        <li>选择虚拟在线交付或现场交付*。</li>
+                        <li>选择您的性能支持 - 标准工作辅助工具，自定义工作辅助工具或视频电子学习。</li>
                     </ol>
                     <hr class="margin-top-20">
-                    <h3 class="margin-top-60">Benefits</h3>
+                    <h3 class="margin-top-60">优点</h3>
                     <ul>
-                        <li>Tailored delivery of topics most relevant to your current needs, on your schedule.</li>
-                        <li>Learn, apply and practice new skills with guidance from NetSuite experts.</li>
-                        <li>Immediately put what you've learned into practice and start achieving your business goals sooner.</li>
+                        <li>根据您的日程安排定制与您当前需求最相关的主题。</li>
+                        <li>在NetSuite专家的指导下学习，应用和练习新技能。</li>
+                        <li>立即将您学到的知识付诸实践，并尽快开始实现您的业务目标。</li>
                     </ul>
                     <hr class="margin-top-20">
-                    <h3 class="margin-top-60">Content</h3>
+                    <h3 class="margin-top-60">内容</h3>
                     <ul>
-                        <li>Choose from dozens of training topics, current with each NetSuite release.</li>
-                        <li>Each short targeted session includes:
+                        <li>从每个NetSuite版本的当前数十个培训主题中进行选择。</li>
+                        <li>每个短期目标会议包括：
                             <ul>
-                                <li>Live online or onsite* delivery of your tailored topics.</li>
-                                <li>Hands-on learning for your teams.</li>
-                                <li>Performance support of your choice.</li>
+                                <li>在线或现场直播*提供您量身定制的主题。</li>
+                                <li>为您的团队提供实践学习。</li>
+                                <li>您选择的性能支持。</li>
                             </ul>
                         </li>
                     </ul>
                     <hr class="margin-top-20">
-                    <p class="margin-top-60">Whether you are increasing the size of your NetSuite team or have a need to optimize your teams' efficiency, let us connect you with the SuiteSkills you need.</p>
-                    <p>Contact <a href="mailto:educationadvisor@netsuite.com?subject=Question%20about%20SuiteSkills">educationadvisor@netsuite.com</a> to work with a NetSuite Education Advisor to select your SuiteSkills and get more productive now!</p>
-                    <p>For more information, view the <a href="/portal/common/pdf/ds-suiteskills.pdf">Data Sheet</a>.</p>
+                    <p class="margin-top-60">无论您是增加NetSuite团队的规模还是需要优化团队效率，我们都会将您与所需的SuiteSkill联系起来。</p>
+                    <p>请联系educationadvisor@netsuite.com与NetSuite教育顾问合作，选择您的SuiteSkills并立即提高工作效率！</p>
+                    <p>有关更多信息，请查看 <a href="/portal/common/pdf/ds-suiteskills.pdf">数据表</a>。</p>
                     <p>* Onsite incurs additional T&amp;E costs.</p>
 
                 

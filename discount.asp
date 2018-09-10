@@ -14,7 +14,7 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
+<h5 class="wow fadeInUp">培训折扣</h5>
 <p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
 </div>
 
@@ -60,17 +60,17 @@ tdkid=2
             <ul class="nav nav-tabs row simple-tabs" role="tablist">
                 <li class="active">
                     <a href="#volume" data-toggle="tab" aria-expanded="true">
-                        Volume Discounts
+                        批量折扣
                     </a>
                 </li>
                 <li class="">
                     <a href="#training" data-toggle="tab" aria-expanded="false">
-                        Training Credits
+                        培训套餐
                     </a>
                 </li>
                 <li class="">
                     <a href="#authorized" data-toggle="tab" aria-expanded="false">
-                        Authorized Contacts Discounts
+                        授权联系人认证
                     </a>
                 </li>
             </ul>
@@ -91,7 +91,7 @@ tdkid=2
                                             <!-- start row -->
                                             <div class="row">
                                                 <div class="col-sm-12">
-                                                    <h3>Take Advantage of a SuiteTraining Volume Discount!!!</h3>
+                                                    <h3>利用SuiteTraining批量折扣！</h3>
                                                 </div>
                                             </div>
                                             <!-- end row -->
@@ -102,7 +102,7 @@ tdkid=2
                                                         <tbody><tr style="border:2px dashed #ccc;">
                                                             <td nowrap="nowrap" width="25%"><img src="/portal/common/img/training-20percent.png"></td>
                                                             <td>
-                                                                <h3>Save 20% if you register 2 in any courses!</h3>
+                                                                <h3>任选两门课程可享20%折扣！</h3>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -111,7 +111,7 @@ tdkid=2
                                                         <tr style="border:2px dashed #ccc;">
                                                             <td nowrap="nowrap" width="25%"><img src="/portal/common/img/training-25percent.png"></td>
                                                             <td>
-                                                                <h3>Save 25% if you register 3 in any courses!</h3>
+                                                                <h3>任选三门课程可享25%折扣！</h3>
                                                             </td>
                                                         </tr>
                                                         <tr>
@@ -120,7 +120,7 @@ tdkid=2
                                                         <tr style="border:2px dashed #ccc;">
                                                             <td nowrap="nowrap" width="25%"><img src="/portal/common/img/training-30percent.png"></td>
                                                             <td>
-                                                                <h3>Save 30% if you register 4 or more in any courses!</h3>
+                                                                <h3>任选四门课程可享30%折扣！</h3>
                                                             </td>
                                                         </tr>
                                                     </tbody></table>
@@ -130,7 +130,7 @@ tdkid=2
                                             <!-- start row -->
                                             <div class="row margin-top-30">
                                                 <div class="col-sm-12">
-                                                    <p>Discounts must be on the same order, they cannot be combined with other discounts or promotions; and cannot be applied to previously purchased classes.</p>
+                                                    <p>所选课程需在同一订单上才可享受折扣；不与其他折扣或促销活动同享；已完成订单无法享受折扣。</p>
                                                 </div>
                                             </div>
                                             <!-- end row -->
@@ -150,26 +150,26 @@ tdkid=2
                                     <!-- start row -->
                                     <div class="row">
                                         <div class="col-sm-12">
-                                            <h3>Training Day Packages</h3>
+                                            <h3>打包服务课程</h3>
                                         </div>
                                     </div>
                                     <!-- end row -->
                                     <!-- start row -->
                                     <div class="row padding-top-20">
                                         <div class="col-sm-12">
-                                            <p>Training packages can be used for Training On Demand or multi-day courses from our <a href="/portal/services/training/suite-training/catalog.shtml" data-linktrack="true" data-tracklinktext="courseCatalog">SuiteTraining Course Catalog</a></p>
+                                            <p>可用于我们的SuiteTraining课程目录中的按需培训或多日课程</p>
                                             <hr>
-                                            <h3 class="margin-top-30">Package Options:</h3>
+                                            <h3 class="margin-top-30">套餐选型</h3>
                                             <img src="/portal/assets/img/services/package.png" class="img-responsive">
-                                            <p>*Pricing will vary depending on country and region.</p>
+                                            <p>*价格将根据国家和地区而有所不同。</p>
                                             <hr>
-                                            <h3 class="margin-top-30">Benefits</h3>
+                                            <h3 class="margin-top-30">优点</h3>
                                             <ul>
-                                                <li><strong>Flexible</strong> — Credits can be used by anyone within the organization</li>
-                                                <li><strong>Accessible</strong> — Training is pre-paid and attendees can easily book the classes that they need</li>
-                                                <li><strong>Scalable</strong> — Education advisors can help you build customized training plans </li>
+                                                <li><strong>灵活</strong> — 组织内的任何人都可以使用</li>
+                                                <li><strong>可访问</strong> — 培训是预付费的，与会者可以轻松预订他们需要的课程</li>
+                                                <li><strong>可扩展</strong> — 教育顾问可以帮助您构建定制化的培训计划</li>
                                             </ul>
-                                            <p class="margin-top-30"><a href="https://forms.netsuite.com/app/site/crm/externalcustrecordpage.nl?compid=NLCORP&amp;formid=348&amp;h=AACffht_fLts-Pdx6nXmHMofyEyORqAvbzw&amp;subsidiary=1&amp;vid=k8xynORpAjhDlV9Q&amp;chrole=17&amp;ck=U05akeRpAjVDlcCn&amp;cktime=158129&amp;promocode=&amp;promocodeaction=overwrite" data-linktrack="true" data-tracklinktext="contactUs">Contact us</a> to purchase your Training Package today!</p>
+                                            <p class="margin-top-30"><a href="/getdemo.asp" data-linktrack="true" data-tracklinktext="contactUs">联系我们</a>立即购买您的培训套餐！</p>
                                         </div>
                                     </div>
                                     <!-- end row -->
@@ -186,9 +186,9 @@ tdkid=2
                                     <!-- start row -->
                                     <div class="row">
                                         <div class="col-sm-12">
-                                            <h3>Let’s get you AUTHORIZED to CERTIFIED!</h3>
-                                            <p class="margin-top-30">Services is offering discounts on training and certification to all Authorized Contacts.</p>
-                                            <p>Discounts can be used for the Training On Demand Single User Annual Pass, Training on Demand or multi-day courses from our <a href="/portal/services/training/suite-training/catalog.shtml" data-linktrack="true" data-tracklinktext="courseCatalog">SuiteTraining Course Catalog</a>.</p>
+                                            <h3>让我们授权给您认证！</h3>
+                                            <p class="margin-top-30">为所有授权联系人提供培训和认证折扣。</p>
+                                            <p>折扣可用于我们的SuiteTraining课程目录中的按需培训单用户年度通行证，按需培训或多日课程。</p>
                                         </div>
                                     </div>
                                     <!-- end row -->
@@ -197,7 +197,7 @@ tdkid=2
                                             <tbody><tr style="border:2px dashed #ccc;">
                                                 <td nowrap="nowrap" width="25%"><img src="/portal/common/img/training-20percent-A2C20.png"></td>
                                                 <td>
-                                                    <h3>Save 20% if you register for any courses!</h3>
+                                                    <h3>如果您注册任何课程，可节省20％！</h3>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -206,7 +206,7 @@ tdkid=2
                                             <tr style="border:2px dashed #ccc;">
                                                 <td nowrap="nowrap" width="25%"><img src="/portal/assets/img/services/training-150dollar-onelowprice.png"></td>
                                                 <td>
-                                                    <h3>Save on NetSuite Certification Exams – One low price of $150!</h3>
+                                                    <h3>节省NetSuite认证考试 – 可享150美元的低价！</h3>
                                                 </td>
                                             </tr>
                                         </tbody></table>
@@ -214,8 +214,8 @@ tdkid=2
                                     <!-- start row -->
                                     <div class="row margin-top-30">
                                         <div class="col-sm-12">
-                                            <p>Discounts must be on the same order, they cannot be combined with other discounts or promotions; and cannot be applied to previously purchased classes.</p>
-                                            <p>Visit the <a href="/portal/services/training/suite-training/certification.shtml" data-linktrack="true" data-tracklinktext="certification">NetSuite’s Certification Program</a> page to learn more. Contact <a href="mailto:certification@netsuite.com" data-linktrack="true" data-tracklinktext="certificationEmail">certification@netsuite.com</a> to obtain your coupon.</p>
+                                            <p>所选课程需在同一订单上才可享受折扣；不与其他折扣或促销活动同享；已完成订单无法享受折扣。</p>
+                                            <p>访问NetSuite的认证计划页面以了解更多信息。联系certification@netsuite.com获取优惠券。</p>
                                         </div>
                                     </div>
                                     <!-- end row -->
@@ -238,8 +238,8 @@ tdkid=2
       <p><img src="assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
    </div>
    <div class="col-sm-9 margin-top-40">
-      <h3>CPE credits</h3>
-      <p>CPE credits are available for NetSuite courses. <br><a href="/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">Check out our CPE list for details</a>.</p>
+      <h3>CPE 学分</h3>
+      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
    </div>
 </div>
 

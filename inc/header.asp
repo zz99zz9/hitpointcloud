@@ -131,7 +131,7 @@ var _hmt = _hmt || [];
 <div class="pc-nav">
 <ul class="pc-menu2 container">
 <a href="supportDetail.asp?v=17">个性化培训</a>
-    <a href="supportDetail.asp?v=18">认证培训</a>
+    <a href="training.asp">认证培训</a><!--supportDetail.asp?v=18-->
      <a href="supportDetail.asp?v=19">运维支持</a>
         <a href="supportDetail.asp?v=20" class="menu2last">系统致用</a>
 </ul>
