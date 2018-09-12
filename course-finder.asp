@@ -59,70 +59,58 @@ tdkid=2
                             <form class="form-inline" autocomplete="off">
                                 <div class="form-group long">
                                     <div class="margin-bottom-10"> 按角色浏览 </div>
+                                    <%
+	  set rs=Server.CreateObject("ADODB.Recordset")
+	  sql="select * from [class_js] order by oid desc,cid desc"
+rs.Open sql,conn,1,1%>
                                     <select id="byrole" class="form-control filter-selects gray">
                                         <option value="">角色</option>
-                                        <option value="admin">Administrator</option>
-                                        <option value="adminoa">Administrator (OpenAir)</option>
-                                        <option value="appDev">Application Developer</option>
-                                        <option value="auditor">Auditor</option>
-                                        <option value="ecomPro">Ecommerce Professional</option>
-                                        <option value="finPro">Finance Professional</option>
-                                        <option value="funcAdmin">Functional Administrator</option>
-                                        <option value="funcCons">Functional Consultant</option>
-                                        <option value="hrMgr">HR Manager</option>
-										<option value="mfgPro">Manufacturing Professional</option>
-                                        <option value="mktgPro">Marketing Professional</option>
-                                        <option value="npPro">Nonprofit Professional</option>
-                                        <option value="prodMgr">Production Manager</option>
-                                        <option value="projMgr">Project Manager</option>
-                                        <option value="repSpec">Reports Specialist</option>
-                                        <option value="retailPro">Retail Professional</option>
-                                        <option value="salesMgr">Sales Manager</option>
-                                        <option value="techAdmin">Technical Administrator</option>
-                                        <option value="techCons">Technical Consultant</option>
-                                        <option value="webDev">Web Developer</option>
-                                        <option value="">Select All</option>
+<%do while not rs.eof%>
+                                        <option value="<%=rs("cid")%>" ><%=rs("Cname")%></option>
+<%rs.movenext
+
+               loop
+
+           %>
+                                        <option value="">所有角色</option>
                                     </select>
                                 </div>
                                 <div class="form-group long">
                                     <div class="margin-bottom-10">按任务浏览</div>
                                     <select id="bytask" class="form-control filter-selects gray">
                                         <option value="">任务</option>
-                                        <option value="auditing">Auditing</option>
-                                        <option value="auto">Automation</option>
-                                        <option value="cert">Certification</option>
-                                        <option value="custom">Customization</option>
-                                        <option value="finance">Finance</option>
-                                        <option value="integ">Integration</option>
-                                        <option value="prog">Programming</option>
-                                        <option value="report">Reporting</option>
-                                        <option value="setup">Set Up</option>
-                                        <option value="">Select All</option>
+                                         <%
+	  set rs=Server.CreateObject("ADODB.Recordset")
+	  sql="select * from [class_rw] order by oid desc,cid desc"
+rs.Open sql,conn,1,1%>
+<%do while not rs.eof%>
+                                        <option value="<%=rs("cid")%>" ><%=rs("Cname")%></option>
+<%rs.movenext
+
+               loop
+
+           %>
+
+                                        <option value="">所有任务</option>
                                     </select>
                                 </div>
                                 <div class="form-group long">
                                     <div class="margin-bottom-10">按产品浏览</div>
                                     <select id="byproduct" class="form-control filter-selects gray">
                                         <option value="">产品</option>
-                                        <option value="bi">Business Intelligence (SuiteAnalytics)</option>
-                                        <option value="crm">CRM</option>
-                                        <option value="ecom">Ecommerce</option>
-                                        <option value="erp">ERP</option>
-                                        <option value="mfg">Manufacturing</option>
-                                        <option value="np">Nonprofit</option>
-                                        <option value="openair">OpenAir</option>
-                                        <option value="pos">POS</option>
-                                        <option value="retail">Retail</option>
-                                        <option value="sw">Software</option>
-                                        <option value="srp">SRP</option>
-                                        <option value="sb">SuiteBilling</option>
-                                        <option value="scpf">SuiteCloud Platform</option>
-                                        <option value="sp">SuitePeople</option>
-                                        <option value="ss">SuiteSuccess</option>
-                                        <option value="sscpt">SuiteScript</option>
-                                        <option value="wd">Wholesale Distribution</option>
-                                        <option value="wms">WMS Lite</option>
-                                        <option value="">Select All</option>
+                                         <%
+	  set rs=Server.CreateObject("ADODB.Recordset")
+	  sql="select * from [class_cp] order by oid desc,cid desc"
+rs.Open sql,conn,1,1%>
+<%do while not rs.eof%>
+                                        <option value="<%=rs("cid")%>" ><%=rs("Cname")%></option>
+<%rs.movenext
+
+               loop
+
+           %>
+        
+                                        <option value="">所有产品</option>
                                     </select>
                                 </div>
                                 <div class="form-group long">

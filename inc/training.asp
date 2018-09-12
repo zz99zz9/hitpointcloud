@@ -8,7 +8,7 @@
 
         <li><a href="/course-finder.asp" data-linktrack="true" data-tracklinktext="cn-courseFinder">- 课程查找器</a></li>
 
-        <li><a href="/schedule.asp" data-linktrack="true" data-tracklinktext="cn-courseSchedule">- 课程表</a></li>
+<!--        <li><a href="/schedule.asp" data-linktrack="true" data-tracklinktext="cn-courseSchedule">- 课程表</a></li>-->
 
         <li><a href="/self-study.asp" data-linktrack="true" data-tracklinktext="cn-selfstudyAnnual">- Learning Cloud Support通行证</a></li>
 
