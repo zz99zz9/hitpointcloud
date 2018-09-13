@@ -26,7 +26,7 @@ tdkid=5
     </div>
 </div>
 <!---广告结束 ---->
-<div class="part1 ">
+<!--<div class="part1 ">
 <div class="container">
 <div class="row">
     <div class="col-md-6 " >
@@ -43,8 +43,8 @@ tdkid=5
         </div>
 </div>
 </div>
-</div>
-<div class="part2 ">
+</div>-->
+<div class="part1 ">
 <div class="container">
 <div class="row">
     <div class="col-md-6 " >
@@ -53,7 +53,7 @@ tdkid=5
         <div class="txt"><br>深入解析主流SaaS应用年度认证考试指南，获取最新培训与认证信息和最丰富的培训与认证资源。<br><br><br></div>
 
          <div class="c"></div>
-        <a href="supportDetail.asp?v=18" target="_blank">进一步了解<em class="more-arr tra">&gt;</em></a>
+        <a href="training.asp" target="_blank">进一步了解<em class="more-arr tra">&gt;</em></a>
 
     </div>
         <div class="col-md-6" >
@@ -62,7 +62,7 @@ tdkid=5
 </div>
 </div>
 </div>
-<div class="part1 ">
+<div class="part2">
 <div class="container">
 <div class="row">
     <div class="col-md-6 " >
@@ -80,7 +80,7 @@ tdkid=5
 </div>
 </div>
 </div>
-<div class="part2 ">
+<!--<div class="part2 ">
 <div class="container">
 <div class="row">
     <div class="col-md-6 " >
@@ -97,7 +97,7 @@ tdkid=5
         </div>
 </div>
 </div>
-</div>
+</div>-->
  	 <!--footer-->
 <!--#include file="inc/footer.Asp"-->
 <!--#include file="inc/sidebar.asp"-->
