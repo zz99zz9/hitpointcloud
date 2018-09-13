@@ -11,7 +11,7 @@ set rsnew=Server.CreateObject("ADODB.Recordset")
 sql="select * from [prod] where prod_id="&nv
 
 rsnew.Open sql,conn,1,1
-title=rsnew("prod_name")
+title=rsnew("prod_name")+"_NetSuite_Hitpoint"
 if rsnew("keywords")<>"" then siteKey=rsnew("keywords")
 if rsnew("description")<>"" then SiteCont=rsnew("description")%>
 <!--#include file="inc/header.Asp"-->

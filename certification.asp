@@ -591,7 +591,7 @@ tdkid=2
 											<p>您与第三方供应商Kryterion签约，后者管理和监督计算机化考试。考试将有两种方式：</p>
 											<ul>
 												<li>测试中心：使用以下链接搜索位置： <br>
-													<a href="http//www.kryteriononline.com/Locate-Test-Center" target="_blank">http：//www.kryteriononline.com/Locate-Test-Center</a>
+													<a href="http://www.kryteriononline.com/Locate-Test-Center" target="_blank">http：//www.kryteriononline.com/Locate-Test-Center</a>
 												</li>
 												<li>在线监考考试 - 安装软件。可以用外置摄像头的笔记本电脑。有关详细信息，请访问：
 													<a href="http://www.kryteriononline.com/Delivery-Options/Online-Proctoring" target="_blank">http://kryteriononline.com/delivery-options/online-proctoring/</a> 
