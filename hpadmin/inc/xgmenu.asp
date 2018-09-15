@@ -71,10 +71,11 @@
                                         <li class="nav7-24"><a class="" href="class_cp.asp">产品分类</a></li>
                                         <li class="nav7-25"><a class="" href="location.asp">培训地点</a></li>
                                         <li class="nav7-26"><a class="" href="courses.asp">课程管理</a></li>
-                                <li class="nav7-17"><a class="" href="single.asp?nav=17">个性化培训</a></li>
-                                <li class="nav7-18"><a class="" href="single.asp?nav=18">认证培训</a></li>
+                                        <li class="nav7-27"><a class="" href="workshop.asp">网络研讨会</a></li>
+                                <!--<li class="nav7-17"><a class="" href="single.asp?nav=17">个性化培训</a></li>
+                                <li class="nav7-18"><a class="" href="single.asp?nav=18">认证培训</a></li>-->
                                <li class="nav7-19"><a class="" href="single.asp?nav=19">运维支持</a></li>
-                                <li class="nav7-20"><a class="" href="single.asp?nav=20">系统致用</a></li>
+                                <!--<li class="nav7-20"><a class="" href="single.asp?nav=20">系统致用</a></li>-->
                                         </ul>
                                     </li>
   <li class="sub-menu nav4">
