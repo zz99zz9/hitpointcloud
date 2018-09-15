@@ -58,7 +58,7 @@ rs.open sql,conn,1,1
 
 
             <td > 
-              <a href="location_mod.asp?ID=<%=rs("id")%>" class="btn btn-success btn-xs">修改</a> 
+              <a href="workshop_mod.asp?ID=<%=rs("id")%>" class="btn btn-success btn-xs">修改</a> 
               <a href="?ID=<%=rs("ID")%>&Action=Del" onClick="return ConfirmDel();" class="btn btn-danger btn-xs">删除</a> </td>
           </tr>
           <%
@@ -95,7 +95,7 @@ end if
   <script type="text/javascript">
 //导航菜单
 $(".nav7").addClass('active');
-$(".nav7-25").addClass('active');
+$(".nav7-27").addClass('active');
 
 function ConfirmDel()
 {

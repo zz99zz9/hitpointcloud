@@ -79,6 +79,19 @@
     </div>
     </div>
   </div>
+    <div class="form-group row">
+    <label for="tit" class="col-sm-2 control-label text-right xglab">链接</label>
+    <div class="col-sm-10 row">
+    <div class="col-sm-4 input-group">
+    <span class="input-group-addon">中文</span>
+      <input type="text" name="url" class="form-control" id="url" value="" >
+    </div>
+    <div class="col-sm-4 input-group ">
+    <span class="input-group-addon">英文</span>
+      <input type="text" name="urlen" class="form-control" id="urlen" value="" >
+    </div>
+    </div>
+  </div>
 
         <div class="form-group row">
     <label for="uptime" class="col-sm-2 control-label text-right xglab">更新时间</label>
@@ -123,7 +136,7 @@
 
 
 $(".nav7").addClass('active');
-$(".nav7-25").addClass('active');
+$(".nav7-27").addClass('active');
 
 </script>
 <script type="text/javascript" src="ajax/workshop.js"></script>

@@ -12,6 +12,8 @@ $(".save").click(function(){
         wdateen=$("#wdateen").val();
         wtime=$("#wtime").val();
         wtimeen=$("#wtimeen").val();
+        url=$("#url").val();
+        urlen=$("#urlen").val();
         uptime=$("#uptime").val();
         action=$("#action").val();
         Oid=$("#Oid").val();
@@ -29,6 +31,8 @@ $(".save").click(function(){
             wdateen:wdateen,
             wtime:wtime,
             wtimeen:wtimeen,
+            url:url,
+            urlen:urlen,
             uptime:uptime,
             oid:Oid,
             id:id
