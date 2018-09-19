@@ -63,7 +63,7 @@ rs.open sql,conn,1,1%>
                                         <div class="col-sm-12">
                                             <div class="row padding-top-20">
                                                 <div class="col-md-9 col-sm-8">
-                                                    <p><strong><%=rs("tit")%></strong></p>
+                                                    <p><strong><%=rs("tit")%></strong><br><br></p>
                                                 </div>
                                                 <div class="col-md-3 col-sm-4">
                                                     <a href="<%=rs("url")%>" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">立即注册</a>
@@ -90,7 +90,7 @@ rs.open sql,conn,1,1%>
 	  
 	      rs.movenext
 	loop
-    
+
 %>
                                     <!--end row-->
                 	<!--start row-->
