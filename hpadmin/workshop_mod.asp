@@ -148,4 +148,4 @@ $(".nav7").addClass('active');
 $(".nav7-27").addClass('active');
 
 </script>
-<script type="text/javascript" src="ajax/location.js"></script>
+<script type="text/javascript" src="ajax/workshop.js"></script>
