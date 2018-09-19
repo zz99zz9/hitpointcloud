@@ -54,34 +54,44 @@ tdkid=2
                 <div class="col-sm-9 " data-linkcontainer="lt_section" data-tracklinktext="catalogSection">
                 <!--内容开始-->
                 
-                    <!--start row-->                         
+                    <!--start row-->      
+                    <%sql="select * From [workshop] order by oid desc,ID desc"
+Set rs= Server.CreateObject("ADODB.Recordset")
+rs.open sql,conn,1,1%>  
+<%do while not rs.eof%>                 
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="row padding-top-20">
                                                 <div class="col-md-9 col-sm-8">
-                                                    <p><strong>SuiteAnalytics 2018.2 New Capabilities</strong><br>
-                                                    <strong>Attendees:</strong> Administrators, Power Users and Sales Personal</p>
+                                                    <p><strong><%=rs("tit")%></strong></p>
                                                 </div>
                                                 <div class="col-md-3 col-sm-4">
-                                                    <a href="getdemo.asp" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">立即注册</a>
+                                                    <a href="<%=rs("url")%>" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">立即注册</a>
                                                 </div>
                                             </div>
                                             <table class="table">
                                                 <tbody><tr>
-                                                    <td width="25%"><strong>Date</strong></td>
-                                                    <td><strong>Time</strong> </td>
-                                                    <td><strong>Time Zone</strong></td>
-                                                    <td><strong>Location</strong></td>
+                                                    <td width="25%"><strong>日期</strong></td>
+                                                    <td><strong>时间</strong> </td>
+                                                    <td><strong>主题</strong></td>
+
                                                 </tr>
                                                 <tr>
-                                                    <td>September 11, 2018</td>
-                                                    <td>8:00 AM  – 9:00 AM</td>
-                                                    <td>Pacific Standard Time</td>
-                                                    <td>North America</td>
+                                                    <td><%=rs("wdate")%></td>
+                                                    <td><%=rs("wtime")%></td>
+                                                    <td><%=rs("tit2")%></td>
+
                                                 </tr>
                                             </tbody></table>
                                         </div>
                                     </div>
+                                <%
+
+	  
+	      rs.movenext
+	loop
+    
+%>
                                     <!--end row-->
                 	<!--start row-->
                     <div class="row padding-left-10">

@@ -67,6 +67,8 @@ rs.open sql,conn,1,1
 	      rs.movenext
 	loop
 %>
+<%  rs.close
+            set rs=nothing%>
           </tbody>
           </table>
         </table>
