@@ -90,8 +90,8 @@ rs.open sql,conn,1,1
 action=request.QueryString("Action")
 delid=request.QueryString("ID")
 if action="Del" then
-conn.execute "delete from [location] where Id="&Trim(delid)
-response.Redirect("location.Asp?sta=del")
+conn.execute "delete from [workshop] where Id="&Trim(delid)
+response.Redirect("workshop.Asp?sta=del")
 end if
 %>
   <script type="text/javascript">
