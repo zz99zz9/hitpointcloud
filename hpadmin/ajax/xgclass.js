@@ -122,7 +122,7 @@ str+='$("#xg-class").before("<p>是否确定要删除以下类别及相关产品
 	str+='<tr ><th style="padding-left:50px;"><strong>栏目名称</strong></th><th>排序</th><th ><strong>操作选项</strong></th></tr>';
 	for (var i=0;i<jsObjstr.length;i++)
 					{
-	str+='<tr style="background-color:#F9F9F9;"><td style="padding-left:50px;"><img src="xgwl/img/jia.gif" width="15" height="15">'+jsObjstr[i].CName+'</td><td>'+jsObjstr[i].OID+'</td><td><button class="btn btn-success btn-xs mod" data-action="mod" data-cid="'+jsObjstr[i].CID+'" data-cname="'+jsObjstr[i].CName+'" data-cfile="'+jsObjstr[i].CFile+'" data-toggle="modal" data-oid="'+jsObjstr[i].OID+'" data-xgtable="'+Table+'">修改</button> <button class="btn btn-danger btn-xs mod" data-action="del" data-cid="'+jsObjstr[i].CID+'" data-cname="'+jsObjstr[i].CName+'" data-toggle="modal" data-oid="'+jsObjstr[i].OID+'" data-xgtable="'+Table+'">删除</button></td></tr>';
+	str+='<tr style="background-color:#F9F9F9;"><td style="padding-left:50px;"><img src="xgwl/img/jia.gif" width="15" height="15">'+jsObjstr[i].CName+' | '+jsObjstr[i].CFile+'</td><td>'+jsObjstr[i].OID+'</td><td><button class="btn btn-success btn-xs mod" data-action="mod" data-cid="'+jsObjstr[i].CID+'" data-cname="'+jsObjstr[i].CName+'" data-cfile="'+jsObjstr[i].CFile+'" data-toggle="modal" data-oid="'+jsObjstr[i].OID+'" data-xgtable="'+Table+'">修改</button> <button class="btn btn-danger btn-xs mod" data-action="del" data-cid="'+jsObjstr[i].CID+'" data-cname="'+jsObjstr[i].CName+'" data-toggle="modal" data-oid="'+jsObjstr[i].OID+'" data-xgtable="'+Table+'">删除</button></td></tr>';
 }
 	str+='</table>';
 //	

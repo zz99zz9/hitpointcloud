@@ -166,10 +166,10 @@ QQ 4659489
     </div>
   </div>
         <div class="form-group">
-    <label for="XGCFile" class="col-sm-3 control-label text-right">附件</label>
-    <div class="col-sm-8 input-group">
-<input type="text" name="XGCFile" class="form-control" id="XGCFile" data-toggle="tooltip" title="请点击右侧上传按钮">
-<span class="input-group-addon b_h" onClick="window.open('Yr_UpFile.Asp?formname=xgclass&editname=XGCFile&uppath=images/guanggao&filelx=jpg','','status=no,scrollbaRs=no,top=20,left=110,width=420,height=165')">上传附件</span>
+    <label for="XGCFile" class="col-sm-3 control-label text-right">英文</label>
+    <div class="col-sm-8 ">
+<input type="text" name="XGCFile" class="form-control" id="XGCFile" data-toggle="tooltip" title="请点输入英文名">
+<!--<span class="input-group-addon b_h" onClick="window.open('Yr_UpFile.Asp?formname=xgclass&editname=XGCFile&uppath=images/guanggao&filelx=jpg','','status=no,scrollbaRs=no,top=20,left=110,width=420,height=165')">上传附件</span>-->
     </div>
   </div>
 </form>
