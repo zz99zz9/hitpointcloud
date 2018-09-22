@@ -1,8 +1,9 @@
-function search(byrole,bytask,byproduct){
+function search(byrole,bytask,byproduct,yy){
     $.post("ajax/course-finder.asp",{
         byrole:byrole,
         bytask:bytask,
-        byproduct:byproduct
+        byproduct:byproduct,
+        yy:yy
   },
         
       function(data,status){
@@ -14,7 +15,12 @@ function search(byrole,bytask,byproduct){
           var str='';
           for (var i=0;i<jsObjstr.length;i++)//
           {
-              str+='<a class="box" href="courses-detail.asp?id='+jsObjstr[i].id+'">';
+              if(yy=="cn"){
+                  url="courses-detail.asp";
+              }else{
+                  url="encourses-detail.asp";
+              }
+              str+='<a class="box" href="'+url+'?id='+jsObjstr[i].id+'">';
               str+='<img class="img-responsive" src="/portal/assets/img/services/course-finder-bg.jpg" >';    
               str+='<div class="caption simple-caption">';    
               str+='<div class="course-base">';        

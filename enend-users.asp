@@ -4,9 +4,9 @@
 <!--#include file="inc/Inc.Asp"-->
 <%
 dim tdkid
-tdkid=2
+tdkid=14
 %>
-<!--#include file="inc/header.Asp"-->
+<!--#include file="inc/enheader.Asp"-->
 <link rel="stylesheet" href="xgwl/css/8.css"/>
 <link href="/assets/ico/favicon.ico" rel="icon" />
 <link href="/assets/css/styles.css" rel="stylesheet" />
@@ -14,18 +14,10 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
-<p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
+<h5 class="wow fadeInUp">User Enablement</h5>
+<p class="txt wow fadeInUp" data-wow-delay="150ms">One of the most critical factors impacting your success with NetSuite is the proficiency of your users. We are here to help ensure your users take full advantage of NetSuite’s features and capabilities.</p>
 </div>
-<section>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h2 class="pageTitle">One of the most critical factors impacting your success with NetSuite is the proficiency of your users. We are here to help ensure your users take full advantage of NetSuite’s features and capabilities.</h2>
-                </div>
-            </div>
-        </div>
-    </section>
+
     
     <!-- Content Section
         ================================================== -->
@@ -51,7 +43,7 @@ tdkid=2
       </button>
 
     </div>
-<!--#include file="inc/training.Asp"-->
+<!--#include file="inc/entraining.Asp"-->
    
 
   </div>
@@ -101,20 +93,7 @@ tdkid=2
       <hr>
    </div>
 </div>
-<div class="row">
-   <div class="col-sm-3 margin-top-20">
-      <br>
-      <p><img src="/portal/assets/img/services/logo-cpe-sponsors.png" alt="CPE Sponsors" title="CPE Sponsors" class="img-responsive"></p>
-   </div>
-   <div class="col-sm-9 margin-top-40">
-      <h3>CPE 学分</h3>
-      <p>学习 NetSuite 课程可累积 CPE 学分。 <br><a href="http://www.netsuite.com/portal/services/training/suite-training/cpe.shtml" data-linktrack="true" data-tracklinktext="cpeSponsorsLink">查看 CPE 列表了解详细信息。</a>.</p>
-   </div>
-</div>
 
-
-
-                
                 <!--内容结束-->
                 </div>
             </div>
@@ -145,7 +124,7 @@ tdkid=2
 <script type="text/javascript" src="/assets/js/jquery.smoothdivscroll-1.3-min.js"></script>
 
 <script type="text/javascript" src="/assets/js/vendor/jquery.prettyPhoto.js"></script>
-<!--#include file="inc/footer.Asp"-->
-<!--#include file="inc/sidebar.asp"-->
+<!--#include file="inc/enfooter.Asp"-->
+<!--#include file="inc/ensidebar.asp"-->
 </body>
 </html>

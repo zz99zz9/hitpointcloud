@@ -4,6 +4,7 @@
 byrole=Trim(Request("byrole"))
 bytask=Trim(Request("bytask"))
 byproduct=Trim(Request("byproduct"))
+yy=Trim(Request("yy"))
 if byrole<>"" then
 ssql=ssql+"and cjs like '%"&byrole&"%'"
 end if
@@ -21,7 +22,14 @@ rs.open sql,conn,3,3
 	i=0
 do while not rs.eof
 if i>0 then response.write(",")
-%>{"tit":"<%=rs("tit")%>","tit2":"<%=rs("pdf1")%>","id":"<%=rs("id")%>"}<%
+if yy="cn" then 
+pdf=rs("pdf1") 
+tit=rs("tit")
+else 
+pdf=rs("pdf2")
+tit=rs("titen")
+end if
+%>{"tit":"<%=tit%>","tit2":"<%=pdf%>","id":"<%=rs("id")%>"}<%
 rs.movenext
 	i=i+1
     loop

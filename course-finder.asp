@@ -171,7 +171,7 @@ rs.Open sql,conn,1,1%>
 <script>
 $(".select").change(function(){
   $(this).css("background-color","#FFFFCC");
-  search($("#byrole").val(),$("#bytask").val(),$("#byproduct").val());
+  search($("#byrole").val(),$("#bytask").val(),$("#byproduct").val(),"cn");
 });
 
 </script>

@@ -131,10 +131,10 @@ var _hmt = _hmt || [];
 <div class="pc-nav"></div>
 <div class="pc-nav">
 <ul class="pc-menu2 container">
-<a href="ensupportDetail.asp?v=17">Customized Training</a>
-    <a href="ensupportDetail.asp?v=18">Certification</a>
-     <a href="ensupportDetail.asp?v=19">Support</a>
-        <a href="ensupportDetail.asp?v=20" class="menu2last">Data Migration</a>
+<!--<a href="ensupportDetail.asp?v=17">Customized Training</a>-->
+    <a href="entraining.asp">Certification</a>
+     <a href="ensupportDetail.asp?v=19" class="menu2last">Support</a>
+       <!-- <a href="ensupportDetail.asp?v=20">Data Migration</a>-->
 </ul>
 </div>
 <div class="pc-nav">

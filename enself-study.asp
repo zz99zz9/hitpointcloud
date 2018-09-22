@@ -4,9 +4,9 @@
 <!--#include file="inc/Inc.Asp"-->
 <%
 dim tdkid
-tdkid=2
+tdkid=14
 %>
-<!--#include file="inc/header.Asp"-->
+<!--#include file="inc/enheader.Asp"-->
 <link rel="stylesheet" href="xgwl/css/8.css"/>
 <link href="/assets/ico/favicon.ico" rel="icon" />
 <link href="/assets/css/styles.css" rel="stylesheet" />
@@ -14,11 +14,9 @@ tdkid=2
 <link href="/assets/css/oracle_truste_overrides.css" rel="stylesheet" />
 <!----广告--->
 <div class="toped">
-<h5 class="wow fadeInUp">培训与认证</h5>
-<p class="txt wow fadeInUp" data-wow-delay="150ms">专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理<br>软件产品，以及相关的实施、二次开发、本地化、培训等服务。</p>
+<h5 class="wow fadeInUp">Learning Cloud Support Pass</h5>
+<p class="txt wow fadeInUp" data-wow-delay="150ms">Get the most from your application</p>
 </div>
-
-    
     <!-- Content Section
         ================================================== -->
         <div class="part1 ">
@@ -42,7 +40,7 @@ tdkid=2
       </button>
 
     </div>
-<!--#include file="inc/training.Asp"-->
+<!--#include file="inc/entraining.Asp"-->
    
 
   </div>
@@ -134,7 +132,7 @@ tdkid=2
 <script type="text/javascript" src="/assets/js/jquery.smoothdivscroll-1.3-min.js"></script>
 
 <script type="text/javascript" src="/assets/js/vendor/jquery.prettyPhoto.js"></script>
-<!--#include file="inc/footer.Asp"-->
-<!--#include file="inc/sidebar.asp"-->
+<!--#include file="inc/enfooter.Asp"-->
+<!--#include file="inc/ensidebar.asp"-->
 </body>
 </html>
