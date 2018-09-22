@@ -10,10 +10,10 @@
         ttimeen=request("ttimeen")
         pdf1=request("pdf1")
       pdf2=request("pdf2")
-      csy=request("csy")
-      cjs=request("cjs")
-      crw=request("crw")
-      ccp=request("ccp")
+      csy=","&request("csy")&","
+      cjs=","&request("cjs")&","
+      crw=","&request("crw")&","
+      ccp=","&request("ccp")&","
       txt1=request("txt1")
       txt1en=request("txt1en")
        txt2=request("txt2")

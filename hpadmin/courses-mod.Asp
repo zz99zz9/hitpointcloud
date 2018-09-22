@@ -86,17 +86,17 @@ end if
   </div>
 
             <div class="form-group row">
-    <label for="pdf1" class="col-sm-2 control-label text-right xglab">PDF1</label>
+    <label for="pdf1" class="col-sm-2 control-label text-right xglab">中文摘要</label>
     <div class="col-sm-7 row">
-      <div class="col-sm-8"><input name="pdf1" type="text" id="pdf1" class="form-control col-sm-6" value="<%=oRs("pdf1")%>"></div>
-        <div class="col-sm-3"><input type="button" name="Submit12" value="上传图片" class="form-control col-sm-2" onClick="window.open('Yr_UpFile.Asp?formname=myform&editname=pdf1&uppath=images/guanggao&filelx=jpg','','status=no,scrollbaRs=no,top=20,left=110,width=420,height=165')"></div>
+      <div class="col-sm-12"><input name="pdf1" type="text" id="pdf1" class="form-control col-sm-6" value="<%=oRs("pdf1")%>"></div>
+        <!--<div class="col-sm-3"><input type="button" name="Submit12" value="上传图片" class="form-control col-sm-2" onClick="window.open('Yr_UpFile.Asp?formname=myform&editname=pdf1&uppath=images/guanggao&filelx=jpg','','status=no,scrollbaRs=no,top=20,left=110,width=420,height=165')"></div>-->
     </div>
   </div>
       <div class="form-group row">
-      <label for="pdf2" class="col-sm-2 control-label text-right xglab">PDF2</label>
+      <label for="pdf2" class="col-sm-2 control-label text-right xglab">英文摘要</label>
       <div class="col-sm-7 row">
-        <div class="col-sm-8"><input name="pdf2" type="text" id="pdf2" class="form-control col-sm-6" value="<%=oRs("pdf2")%>"></div>
-          <div class="col-sm-3"><input type="button" name="Submit12" value="上传图片" class="form-control col-sm-2" onClick="window.open('Yr_UpFile.Asp?formname=myform&editname=pdf2&uppath=images/guanggao&filelx=jpg','','status=no,scrollbaRs=no,top=20,left=110,width=420,height=165')"></div>
+        <div class="col-sm-12"><input name="pdf2" type="text" id="pdf2" class="form-control col-sm-6" value="<%=oRs("pdf2")%>"></div>
+          <!--<div class="col-sm-3"><input type="button" name="Submit12" value="上传图片" class="form-control col-sm-2" onClick="window.open('Yr_UpFile.Asp?formname=myform&editname=pdf2&uppath=images/guanggao&filelx=jpg','','status=no,scrollbaRs=no,top=20,left=110,width=420,height=165')"></div>-->
       </div>
     </div>
     <!--首页分类-->
