@@ -66,7 +66,7 @@ rs.open sql,conn,1,1%>
                                                     <p><strong><%=rs("tit")%></strong><br><br></p>
                                                 </div>
                                                 <div class="col-md-3 col-sm-4">
-                                                    <a href="<%=rs("url")%>" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">立即注册</a>
+                                                    <a href="<%=rs("url")%>" target="_blank" class="btn btn-primary hover-outline" data-linktrack="true" data-tracklinktext="registerNow">报名参会</a>
                                                 </div>
                                             </div>
                                             <table class="table">
