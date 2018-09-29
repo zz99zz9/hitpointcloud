@@ -24,7 +24,8 @@ tdkid=11
        <div class="txt">Hitpoint Cloud Co., Ltd. (Hitpoint) is a leading IT solutions consulting firm focused on providing world-class cloud computing solutions, including consulting, implementation, and operations and maintenance outsourcing through NetSuite ERP, NetSuite CRM, Oracle Cloud and other enterprise core management system services.<br>As the only four-star NetSuite partner in China and Oracle Gold Partner, Hitpoint employs professional staff with experience including SAP, Infor, BearingPoint and other major IT companies and management consulting firms. Our consultants are conversant in Internet, high-tech, foreign trade, finance, retail chains and other industries, and are able to provide service across through modules and across verticals including financial, distribution, project management and e-commerce. Hitpoint implements NetSuite and provides product localization and secondary development, and also has extensive experience in training.</div>
     </div>
     <div class="col-md-6">
-        <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">
+        <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<!--        <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">-->
     </div>
 </div>
 </div>

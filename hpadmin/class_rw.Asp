@@ -43,8 +43,8 @@
 <!--#include file="inc/windows.asp"-->
   <script type="text/javascript">
 //导航菜单
-$(".nav7").addClass('active');
-$(".nav7-23").addClass('active');
+$(".nav2").addClass('active');
+$(".nav2-5").addClass('active');
 
 $(document).ready(function(e) {
 	var tablename="<%=tablename%>";

@@ -25,7 +25,8 @@ tdkid=2
 <br>&nbsp;&nbsp;&nbsp;&nbsp;公司创立于2014年。创始人云计算的经验可以追溯到2009年，是中国最早做云计算企业解决方案的顾问之一。2年时间里，公司发展了60多个客户，形成了围绕云计算软件、云计算平台、企业IT服务、管理顾问服务展开的商业模式，也形成了独特的以人为本、追求卓越的企业文化。公司的目标是在未来5年内，成长为中国企业云计算解决方案最顶尖的顾问公司。</div>
     </div>
     <div class="col-md-6">
-        <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">
+    <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<!--        <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">-->
     </div>
 </div>
 </div>
