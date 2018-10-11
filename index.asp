@@ -86,13 +86,13 @@ tdkid=1
 <!--part2-->
 <div class="part2">
 <div class="container">
-<h2>世界领先的云计算解决方案</h2>
-<p class="txt">Hitpoint与其他系统实施商的最大不同之处在于：<br>我们实施IT系统的目标不是简单的完成针对需求的配置和代码开发，而是让您整个业务系统高效运转。<br><br><a href="products.asp" class="tra">进一步了解<em class="more-arr tra">&gt;</em></a><br><br></p>
+<h2>灵活的云计算解决方案</h2>
+<p class="txt">Hitpoint与其他系统实施商的不同之处在于：<br>我们实施IT系统的目标不是简单的完成针对需求的配置和代码开发，而是让您整个业务系统高效运转。<br><br><a href="products.asp" class="tra">进一步了解<em class="more-arr tra">&gt;</em></a><br><br></p>
 <a class="col-md-4 p2li" href="productsDetail.asp?pid=63&bid=34">
     <div class="pic">
         <img src="xgwl/img/1/part2-1.jpg">
         <div class="picmask tra">
-        <p>是全球部署最多的云ERP解决方案<br>
+        <p>
            全球160多个国家及地区有40000+个公司或<br>
            组织正在使用NetSuite</p>
            <p class="xgbtn">进一步了解 <em class="more-arr tra">&gt;</em></p>
@@ -110,12 +110,12 @@ tdkid=1
 <h3>Oracle云</h3>
 <div class="arrdown tra"></div>
 <div class="pt2line"></div>
-<p >覆盖面最广的SaaS应用</p>
+<p >覆盖面较广的SaaS应用</p>
     </div>
     <div class="pic">
         <img src="xgwl/img/1/part2-2.jpg">
         <div class="picmask tra">
-        <p>可提供市场上最全面的解决方案<br>
+        <p>可提供全面的解决方案<br>
            帮企业更智能、更灵活地应对各种不确定的经济环境<br>
            提升企业的整体绩效，决胜未来</p>
            <p class="xgbtn">进一步了解 <em class="more-arr tra">&gt;</em></p>
@@ -127,7 +127,7 @@ tdkid=1
     <div class="pic">
         <img src="xgwl/img/1/part2-3.jpg">
         <div class="picmask tra">
-        <p>全球领先的企业级人才管理系统<br>
+        <p>企业级人才管理系统<br>
            帮企业提升生产力和生产效率、降低成本、管控风险<br>
            并促进企业文化和流程的革新</p>
            <p class="xgbtn">进一步了解 <em class="more-arr tra">&gt;</em></p>
@@ -171,7 +171,7 @@ tdkid=1
     <div class="col-md-6 " >
 
         <h2>颠覆性解决方案</h2>
-        <div class="txt">面向10大类行业，提供多种颠覆性解决方案。世界领先的云计算解决方案，现代化的灵活系统，更好地支撑企业快速发展变革。</div>
+        <div class="txt">面向10大类行业，提供多种颠覆性解决方案。云端的企业管理解决方案，现代化的灵活系统，更好地支撑企业快速发展变革。</div>
         <ul class="icolist"><a href="remodelingDetail.asp?v=7" ><i class="lico lico6 tra"></i>IT/软件/互联网</a><a href="remodelingDetail.asp?v=9" ><i class="lico lico7 tra"></i>高科技/新材料</a><a href="remodelingDetail.asp?v=10"><i class="lico lico8 tra"></i>贸易/批发/零售</a><a href="remodelingDetail.asp?v=11"><i class="lico lico9 tra"></i>媒体/广告/出版</a><a href="remodelingDetail.asp?v=15"><i class="lico lico10 tra"></i>咨询/教育/培训</a>
         <a href="remodelingDetail.asp?v=16" ><i class="lico lico11 tra"></i>非营利组织</a><a href="remodelingDetail.asp?v=13" ><i class="lico lico12 tra"></i>医疗健康</a><a href="remodelingDetail.asp?v=14"><i class="lico lico13 tra"></i>电子商务</a><a href="remodelingDetail.asp?v=12"><i class="lico lico14 tra"></i>专业服务</a><a href="remodelingDetail.asp?v=8"><i class="lico lico15 tra"></i>工业 4.0</a></ul>
          <div class="c"></div>
@@ -233,7 +233,7 @@ rsnew.Open sqlnew,conn,1,1
 <div class="container">
 <div class="row">
 <h2>新闻资讯</h2>
-<p class="txt">最有价值的行业资料，最新鲜的行业新闻</p>
+<p class="txt">富有价值的行业见解，新鲜全面的行业新闻</p>
 <%
 	  set rsnew=Server.CreateObject("ADODB.Recordset")
 	  sqlnew="select top 9 * from [prod] where classid=2"

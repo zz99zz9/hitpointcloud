@@ -20,8 +20,8 @@ tdkid=4
     <div class="row">
         <div class="col-md-3 col-xs-6"><p class="tit">10</p><p class="txt">面向10大行业，提供多种颠覆性解决方案</p></div>
          <div class="col-md-3 col-xs-6"><p class="tit">FAST</p><p class="txt">现代化的灵活系统，支撑企业快速变革</p></div>
-          <div class="col-md-3 col-xs-6"><p class="tit">BEST</p><p class="txt">世界领先的云计算解决方案</p></div>
-           <div class="col-md-3 col-xs-6 last"><p class="tit">NEWS</p><p class="txt">查看最新行业资讯</p></div>
+          <div class="col-md-3 col-xs-6"><p class="tit">BEST</p><p class="txt">云计算解决方案</p></div>
+           <div class="col-md-3 col-xs-6 last"><p class="tit">NEWS</p><p class="txt">查看新鲜行业资讯</p></div>
     </div>
     </div>
 </div>

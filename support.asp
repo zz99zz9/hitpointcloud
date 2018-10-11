@@ -50,7 +50,7 @@ tdkid=5
     <div class="col-md-6 " >
 
         <h2>认证培训</h2>
-        <div class="txt"><br>深入解析主流SaaS应用年度认证考试指南，获取最新培训与认证信息和最丰富的培训与认证资源。<br><br><br></div>
+        <div class="txt"><br>深入解析主流SaaS应用年度认证考试指南，获得新鲜的培训认证信息与资源。<br><br><br></div>
 
          <div class="c"></div>
         <a href="training.asp" target="_blank">进一步了解<em class="more-arr tra">&gt;</em></a>

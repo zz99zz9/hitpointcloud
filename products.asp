@@ -19,7 +19,7 @@ tdkid=9
     <div class="container">
     <div class="row">
         <div class="col-md-3 col-xs-6"><p class="tit">3</p><p class="txt">三大产品，突破不同业务瓶颈</p></div>
-         <div class="col-md-3 col-xs-6"><p class="tit">#1</p><p class="txt">NetSuite四星级合作伙伴</p></div>
+         <div class="col-md-3 col-xs-6"><p class="tit">#1</p><p class="txt">NetSuite五星级合作伙伴</p></div>
           <div class="col-md-3 col-xs-6"><p class="tit">GOLD</p><p class="txt">Oracle金牌合作伙伴</p></div>
            <div class="col-md-3 col-xs-6 last"><p class="tit">HCM</p><p class="txt">NetDimensions中国独家授权</p></div>
     </div>
@@ -33,7 +33,7 @@ tdkid=9
     <div class="col-md-7 " >
 
         <h2>NetSuite</h2>
-        <div class="txt"><br>针对中小型企业的原生云ERP，在全球160多个国家及地区有30000+个公司或组织正在使用NetSuite。<br>
+        <div class="txt"><br>针对中小型企业的原生云ERP，在全球160多个国家及地区有40000+个公司或组织正在使用NetSuite。<br>
         <ul class="ilist">
         <a href="productsDetail.asp?pid=63&bid=34">NetSuite<br>ERP</a>
         <a href="productsDetail.asp?pid=65&bid=34">NetSuite<br>CRM</a>
@@ -60,7 +60,7 @@ tdkid=9
     <div class="col-md-7 " >
 
         <h2>Oracle云</h2>
-        <div class="txt"><br>针对大中型企业的云ERP，可提供市场上最全面的解决方案。<br>
+        <div class="txt"><br>针对大中型企业的云ERP，可提供市场上较全面的解决方案。<br>
         <ul class="ilist">
                 <a href="productsDetail.asp?pid=67&bid=37">Oracle<br>CX云</a>
                 <a href="productsDetail.asp?pid=68&bid=37">Oracle<br>ERP云</a>

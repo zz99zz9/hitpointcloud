@@ -164,7 +164,7 @@ var _hmt = _hmt || [];
 </div>
 <!--第2个产品 -->
     <div class="menu6txt">
-     针对大中型企业的云ERP，可提供市场上最全面的解决方案。
+     针对大中型企业的云ERP，可提供市场上较全面的解决方案。
         <ul class="m6list">
             <a href="productsDetail.asp?pid=68&bid=37" class="tra">Oracle云<br>ERP</a>
             <a href="productsDetail.asp?pid=67&bid=37" class="tra">Oracle云<br>CX</a>

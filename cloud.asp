@@ -21,7 +21,7 @@ tdkid=3
         <div class="col-md-3 col-xs-6"><p class="tit">SaaS</p><p class="txt">SaaS模式，现代化的企业应用</p></div>
          <div class="col-md-3 col-xs-6"><p class="tit">NEXT</p><p class="txt">下一代IT架构</p></div>
           <div class="col-md-3 col-xs-6"><p class="tit">PRO</p><p class="txt">专业团队，经验丰富</p></div>
-           <div class="col-md-3 col-xs-6 last"><p class="tit">NEWS</p><p class="txt">掌握最新云计算资讯</p></div>
+           <div class="col-md-3 col-xs-6 last"><p class="tit">NEWS</p><p class="txt">掌握新鲜云计算资讯</p></div>
     </div>
     </div>
 </div>
