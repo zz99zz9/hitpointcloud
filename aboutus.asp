@@ -1,4 +1,4 @@
-<!--#include file="inc/conn.asp"-->
+﻿<!--#include file="inc/conn.asp"-->
 <!--#include file="inc/Config.Asp"-->
 <!--#include file="inc/Function.asp"-->
 <!--#include file="inc/Inc.Asp"-->
@@ -37,8 +37,8 @@ tdkid=2
 <div class="col-md-12">
 <h2>发展历程</h2>
 <div class="lcb"><img src="xgwl/img/8/co3.png" class="hidden-xs">
-    <div class="info1"><h3>2005.11  上海汉特</h3><div class="txt">汉特是全球最佳财税解决方案供应商服务超过1000家国际知名企业</div></div>
-    <div class="info2"><h3>2012.07  上海网杉</h3><div class="txt">云ERP领军品牌Netsuite最大的在华合作伙伴专注于提供全球领先的云计算解决方案</div></div>
+    <div class="info1"><h3>2005.11  上海汉特</h3><div class="txt">财税解决方案提供商<br>服务超过1000家国际知名企业</div></div>
+    <div class="info2"><h3>2012.07  上海网杉</h3><div class="txt">NetSuite五星级合作伙伴<br>提供云端企业管理解决方案</div></div>
     <div class="info3"><h3>2014.05  上海云费控</h3><div class="txt">独立开发出专注于企业差旅费用管理的Feekong差旅费用报销管理系统</div></div>
     <div class="info4"><h3>2014.08  上海汉越</h3><div class="txt">提供人力资源管理系统解决方案</div></div>
     <div class="info5"><h3>2016.10  快乐加财务外包</h3><div class="txt">业务财务一体化管理软件</div></div>
