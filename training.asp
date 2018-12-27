@@ -4,7 +4,7 @@
 <!--#include file="inc/Inc.Asp"-->
 <%
 dim tdkid
-tdkid=2
+tdkid=23
 %>
 <!--#include file="inc/header.Asp"-->
 <link rel="stylesheet" href="xgwl/css/8.css"/>

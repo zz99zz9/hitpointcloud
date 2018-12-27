@@ -4,7 +4,7 @@
 <!--#include file="inc/Inc.Asp"-->
 <%
 dim tdkid
-tdkid=2
+tdkid=23
 %>
 <!--#include file="inc/header.Asp"-->
 <!--通用结束-->
