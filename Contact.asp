@@ -38,7 +38,7 @@ h2{font-size:30px !important;}
     <div class="txt">热线：400-033-9909<br>
                      电话：(86-21) 5508-1851<br>
                      邮箱：info@hitpointcloud.com<br>
-                     地址：上海市杨浦区国定东路200号4号楼312室<br>
+                     地址：上海市杨浦区黄兴路221号互联宝地C1401<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
