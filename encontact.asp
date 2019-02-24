@@ -38,7 +38,7 @@ tdkid=11
     <div class="txt">Hotline：400-033-9909<br>
                      Telephone：(86-21) 5508-1851<br>
                      E-mail：info@hitpointcloud.com<br>
-                     Address：Unit 312, Building 4, East Guoding Road 200, Yangpu District, Shanghai<br>
+                     Address：C1401,NO. 221 Huang Xing Road, Yangpu District, Shanghai<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
