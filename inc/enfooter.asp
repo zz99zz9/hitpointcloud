@@ -1,4 +1,4 @@
-<div class="footer1 hidden-xs">
+﻿<div class="footer1 hidden-xs">
     <div class="container">
     <div class="row">
     <ul class="stools"><a href="http://p.qiao.baidu.com/cps/chat?siteId=10204422&userId=22769729" target="_blank" class="col-md-3" onClick="ga('send', 'event', 'shouye', 'xinxilan', 'kefuButton', 1);"><i class="stico stico1 tra"></i><p class="tit">Live Chat</p><p class="txt">A Chat Assistant is available to help. Click here to start the session</p></a>
@@ -99,7 +99,7 @@
         	loop
         prs.close
         set prs=nothing
-        %><br>Copyright © 2012-2018 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
+        %><br>Copyright © 2012-2019 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
         </p>
         </div>
         </div>
