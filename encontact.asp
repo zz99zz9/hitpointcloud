@@ -53,6 +53,7 @@ tdkid=11
     <div class="col-md-6"><h2>Nanjing Office</h2>
     <div class="txt">
                      Address：Unit 1303-1304, Building 1, Xinghua Plaza, Xinghuo Road 20, Jiangbei New Area, Nanjing<br>
+                     Telephone：（86-25）5811-7955<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
