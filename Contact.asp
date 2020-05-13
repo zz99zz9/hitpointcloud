@@ -81,7 +81,7 @@ h2{font-size:30px !important;}
 <div class="row">
     <div class="col-md-6"><h2>深圳分公司</h2>
     <div class="txt">
-                     地址：广东省深圳市南山区科技南十二路12号曙光大厦9A-1室<br>
+                     地址：深圳市宝安区航城街道宝安大道5010号<br>深圳多彩汇威文化创意博览城B座A区六层A610号<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">

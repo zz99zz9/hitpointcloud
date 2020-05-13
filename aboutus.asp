@@ -21,8 +21,9 @@ tdkid=2
 <div class="row">
     <div class="col-md-6">
        <h2>公司介绍</h2>
-       <div class="txt">&nbsp;&nbsp;&nbsp;&nbsp;上海网杉信息技术有限公司专注于提供世界领先的云计算解决方案，致力于为企业客户提供云计算企业管理软件产品，以及相关的实施、二次开发、本地化、培训等服务。“您怀愿景，我助实现”是我们的公司的创业精神。我们将全球最先进的云计算技术和软件，落地到中国、运用到企业，帮助企业提升生产力、开拓业务机会，获得更大的成功。
-<br>&nbsp;&nbsp;&nbsp;&nbsp;公司创立于2014年。创始人云计算的经验可以追溯到2009年，是中国最早做云计算企业解决方案的顾问之一。2年时间里，公司发展了60多个客户，形成了围绕云计算软件、云计算平台、企业IT服务、管理顾问服务展开的商业模式，也形成了独特的以人为本、追求卓越的企业文化。公司的目标是在未来5年内，成长为中国企业云计算解决方案最顶尖的顾问公司。</div>
+       <div class="txt">&nbsp;&nbsp;&nbsp;&nbsp;Hitpoint创立于2005年。创始人云计算的经验自2009年起，是中国最早做云计算企业解决方案的顾问之一。Hitpoint专注于为企业提供世界领先的云计算解决方案，服务超过1/4财富500强，形成了以云计算软件、云计算平台、企业IT服务、管理顾问服务为核心的商业模式，提供包括财务、分销、项目管理、电子商务在内的各个模块的解决方案。在Oracle、NetSuite等产品的实施、本土化、二次开发和培训上拥有丰富的经验。
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hitpoint总部位于上海，在深圳，北京，南京设有分支机构。作为一支真正具有云基因的团队， Hitpoint拥有超过100人的实施开发队伍支撑客户业务高效运转，将全球最先进的云计算技术和软件，落地到中国、运用到企业；在一带一路与全球化的背景下，为外资企业本地化，中国企业走出去提供管理系统与软件的支撑。使云时代的每一位客户都能释放潜能，获得更大的成功，帮助企业智慧致胜未来。</div>
     </div>
     <div class="col-md-6">
     <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
