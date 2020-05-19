@@ -21,7 +21,7 @@ function update(cg){
   DefaultPicUrl2=$("#DefaultPicUrl2").val();
     DefaultPicUrl3=$("#DefaultPicUrl3").val();
 	DefaultPicUrl4=$("#DefaultPicUrl4").val();
-	alert(DefaultPicUrl3);
+//	alert(DefaultPicUrl3);
     content=$("#content").val();
 	Orderid=$("#Orderid").val();
 	picalt=$("#picalt").val();
@@ -34,7 +34,7 @@ function update(cg){
   }else{
 	 Passed=$("#Passed").is(':checked') ;
   }
-  console.log(Passed);
+//  console.log(Passed);
 	Elite=$("#Elite").is(':checked')
 	action=$("#action").val();//操作指令
 
@@ -90,9 +90,6 @@ var clxid =[];//定义一个数组
             clxid.push($(this).val());//将选中的值添加到数组chk_value中      
             }); 
 	clxid=clxid.toString()
-	
-
-
   $.post("ajax/pro.asp",{
 	  BigClassName:BigClassName,
 	  BigClassId:BigClassId,
@@ -132,7 +129,6 @@ var clxid =[];//定义一个数组
   content12:content12,
   content13:content13
 },
-	  
     function(data,status){
 	  if(status=="success"){
 		//  console.log(data);

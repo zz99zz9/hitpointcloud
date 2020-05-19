@@ -104,7 +104,8 @@ var _hmt = _hmt || [];
            <li class="dropdown XGli"><a href="enproducts.asp" class="dropdown-toggle s_link" data-toggle="dropdown">Products</a>
                   <ul class="dropdown-menu">
                     <li><a href="enproductsDetail.asp?pid=63&bid=34">NetSuite</a></li>
-                    <li><a href="enproductsDetail.asp?pid=68&bid=37">Oracle</a></li>
+                    <!-- <li><a href="enproductsDetail.asp?pid=68&bid=37">Oracle</a></li> -->
+                    <li><a href="enproductsDetail.asp?pid=68&bid=37">Hitpoint</a></li>
                     <li><a href="enproductsDetail.asp?pid=69&bid=39">NetDimension</a></li>
                   </ul>
                 </li>
@@ -163,7 +164,7 @@ var _hmt = _hmt || [];
     </ul>
     <a href="enproductsDetail.asp?pid=63&bid=34" class="m6more">Learn More &gt;</a>
 </div>
-<!--第2个产品 -->
+<!--第2个产品 
     <div class="menu6txt">
     Reimagine your business, processes, and experiences. Oracle Cloud provide you with the speed and innovation of best-of-breed cloud software in a complete, secure, and connected cloud suite.
         <ul class="m6list">
@@ -172,6 +173,15 @@ var _hmt = _hmt || [];
             <a href="enproductsDetail.asp?pid=66&bid=37" class="tra">Oracle<br>HR</a>
         </ul>
         <a href="enproductsDetail.asp?pid=68&bid=37" class="m6more">Learn More &gt;</a>
+</div>
+第2个产品 -->
+<div class="menu6txt">
+  Oracle NetSuite Localized Extended Solution
+      <ul class="m6list">
+          <a href="enproductsDetail.asp?pid=68&bid=37" class="tra">Hitpoint CRM<br>for NetSuite</a>
+          <a href="enproductsDetail.asp?pid=67&bid=37" class="tra">Hitpoint Expense<br>for NetSuite</a>
+      </ul>
+      <a href="enproductsDetail.asp?pid=68&bid=37" class="m6more">Learn More &gt;</a>
 </div>
     <!--第3个产品 -->
     <div class="menu6txt">

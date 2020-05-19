@@ -103,7 +103,8 @@ var _hmt = _hmt || [];
            <li class="dropdown XGli"><a href="products.asp" class="dropdown-toggle s_link" data-toggle="dropdown">产品</a>
                   <ul class="dropdown-menu">
                     <li><a href="productsDetail.asp?pid=63&bid=34">NetSuite</a></li>
-                    <li><a href="productsDetail.asp?pid=68&bid=37">Oracle云</a></li>
+                    <li><a href="productsDetail.asp?pid=68&bid=37">Hitpoint自有产品</a></li>
+                    <!--<li><a href="productsDetail.asp?pid=68&bid=37">Oracle云</a></li>-->
                     <li><a href="productsDetail.asp?pid=71&bid=39">NetDimensions</a></li>
                   </ul>
                 </li>
@@ -162,7 +163,7 @@ var _hmt = _hmt || [];
     </ul>
     <a href="productsDetail.asp?pid=63&bid=34" class="m6more">进一步了解 &gt;</a>
 </div>
-<!--第2个产品 -->
+<!--第2个产品 
     <div class="menu6txt">
      针对大中型企业的云ERP，可提供市场上较全面的解决方案。
         <ul class="m6list">
@@ -171,6 +172,15 @@ var _hmt = _hmt || [];
             <a href="productsDetail.asp?pid=66&bid=37" class="tra">Oracle云<br>HR</a>
         </ul>
         <a href="productsDetail.asp?pid=68&bid=37" class="m6more">进一步了解 &gt;</a>
+</div>
+第2个产品 -->
+<div class="menu6txt">
+  Oracle NetSuite本地化拓展解决方案
+     <ul class="m6list">
+         <a href="productsDetail.asp?pid=68&bid=37" class="tra">微宜客</a>
+         <a href="productsDetail.asp?pid=67&bid=37" class="tra">微易报</a>
+     </ul>
+     <a href="productsDetail.asp?pid=68&bid=37" class="m6more">进一步了解 &gt;</a>
 </div>
     <!--第3个产品 -->
     <div class="menu6txt">
