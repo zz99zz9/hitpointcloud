@@ -45,17 +45,16 @@ tdkid=17
     <div class="col-md-5">
 <div class="lybor">
 <form>
-<h3>Free Demo</h3>
+<h3>Free Download</h3>
 <input class="form-control lyname" placeholder="Name" id="lyname"><span class="err form-control"></span>
 <input class="form-control lytel" placeholder="Tel" id="lytel"><span class="err form-control"></span>
 <input class="form-control lymail" placeholder="E-mail" id="lymail"><span class="err form-control"></span>
 <input class="form-control lycom" placeholder="Conpany" id="lycom"><span class="err form-control"></span>
 
 <select class="form-control lypro"  id="lypro">
-<option value="">Choose a product</option>
-<option value="NetSuite">NetSuite</option>
-<option value="Oracle云">Oracle</option>
-<option value="NetDimensions">NetDimensions</option>
+    <option value="">Select strategy white paper</option>
+    <option value="Silk Cloud Road">Silk Cloud Road</option>
+    <option value="Information China">Information China</option>
 </select><span class="err form-control"></span>
 <textarea class="form-control lytxt" placeholder="What is your primary business system need? Please fill out this field." id="lytxt"></textarea><span class="err form-control"></span>
 <p class="btn btn-lg form-control vbtn" onClick="ga('send', 'event', 'yanshiyemian', 'dianji', 'tijiaoButton', 1);">Submit</p>

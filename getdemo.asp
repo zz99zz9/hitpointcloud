@@ -43,17 +43,16 @@ tdkid=8
     <div class="col-md-5">
 <div class="lybor">
 <form>
-<h3>安排演示</h3>
+<h3>白皮书下载</h3>
 <input class="form-control lyname" placeholder="姓名" id="lyname"><span class="err form-control"></span>
 <input class="form-control lytel" placeholder="电话" id="lytel"><span class="err form-control"></span>
 <input class="form-control lymail" placeholder="邮箱" id="lymail"><span class="err form-control"></span>
 <input class="form-control lycom" placeholder="公司" id="lycom"><span class="err form-control"></span>
 
 <select class="form-control lypro"  id="lypro">
-<option value="">选择产品</option>
-<option value="NetSuite">NetSuite</option>
-<option value="Oracle云">Oracle云</option>
-<option value="NetDimensions">NetDimensions</option>
+<option value="">选择战略白皮书</option>
+<option value="丝绸云路">丝绸云路</option>
+<option value="信息中国">信息中国</option>
 </select><span class="err form-control"></span>
 <textarea class="form-control lytxt" placeholder="请在此提交您的需求，我们会在一个工作日内与您联系" id="lytxt"></textarea><span class="err form-control"></span>
 <p class="btn btn-lg form-control vbtn" onClick="ga('send', 'event', 'yanshiyemian', 'dianji', 'tijiaoButton', 1);">提交</p>
