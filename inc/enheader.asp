@@ -178,10 +178,10 @@ var _hmt = _hmt || [];
 <div class="menu6txt">
   Oracle NetSuite Localized Extended Solution
       <ul class="m6list">
-          <a href="enproductsDetail.asp?pid=68&bid=37" class="tra">Hitpoint CRM<br>for NetSuite</a>
-          <a href="enproductsDetail.asp?pid=67&bid=37" class="tra">Hitpoint Expense<br>for NetSuite</a>
+          <a href="enproductsDetail.asp?pid=75&bid=40" class="tra">Hitpoint CRM<br>for NetSuite</a>
+          <a href="enproductsDetail.asp?pid=76&bid=40" class="tra">Hitpoint Expense<br>for NetSuite</a>
       </ul>
-      <a href="enproductsDetail.asp?pid=68&bid=37" class="m6more">Learn More &gt;</a>
+      <a href="enproductsDetail.asp?pid=76&bid=40" class="m6more">Learn More &gt;</a>
 </div>
     <!--第3个产品 -->
     <div class="menu6txt">
