@@ -25,7 +25,7 @@ if rsnew("Description")<>"" then SiteCont=rsnew("description")
 <!----广告--->
 <div class="toped">
 <h5 class="wow fadeInUp">三大产品，突破不同业务瓶颈</h5>
-<p class="txt wow fadeInUp hidden-xs" data-wow-delay="150ms"><a href="productsDetail.asp?pid=63&bid=34" class="edbor tra">NetSuite</a><a href="productsDetail.asp?pid=68&bid=37" class="edbor tra">Oracle云</a><a href="productsDetail.asp?pid=71&bid=39" class="edbor tra">NetDimensions</a></p>
+<p class="txt wow fadeInUp hidden-xs" data-wow-delay="150ms"><a href="productsDetail.asp?pid=63&bid=34" class="edbor tra">NetSuite</a><a href="productsDetail.asp?pid=76&bid=40" class="edbor tra">Hitpoint自有产品</a><a href="productsDetail.asp?pid=71&bid=39" class="edbor tra">NetDimensions</a></p>
 </div>
 <!--栏目标题-->
 <div class="titleline">

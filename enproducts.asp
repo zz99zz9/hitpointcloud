@@ -12,7 +12,7 @@ tdkid=18
 <!----广告--->
 <div class="toped">
 <h5 class="wow fadeInUp">Three Products Break Through Different Bottleneck Of Business</h5>
-<p class="txt wow fadeInUp hidden-xs" data-wow-delay="150ms"><a href="#Netsuite" class="edbor tra topLink">NetSuite</a><a href="#Oracle" class="edbor tra topLink">Oracle云</a><a href="#NetDimension" class="edbor tra topLink">NetDimensions</a></p>
+<p class="txt wow fadeInUp hidden-xs" data-wow-delay="150ms"><a href="#Netsuite" class="edbor tra topLink">NetSuite</a><a href="#Oracle" class="edbor tra topLink">Hitpoint Self-developed products</a><a href="#NetDimension" class="edbor tra topLink">NetDimensions</a></p>
 </div>
 <!--产品特点-->
 <div class="protd">

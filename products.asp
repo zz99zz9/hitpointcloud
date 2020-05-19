@@ -12,7 +12,7 @@ tdkid=9
 <!----广告--->
 <div class="toped">
 <h5 class="wow fadeInUp">三大产品，突破不同业务瓶颈</h5>
-<p class="txt wow fadeInUp hidden-xs" data-wow-delay="150ms"><a href="#Netsuite" class="edbor tra topLink">NetSuite</a><a href="#Oracle" class="edbor tra topLink">Oracle云</a><a href="#NetDimension" class="edbor tra topLink">NetDimensions</a></p>
+<p class="txt wow fadeInUp hidden-xs" data-wow-delay="150ms"><a href="#Netsuite" class="edbor tra topLink">NetSuite</a><a href="#Oracle" class="edbor tra topLink">Hitpoint自有产品</a><a href="#NetDimension" class="edbor tra topLink">NetDimensions</a></p>
 </div>
 <!--产品特点-->
 <div class="protd">
