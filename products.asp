@@ -54,6 +54,30 @@ tdkid=9
 </div>
 </div>
 <div class="part2 ">
+    <div class="mao" id="Oracle"></div>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-7 " >
+    
+            <h2>Hitpoint自有产品</h2>
+            <div class="txt"><br>Oracle NetSuite本地化拓展解决方案<br>
+            <ul class="ilist">
+                    <a href="productsDetail.asp?pid=75&bid=40">微宜客</a>
+                    <a href="productsDetail.asp?pid=76&bid=40">微易报</a>
+            </ul>
+            </div>
+    
+             <div class="c"></div>
+            <a href="productsDetail.asp?pid=76&bid=40" class="ibtn">进一步了解<em class="more-arr tra">&gt;</em></a>
+    
+        </div>
+            <div class="col-md-5" >
+                <img src="xgwl/img/7/co2.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms" >
+            </div>
+    </div>
+    </div>
+    </div>
+<!-- <div class="part2 ">
 <div class="mao" id="Oracle"></div>
 <div class="container">
 <div class="row">
@@ -77,7 +101,7 @@ tdkid=9
         </div>
 </div>
 </div>
-</div>
+</div> -->
 <div class="part1 ">
 <div class="mao" id="NetDimension"></div>
 <div class="container">

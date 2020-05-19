@@ -54,12 +54,37 @@ tdkid=18
 </div>
 </div>
 <div class="part2 ">
+    <div class="mao" id="Oracle"></div>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-7 " >
+    
+            <h2>Hitpoint Self-developed products</h2>
+            <div class="txt"><br>Oracle NetSuite Localized Extended Solution<br>
+            <ul class="ilist">
+                    <a href="enproductsDetail.asp?pid=75&bid=40">Hitpoint CRM<br>for NetSuite</a>
+                    <a href="enproductsDetail.asp?pid=76&bid=40">Hitpoint Expense<br>for NetSuite</a>
+
+            </ul>
+            </div>
+    
+             <div class="c"></div>
+            <a href="enproductsDetail.asp?pid=76&bid=40" class="ibtn">Learn More<em class="more-arr tra">&gt;</em></a>
+    
+        </div>
+            <div class="col-md-5" >
+                <img src="xgwl/img/7/co2.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms" >
+            </div>
+    </div>
+    </div>
+    </div>
+<!-- <div class="part2 ">
 <div class="mao" id="Oracle"></div>
 <div class="container">
 <div class="row">
     <div class="col-md-7 " >
 
-        <h2>Oracle</h2>
+        <h2>Hitpoint Self-developed products</h2>
         <div class="txt"><br>Reimagine your business, processes, and experiences. Oracle Cloud provide you with the speed and innovation of best-of-breed cloud software in a complete, secure, and connected cloud suite.<br>
         <ul class="ilist">
                 <a href="enproductsDetail.asp?pid=67&bid=37">Oracle<br>CX</a>
@@ -77,7 +102,7 @@ tdkid=18
         </div>
 </div>
 </div>
-</div>
+</div> -->
 <div class="part1 ">
 <div class="mao" id="NetDimension"></div>
 <div class="container">
