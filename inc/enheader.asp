@@ -150,7 +150,7 @@ var _hmt = _hmt || [];
     <div class="pc-menu6">
     <ul class="menu6list TABa" id=".menu6txt">
     <a href="enproductsDetail.asp?pid=63&bid=34" class="on">NetSuite<em>&gt;</em></a>
-    <a href="enproductsDetail.asp?pid=68&bid=37">Oracle<em>&gt;</em></a>
+    <a href="enproductsDetail.asp?pid=68&bid=37">Hitpoint Self-developed products<em>&gt;</em></a>
     <a href="enproductsDetail.asp?pid=69&bid=39">NetDimensions<em>&gt;</em></a></ul>
     <!--第一个产品 -->
     <div class="menu6txt" style="display:block;">
