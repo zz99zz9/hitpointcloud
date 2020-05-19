@@ -100,7 +100,7 @@
         	loop
         prs.close
         set prs=nothing
-        %><br>Copyright © 2012-2019 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. <a href="http://www.beian.miit.gov.cn/" target="_blank">沪ICP备12043419号-1</a>
+        %><br>Copyright © 2012-2019 By Hitpoint Cloud Co.,Ltd. All Rights Reserved. <a href="http://www.beian.miit.gov.cn/" target="_blank">沪ICP备12043419号-1</a>
         </p>
         </div>
         </div>

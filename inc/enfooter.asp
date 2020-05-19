@@ -99,7 +99,7 @@
         	loop
         prs.close
         set prs=nothing
-        %><br>Copyright © 2012-2019 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
+        %><br>Copyright © 2012-2019 By Hitpoint Cloud Co.,Ltd. All Rights Reserved. ICP:12043419-1
         </p>
         </div>
         </div>
