@@ -29,8 +29,10 @@ tdkid=1
 
         if i=0 then
         number="One"
-        url="http://www.hitpointcloud.com/hqs.html"
-        text="抢先体验"
+      ' url="http://www.hitpointcloud.com/hqs.html"
+      ' text="抢先体验"
+        url="getdemo.asp"
+        text="获取演示 | DEMO"
         elseif i=1 then
         number="Two"
         url="getdemo.asp"
