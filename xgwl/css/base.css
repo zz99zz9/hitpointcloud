@@ -125,6 +125,7 @@ h2{font-size:40px;font-weight:100;color:#333;}
 
 /*中国本土化页面内容*/
 .ppleft{width:30%;}
+.ppleft img{width:100%;}
 .ppright{width:70%;}
 @media (max-width:768px){
 /*body{padding-top:70px;}*/
