@@ -124,9 +124,9 @@ h2{font-size:40px;font-weight:100;color:#333;}
 .pages a.no{background:#f7f7f7;color:#999;border:1px solid #ebebeb;}
 
 /*中国本土化页面内容*/
-.ppleft{width:30%;}
+.ppleft{}
 .ppleft img{width:100%;}
-.ppright{width:70%;}
+.ppright{}
 @media (max-width:768px){
 /*body{padding-top:70px;}*/
 	.my-navbar {padding:10px 0 10px 10px;background:rgba(0,0,0,0.8);position:fixed;top:0;left:0;width:100%;}
