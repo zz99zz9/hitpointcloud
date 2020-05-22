@@ -20,7 +20,7 @@ v=request.QueryString("v")
 <div class="titleline">
     <div class="container">
     <div class="row">
-        <span class="tit"><% call sHowtit(v)%></span><span class="tbtn tra hand">在线咨询</span>
+        <span class="tit"><% call sHowtit(v)%></span><a class="tbtn tra hand" href="getdemo.asp">在线咨询</a>
     </div>
     </div>
 </div>
