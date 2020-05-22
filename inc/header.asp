@@ -177,8 +177,8 @@ var _hmt = _hmt || [];
 <div class="menu6txt">
   Oracle NetSuite本地化拓展解决方案
      <ul class="m6list">
-         <a href="productsDetail.asp?pid=75&bid=40" class="tra">微宜客</a>
-         <a href="productsDetail.asp?pid=76&bid=40" class="tra">微易报</a>
+         <a href="productsDetail.asp?pid=75&bid=40" class="tra">Hitpoint<br>微宜客</a>
+         <a href="productsDetail.asp?pid=76&bid=40" class="tra">Hitpoint<br>微易报</a>
      </ul>
      <a href="productsDetail.asp?pid=76&bid=40" class="m6more">进一步了解 &gt;</a>
 </div>
