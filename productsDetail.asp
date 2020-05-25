@@ -73,6 +73,7 @@ if rsnew("Description")<>"" then SiteCont=rsnew("description")
 </div>
 </div>
 </div>
+<% if pid<>76 and pid<>75 then%>
 <div class="part2 ">
 <div class="container">
 <div class="row">
@@ -86,12 +87,15 @@ case 72
 casename="方案分类"
 case 73
 casename="行业分类"
+
 case else
 casename="具体内容"
 end select%>
 <h2><%=casename%></h2>
 <%else%>
+
 <h2>功能模块</h2>
+
 <%end if%>
 <ul class="promenu TAB" id=".promain">
 <%        sql="select * From [p_gnmk] where pid="&rsnew("ArticleID")
@@ -156,6 +160,7 @@ end select%>
 </div>
 </div>
 </div>
+<%end if%>
 <%end if%>
 <% if rs("pic2")<>"" then%>
 <div class="part2 ">
