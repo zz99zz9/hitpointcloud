@@ -3,7 +3,6 @@
 <!--#include file="inc/Function.asp"-->
 <!--#include file="inc/Inc.Asp"-->
 <%
-
 dim tdkid
 tdkid=9
 bid=request.QueryString("bid")
@@ -33,7 +32,6 @@ if rsnew("Description")<>"" then SiteCont=rsnew("description")
     <div class="row">
     <div class="col-md-12">
         <span class="tit"><%call ShowBCName(bid)%></span><a class="tbtn tra hand" href="getdemo.asp">安排演示</a><span class="tmenu hidden-xs">
-         
                               <%
                               set rsnew=Server.CreateObject("ADODB.Recordset")
                                 sqlnew="select * from [Table_Product] where Passed=true and Bigclassid="&bid
@@ -95,11 +93,9 @@ end select%>
 <%else%>
 <h2>功能模块</h2>
 <%end if%>
-
 <ul class="promenu TAB" id=".promain">
 <%        sql="select * From [p_gnmk] where pid="&rsnew("ArticleID")
           sql=sql & " order by oid desc"
-
           Set rs= Server.CreateObject("ADODB.Recordset")
           rs.open sql,conn,1,1
           gi=0
@@ -124,7 +120,6 @@ end select%>
 <div class="promain " <%if gi=0 then%>style="display:block;"<%end if%>><%=rs("txt")%></div>
  <%
 	gi=gi+1
-
 	      rs.movenext
 	loop
  rs.close
@@ -149,19 +144,14 @@ end select%>
 <div class="part1 ">
 <div class="container">
 <div class="row">
-
         <div class="col-md-6" >
             <img src="<%=rs("pic1")%>" class="co1 wow bounceInLeft " data-wow-delay="100ms" >
         </div>
         <div class="col-md-6 " >
-
                 <div class="txt"><%=rs("txt1")%>
 <br>
-
                         </div>
-
                  <div class="c"></div>
-
             </div>
 </div>
 </div>
@@ -188,19 +178,14 @@ end select%>
 <div class="part1 ">
 <div class="container">
 <div class="row">
-
         <div class="col-md-6" >
             <img src="<%=rs("pic3")%>" class="co1 wow bounceInLeft " data-wow-delay="100ms" >
         </div>
         <div class="col-md-6 " >
-
                 <div class="txt"><%=rs("txt3")%>
 <br>
-
                         </div>
-
                  <div class="c"></div>
-
             </div>
 </div>
 </div>
@@ -210,15 +195,10 @@ end select%>
 <div class="part2 ">
 <div class="container">
 <div class="row">
-
-
         <div class="col-md-6 " >
-
                 <div class="txt"><%=rs("txt4")%>
 <br>
-
                         </div>
-
                  <div class="c"></div>
 
             </div>
@@ -228,7 +208,6 @@ end select%>
 </div>
 </div>
 </div>
-
 <%end if
 %></div>
 <%
