@@ -73,7 +73,7 @@ if rsnew("Description")<>"" then SiteCont=rsnew("description")
 </div>
 </div>
 </div>
-<% if pid<>76 and pid<>75 then%>
+<%if pid<>76 and pid<>75 then%>
 <div class="part2 ">
 <div class="container">
 <div class="row">
@@ -134,6 +134,7 @@ end select%>
 </div>
 </div>
 </div>
+<%end if%>
 <!--后加四块-->
 <%        sql="select * From [p_gnmk] where  pid="&rsnew("ArticleID")
           sql=sql & " order by oid desc"
@@ -161,7 +162,7 @@ end select%>
 </div>
 </div>
 <%end if%>
-<%end if%>
+
 <% if rs("pic2")<>"" then%>
 <div class="part2 ">
 <div class="container">
