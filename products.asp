@@ -62,8 +62,8 @@ tdkid=9
             <h2>Hitpoint自有产品</h2>
             <div class="txt"><br>Oracle NetSuite本地化拓展解决方案<br>
             <ul class="ilist">
-                    <a href="productsDetail.asp?pid=75&bid=40">微宜客</a>
-                    <a href="productsDetail.asp?pid=76&bid=40">微易报</a>
+                    <a href="productsDetail.asp?pid=75&bid=40">Hitpoint<br>微宜客</a>
+                    <a href="productsDetail.asp?pid=76&bid=40">Hitpoint<br>微易报</a>
             </ul>
             </div>
     
