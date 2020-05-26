@@ -125,7 +125,7 @@ if rsnew("Descriptionen")<>"" then SiteCont=rsnew("descriptionen")
 </div>
 </div>
 </div>
-<%enf if%>
+<%end if%>
 <!--后加四块-->
 <%        sql="select * From [p_gnmk] where  pid="&rsnew("ArticleID")
           sql=sql & " order by oid desc"
