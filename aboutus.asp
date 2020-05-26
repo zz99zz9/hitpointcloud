@@ -26,8 +26,10 @@ tdkid=2
 &nbsp;&nbsp;&nbsp;&nbsp;Hitpoint总部位于上海，在深圳，北京，南京设有分支机构。作为一支真正具有云基因的团队， Hitpoint拥有超过100人的实施开发队伍支撑客户业务高效运转，将全球最先进的云计算技术和软件，落地到中国、运用到企业；在一带一路与全球化的背景下，为外资企业本地化，中国企业走出去提供管理系统与软件的支撑。使云时代的每一位客户都能释放潜能，获得更大的成功，帮助企业智慧致胜未来。</div>
     </div>
     <div class="col-md-6">
-    <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-<!--        <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">-->
+    
+        <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=g0972u6kuww" allowFullScreen="true"></iframe>
+ <!--           <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+        <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">-->
     </div>
 </div>
 </div>
