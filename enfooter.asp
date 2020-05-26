@@ -83,7 +83,7 @@
         <div class="container">
         <div class="row">
         <p>
-        Links：<a href="http://www.funacc.com/" target="_blank">FunAcc</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funacc.com/" target="_blank">FunAcc</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funacc.com/" target="_blank">FunAcc</a><br>Copyright © 2016-2017 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
+        Links：<a href="http://www.funacc.com/" target="_blank">FunAcc</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funacc.com/" target="_blank">FunAcc</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.funacc.com/" target="_blank">FunAcc</a><br>Copyright © 2012-2020 By Hitpoint Cloud CO.,Ltd. All Rights Reserved. ICP:12043419-1
         </p>
         </div>
         </div>
