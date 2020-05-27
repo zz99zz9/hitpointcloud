@@ -30,20 +30,25 @@ tdkid=10
         <%do while not prs.eof
         if i=0 then
         number="One"
+        url="getdemo2.asp"
         elseif i=1 then
         number="Two"
+        url="getdemo2.asp"
         elseif i=2 then
         number="Three"
+        url="getdemo.asp"
         elseif i=3 then
         number="Four"
+        url="getdemo.asp"
         elseif i=4 then
         number="Five"
+        url="getdemo.asp"
         end if
        %>
 
                                 <div class="item <%if i=0 then%>active<%end if%> "  style="background:url('<%=prs("file")%>') center top;height:800px;">
                                                     <div class="edinfo wow fadeInDown"><h1><%=prs("stit")%></h1><%=prs("stxt")%> <br>
-                                                    </div><a class="edbtn wow fadeInUp" href="engetdemo.asp" onClick="ga('send', 'event', 'shouye', 'yanshi', 'Banner<%=number%>', 1);">DEMO</a>
+                                                    </div><a class="edbtn wow fadeInUp" href="en<%=url%>" onClick="ga('send', 'event', 'shouye', 'yanshi', 'Banner<%=number%>', 1);">DEMO</a>
                              </div>
          <%
         	i=i+1
