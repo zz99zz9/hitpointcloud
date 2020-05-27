@@ -52,7 +52,7 @@ h2{font-size:30px !important;}
 <div class="row">
     <div class="col-md-6"><h2>南京分公司</h2>
     <div class="txt">
-                     地址：南京江北新区星火路20号星火创业大厦1号楼1303-1304室<br>
+                     地址：南京市浦口区星火路19号星智汇商务花园14-2B栋8楼808室<br>
                      电话：（86-25）5811-7955<br>
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
