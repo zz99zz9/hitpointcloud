@@ -30,8 +30,8 @@ tdkid=2
    <!--       <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=g0972u6kuww" allowFullScreen="true" class="co1 wow bounceInRight " data-wow-delay="100ms" quality="high" width="480" height="400" ></iframe>
           <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
         <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">-->
-        <video width="320" height="240" controls="controls">
-            <source src="http://video.hitpointcloud.com/1590400703938047.mp4" type="video/mp4" width="480" height="400" class="co1 wow bounceInRight " data-wow-delay="100ms">
+        <video width="320" height="240" controls="controls" width="480" height="400" class="co1 wow bounceInRight " data-wow-delay="100ms">
+            <source src="http://video.hitpointcloud.com/1590400703938047.mp4" type="video/mp4">
           Your browser does not support the video tag.
           </video>
     </div>
