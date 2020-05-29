@@ -27,8 +27,8 @@ tdkid=2
     </div>
     <div class="col-md-6">
     
-        <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=g0972u6kuww" allowFullScreen="true" class="co1 wow bounceInRight " data-wow-delay="100ms" quality="high" width="480" height="400" ></iframe>
- <!--           <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+   <!--       <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=g0972u6kuww" allowFullScreen="true" class="co1 wow bounceInRight " data-wow-delay="100ms" quality="high" width="480" height="400" ></iframe>
+          <embed src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=a0721iuxt9y&auto=0" class="co1 wow bounceInRight " data-wow-delay="100ms" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
         <img src="xgwl/img/8/co1.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">-->
         
         <video src="http://video.hitpointcloud.com/1590400703938047.mp4" controls="controls" width="480" height="400" class="co1 wow bounceInRight " data-wow-delay="100ms" quality="high">您的浏览器不支持播放该视频！</video>
