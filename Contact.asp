@@ -57,7 +57,7 @@ h2{font-size:30px !important;}
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
-        <img src="xgwl/img/8/co2.jpg" class="co1 ">
+        <img src="xgwl/img/8/co4.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">
     </div>
 </div>
 </div>
@@ -71,7 +71,7 @@ h2{font-size:30px !important;}
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
-        <img src="xgwl/img/8/co2.jpg" class="co1  " >
+        <img src="xgwl/img/8/co5.jpg" class="co1 wow bounceInRight " data-wow-delay="100ms">
     </div>
 </div>
 </div>
@@ -85,7 +85,7 @@ h2{font-size:30px !important;}
                      <!--    <a href="#" class="ibtn tra">查看地图<em class="more-arr tra">&gt;</em></a>--></div>
     </div>
     <div class="col-md-6">
-        <img src="xgwl/img/8/co2.jpg" class="co1 " >
+        <img src="xgwl/img/8/co6.jpg"  class="co1 wow bounceInRight " data-wow-delay="100ms">
     </div>
 </div>
 </div>
